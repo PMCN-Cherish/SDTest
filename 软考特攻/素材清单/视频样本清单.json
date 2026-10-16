@@ -1,0 +1,3828 @@
+{
+  "软件工程-开发模型": [
+    {
+      "bvid": "BV1rc411t71D",
+      "title": "【2026软考中级-软件设计师】基础阶段|考点理论精讲【已完结】",
+      "author": "学以致知Learning",
+      "play": 1113062,
+      "duration": "807:54",
+      "url": "https://www.bilibili.com/video/BV1rc411t71D",
+      "keyword": "软考 软件设计师 开发模型 瀑布 螺旋"
+    },
+    {
+      "bvid": "BV1ai4y1f7ot",
+      "title": "「软件设计师」 下午题 #1 试题一",
+      "author": "zst_2001",
+      "play": 875615,
+      "duration": "790:14",
+      "url": "https://www.bilibili.com/video/BV1ai4y1f7ot",
+      "keyword": "软考 软件设计师 开发模型 瀑布 螺旋"
+    },
+    {
+      "bvid": "BV1RA41167a6",
+      "title": "【拯救者】软件工程速成(期末+考研复试+软考)均适用. 支持4K",
+      "author": "编程张无忌",
+      "play": 389633,
+      "duration": "78:44",
+      "url": "https://www.bilibili.com/video/BV1RA41167a6",
+      "keyword": "软考 软件工程 V模型 敏捷"
+    },
+    {
+      "bvid": "BV13iDvBVENd",
+      "title": "【全网最全】26软考中级软件设计师（软设）保姆级跟学视频+历年真题+案例训练营+模拟题带练+考前冲刺+配套资料包！",
+      "author": "软考小灵通",
+      "play": 335224,
+      "duration": "5011:49",
+      "url": "https://www.bilibili.com/video/BV13iDvBVENd",
+      "keyword": "软考 软件设计师 开发模型 瀑布 螺旋"
+    },
+    {
+      "bvid": "BV15WkVBYEG8",
+      "title": "【全200集】已付费，允许白嫖！26年软考《软件设计师》，完整版系统精讲视频课程，从入门到通关一次上岸！附全套备考资料，快存下吧，很难找全的！",
+      "author": "半岛阳光xy",
+      "play": 150960,
+      "duration": "4025:17",
+      "url": "https://www.bilibili.com/video/BV15WkVBYEG8",
+      "keyword": "软考 软件设计师 开发模型 瀑布 螺旋"
+    },
+    {
+      "bvid": "BV1rW411K7vD",
+      "title": "7分钟视频：什么是敏捷开发Scrum",
+      "author": "明道云",
+      "play": 129718,
+      "duration": "7:24",
+      "url": "https://www.bilibili.com/video/BV1rW411K7vD",
+      "keyword": "软考 软件工程 V模型 敏捷"
+    },
+    {
+      "bvid": "BV17aPieaETx",
+      "title": "《软件工程》45分钟期末速成",
+      "author": "继超jichao",
+      "play": 117502,
+      "duration": "45:53",
+      "url": "https://www.bilibili.com/video/BV17aPieaETx",
+      "keyword": "软考 软件工程 V模型 敏捷"
+    },
+    {
+      "bvid": "BV1M6dWYFE1R",
+      "title": "软考之1小时教会你满分拿下软件设计师编程题",
+      "author": "程序猿龙猫",
+      "play": 69833,
+      "duration": "48:19",
+      "url": "https://www.bilibili.com/video/BV1M6dWYFE1R",
+      "keyword": "软考 软件设计师 开发模型 瀑布 螺旋"
+    },
+    {
+      "bvid": "BV1Ke4y1N7uH",
+      "title": "1-33 软件开发常用的6种开发模型",
+      "author": "NET吴老师",
+      "play": 21933,
+      "duration": "12:21",
+      "url": "https://www.bilibili.com/video/BV1Ke4y1N7uH",
+      "keyword": "软考 软件设计师 开发模型 瀑布 螺旋"
+    },
+    {
+      "bvid": "BV1je4y1D7vi",
+      "title": "软件工程——2.3.1瀑布模型.mp4",
+      "author": "在海景教室学软工",
+      "play": 20230,
+      "duration": "6:31",
+      "url": "https://www.bilibili.com/video/BV1je4y1D7vi",
+      "keyword": "软考 软件设计师 开发模型 瀑布 螺旋"
+    }
+  ],
+  "软件工程-内聚耦合": [
+    {
+      "bvid": "BV1gk4y1u7f9",
+      "title": "模块化-高内聚，低耦合",
+      "author": "请默默努力吧",
+      "play": 11251,
+      "duration": "5:35",
+      "url": "https://www.bilibili.com/video/BV1gk4y1u7f9",
+      "keyword": "模块独立性 高内聚低耦合 软考"
+    },
+    {
+      "bvid": "BV16k4y1b7gC",
+      "title": "06-分析与设计概念-解耦与内聚",
+      "author": "李鸿君",
+      "play": 6306,
+      "duration": "19:29",
+      "url": "https://www.bilibili.com/video/BV16k4y1b7gC",
+      "keyword": "软件设计师 内聚类型 耦合类型 真题"
+    },
+    {
+      "bvid": "BV1pw411N7EN",
+      "title": "52.独立 低耦合 高内聚 模块特性 接口 模块独立性",
+      "author": "oeasy",
+      "play": 6024,
+      "duration": "7:12",
+      "url": "https://www.bilibili.com/video/BV1pw411N7EN",
+      "keyword": "模块独立性 高内聚低耦合 软考"
+    },
+    {
+      "bvid": "BV1Lr421j7PF",
+      "title": "模块耦合和内聚经典题目分析",
+      "author": "昊洋讲软考",
+      "play": 4547,
+      "duration": "5:35",
+      "url": "https://www.bilibili.com/video/BV1Lr421j7PF",
+      "keyword": "软件设计师 内聚类型 耦合类型 真题"
+    },
+    {
+      "bvid": "BV1E1L4zhE8h",
+      "title": "软件工程导论 七分钟搞懂內聚耦合带你考高分",
+      "author": "变量不迷茫",
+      "play": 3383,
+      "duration": "7:44",
+      "url": "https://www.bilibili.com/video/BV1E1L4zhE8h",
+      "keyword": "软件设计师 内聚类型 耦合类型 真题"
+    },
+    {
+      "bvid": "BV1LojG66EhK",
+      "title": "什么是高内聚、低耦合、软件模块",
+      "author": "立芯嵌入式",
+      "play": 2910,
+      "duration": "4:43",
+      "url": "https://www.bilibili.com/video/BV1LojG66EhK",
+      "keyword": "软件设计师 内聚类型 耦合类型 真题"
+    },
+    {
+      "bvid": "BV1VMYE64E8A",
+      "title": "备考必看！2026年软考中级软件设计师历年真题解析🔥最新版试题讲解视频合集，逐题精讲，建议收藏，一次通关上岸！",
+      "author": "希赛软考",
+      "play": 2394,
+      "duration": "850:48",
+      "url": "https://www.bilibili.com/video/BV1VMYE64E8A",
+      "keyword": "软件设计师 内聚类型 耦合类型 真题"
+    },
+    {
+      "bvid": "BV1BmrqBgE5Z",
+      "title": "Maven多模块拆分实战，让代码高内聚、低耦合，零乱代码秒变整洁，新手也能玩转多模块开发，拯救祖传“屎山”代码！",
+      "author": "钟老师AI全栈实战",
+      "play": 1926,
+      "duration": "106:33",
+      "url": "https://www.bilibili.com/video/BV1BmrqBgE5Z",
+      "keyword": "模块独立性 高内聚低耦合 软考"
+    },
+    {
+      "bvid": "BV1SHuQ6HE4u",
+      "title": "【软考软设】2026年软考软件设计师最新题库：历年真题+C语言算法题+经典习题+模拟题合集！（软考中级 | 软考软件设计师考试 | 有电子版，快存下复习吧）",
+      "author": "软考bot",
+      "play": 1214,
+      "duration": "1254:14",
+      "url": "https://www.bilibili.com/video/BV1SHuQ6HE4u",
+      "keyword": "软件设计师 内聚类型 耦合类型 真题"
+    },
+    {
+      "bvid": "BV1iY3y6UEsa",
+      "title": "5 分半讲透架构核心思想：高内聚低耦合、SOLID、DDD 一次搞懂（全程动画 + 代码对照）",
+      "author": "郭宏志-老郭",
+      "play": 1091,
+      "duration": "5:35",
+      "url": "https://www.bilibili.com/video/BV1iY3y6UEsa",
+      "keyword": "模块独立性 高内聚低耦合 软考"
+    }
+  ],
+  "软件工程-测试": [],
+  "软件工程-项目管理CPM": [
+    {
+      "bvid": "BV1EQ4y1v7iV",
+      "title": "三分钟求【关键路径】",
+      "author": "宇宙无敌亮噢真的好亮",
+      "play": 397731,
+      "duration": "3:7",
+      "url": "https://www.bilibili.com/video/BV1EQ4y1v7iV",
+      "keyword": "软考 关键路径 PERT"
+    },
+    {
+      "bvid": "BV1jZ421W7y4",
+      "title": "Excel制作动态甘特图教程，横道图/项目进度图全流程教学",
+      "author": "策栩课堂",
+      "play": 279588,
+      "duration": "16:39",
+      "url": "https://www.bilibili.com/video/BV1jZ421W7y4",
+      "keyword": "软件设计师 甘特图 项目管理"
+    },
+    {
+      "bvid": "BV1TF411p7Y2",
+      "title": "project 制作甘特图的一个简单入门教程",
+      "author": "泉水1680",
+      "play": 248931,
+      "duration": "28:38",
+      "url": "https://www.bilibili.com/video/BV1TF411p7Y2",
+      "keyword": "软件设计师 甘特图 项目管理"
+    },
+    {
+      "bvid": "BV17G411K7NJ",
+      "title": "项目活动图求关键路径，完成项目最少时间",
+      "author": "没有感情的小秃头",
+      "play": 102355,
+      "duration": "22:15",
+      "url": "https://www.bilibili.com/video/BV17G411K7NJ",
+      "keyword": "软考 关键路径 PERT"
+    },
+    {
+      "bvid": "BV1wRFNerE3w",
+      "title": "软考中级速通个人经验分享-系统集成项目管理工程师",
+      "author": "四十岁emo",
+      "play": 92517,
+      "duration": "9:0",
+      "url": "https://www.bilibili.com/video/BV1wRFNerE3w",
+      "keyword": "软考 关键路径 PERT"
+    },
+    {
+      "bvid": "BV1114y1S7N7",
+      "title": "拒绝挂科！义父讲题之软件项目管理ES，EF，LS，LF，TF，FF计算，网络图，关键路径，成本压缩",
+      "author": "在下小不文",
+      "play": 80562,
+      "duration": "22:25",
+      "url": "https://www.bilibili.com/video/BV1114y1S7N7",
+      "keyword": "软件设计师 甘特图 项目管理"
+    },
+    {
+      "bvid": "BV1Ex4y1x7av",
+      "title": "平均月薪25K的项目经理PM四年工作经验简单分享",
+      "author": "网友呜小呜",
+      "play": 75593,
+      "duration": "12:47",
+      "url": "https://www.bilibili.com/video/BV1Ex4y1x7av",
+      "keyword": "软件设计师 甘特图 项目管理"
+    },
+    {
+      "bvid": "BV1Zw4m117z8",
+      "title": "如何设计负责一个项目",
+      "author": "玄米4S",
+      "play": 67253,
+      "duration": "19:20",
+      "url": "https://www.bilibili.com/video/BV1Zw4m117z8",
+      "keyword": "软件设计师 甘特图 项目管理"
+    },
+    {
+      "bvid": "BV1jM41127mw",
+      "title": "多项目并行怎么高效记todo？工作党学生党都用得上的甘特图（扩展包）用法分享",
+      "author": "一个吉人",
+      "play": 52324,
+      "duration": "11:19",
+      "url": "https://www.bilibili.com/video/BV1jM41127mw",
+      "keyword": "软件设计师 甘特图 项目管理"
+    },
+    {
+      "bvid": "BV1gC4y1Q7Zy",
+      "title": "光速学会关键路径",
+      "author": "白话拆解数据结构",
+      "play": 28093,
+      "duration": "11:37",
+      "url": "https://www.bilibili.com/video/BV1gC4y1Q7Zy",
+      "keyword": "软考 关键路径 PERT"
+    }
+  ],
+  "软件工程-维护": [
+    {
+      "bvid": "BV1FPCzYdEeH",
+      "title": "一口气从零到全栈开发",
+      "author": "三分钟实验室",
+      "play": 979635,
+      "duration": "144:12",
+      "url": "https://www.bilibili.com/video/BV1FPCzYdEeH",
+      "keyword": "软件维护 类型"
+    },
+    {
+      "bvid": "BV13iDvBVENd",
+      "title": "【全网最全】26软考中级软件设计师（软设）保姆级跟学视频+历年真题+案例训练营+模拟题带练+考前冲刺+配套资料包！",
+      "author": "软考小灵通",
+      "play": 335433,
+      "duration": "5011:49",
+      "url": "https://www.bilibili.com/video/BV13iDvBVENd",
+      "keyword": "软件维护 类型"
+    },
+    {
+      "bvid": "BV154426xEha",
+      "title": "我的 AI 编程全流程：如何使用 AI 稳定交付一个高质量的产品",
+      "author": "马克的技术工作坊",
+      "play": 280562,
+      "duration": "24:55",
+      "url": "https://www.bilibili.com/video/BV154426xEha",
+      "keyword": "软件工程 维护"
+    },
+    {
+      "bvid": "BV1HN4y1F7VQ",
+      "title": "零基础学习软件实施技能，实施工程师岗位培训之《实施岗位职责与工作流程篇》",
+      "author": "IT微工场",
+      "play": 172192,
+      "duration": "64:45",
+      "url": "https://www.bilibili.com/video/BV1HN4y1F7VQ",
+      "keyword": "软件维护 类型"
+    },
+    {
+      "bvid": "BV17aPieaETx",
+      "title": "《软件工程》45分钟期末速成",
+      "author": "继超jichao",
+      "play": 117503,
+      "duration": "45:53",
+      "url": "https://www.bilibili.com/video/BV17aPieaETx",
+      "keyword": "软件工程 维护"
+    },
+    {
+      "bvid": "BV1rrVd6fEsm",
+      "title": "基于混子导向的技术岗速成实习路线，纯焚决",
+      "author": "炒肉多ovo",
+      "play": 102810,
+      "duration": "29:17",
+      "url": "https://www.bilibili.com/video/BV1rrVd6fEsm",
+      "keyword": "软件维护 类型"
+    },
+    {
+      "bvid": "BV13UxXzDE6q",
+      "title": "【中配】13年程序员总结：让你少走10年弯路 - Web Developete",
+      "author": "黑纹白斑马",
+      "play": 87329,
+      "duration": "8:38",
+      "url": "https://www.bilibili.com/video/BV13UxXzDE6q",
+      "keyword": "软件工程 维护"
+    },
+    {
+      "bvid": "BV1oMXhYpEff",
+      "title": "软件工程大提速成（上）：问题定义+可行性分析+需求说明+数据流图+er图+ipo图",
+      "author": "愤怒烤红薯统治地球",
+      "play": 57772,
+      "duration": "9:9",
+      "url": "https://www.bilibili.com/video/BV1oMXhYpEff",
+      "keyword": "软件工程 维护"
+    },
+    {
+      "bvid": "BV1hN4y1s77e",
+      "title": "做个很小众的应用就可以月入数万，为什么多数程序员都不做个人开发？",
+      "author": "王总爱吃不吃香菜",
+      "play": 42312,
+      "duration": "15:1",
+      "url": "https://www.bilibili.com/video/BV1hN4y1s77e",
+      "keyword": "软件维护 类型"
+    },
+    {
+      "bvid": "BV1Pihc64E6d",
+      "title": "深入浅出《软件工程》（目前每周两更～）",
+      "author": "逊哥带你学计算机",
+      "play": 37536,
+      "duration": "787:8",
+      "url": "https://www.bilibili.com/video/BV1Pihc64E6d",
+      "keyword": "软件工程 维护"
+    }
+  ],
+  "数据结构-二叉树遍历": [
+    {
+      "bvid": "BV1Ub4y147Zv",
+      "title": "【纯干货】三分钟教会你遍历二叉树！学不会举报我！！",
+      "author": "阿琛w",
+      "play": 707706,
+      "duration": "3:6",
+      "url": "https://www.bilibili.com/video/BV1Ub4y147Zv",
+      "keyword": "软考 二叉树 遍历"
+    },
+    {
+      "bvid": "BV1Xu411d7qf",
+      "title": "无脑秒解！已知先/后序遍历与中序遍历，求后/先序遍历。",
+      "author": "迷茫的1999",
+      "play": 644526,
+      "duration": "6:43",
+      "url": "https://www.bilibili.com/video/BV1Xu411d7qf",
+      "keyword": "软考 二叉树 遍历"
+    },
+    {
+      "bvid": "BV1tZ421q72h",
+      "title": "平衡二叉树(AVL树)",
+      "author": "蓝不过海呀",
+      "play": 533134,
+      "duration": "13:25",
+      "url": "https://www.bilibili.com/video/BV1tZ421q72h",
+      "keyword": "软考 二叉树 遍历"
+    },
+    {
+      "bvid": "BV1tW4y1M7FC",
+      "title": "二叉树的先序、中序、后序遍历排序",
+      "author": "没有感情的小秃头",
+      "play": 451987,
+      "duration": "7:58",
+      "url": "https://www.bilibili.com/video/BV1tW4y1M7FC",
+      "keyword": "软考 二叉树 遍历"
+    },
+    {
+      "bvid": "BV1hw4m1q7DF",
+      "title": "【有挂！！】二叉树遍历秒解，前序遍历、中序遍历、后序遍历",
+      "author": "图码",
+      "play": 208214,
+      "duration": "3:4",
+      "url": "https://www.bilibili.com/video/BV1hw4m1q7DF",
+      "keyword": "软考 二叉树 遍历"
+    },
+    {
+      "bvid": "BV1eQ3RzxEoS",
+      "title": "数据结构合集 - 二叉树&amp;完全二叉树(定义, 性质)",
+      "author": "蓝不过海呀",
+      "play": 206325,
+      "duration": "25:55",
+      "url": "https://www.bilibili.com/video/BV1eQ3RzxEoS",
+      "keyword": "软考 二叉树 遍历"
+    },
+    {
+      "bvid": "BV12T411J72x",
+      "title": "数据结构合集 - 二叉树的遍历(前序遍历, 中序遍历, 后序遍历, 层序遍历)",
+      "author": "蓝不过海呀",
+      "play": 204984,
+      "duration": "15:29",
+      "url": "https://www.bilibili.com/video/BV12T411J72x",
+      "keyword": "软件设计师 二叉树 中序前序"
+    },
+    {
+      "bvid": "BV1iU4y1B7D7",
+      "title": "二叉树-前序中序推后序, 后序中序推前序, 看完秒懂！！！(考研数据结构)",
+      "author": "蓝不过海呀",
+      "play": 159124,
+      "duration": "14:20",
+      "url": "https://www.bilibili.com/video/BV1iU4y1B7D7",
+      "keyword": "软件设计师 二叉树 中序前序"
+    },
+    {
+      "bvid": "BV1xBqZBAE12",
+      "title": "树、森林与二叉树的转换，树和森林的遍历",
+      "author": "蓝不过海呀",
+      "play": 131491,
+      "duration": "19:24",
+      "url": "https://www.bilibili.com/video/BV1xBqZBAE12",
+      "keyword": "软考 二叉树 遍历"
+    },
+    {
+      "bvid": "BV1RtezzTEz9",
+      "title": "数据结构合集 - 二叉树的构造(前序中序、后序中序、层序中序构造二叉树)",
+      "author": "蓝不过海呀",
+      "play": 88192,
+      "duration": "12:24",
+      "url": "https://www.bilibili.com/video/BV1RtezzTEz9",
+      "keyword": "软件设计师 二叉树 中序前序"
+    }
+  ],
+  "数据结构-排序算法": [
+    {
+      "bvid": "BV1bJ4m1H75P",
+      "title": "【笛霸格】算法设计与分析期末速成，闪击及格线！",
+      "author": "笛霸格",
+      "play": 657279,
+      "duration": "289:58",
+      "url": "https://www.bilibili.com/video/BV1bJ4m1H75P",
+      "keyword": "软考 排序算法 复杂度"
+    },
+    {
+      "bvid": "BV1HYtseiEQ8",
+      "title": "数据结构合集 - 堆与堆排序(算法过程, 效率分析, 稳定性分析)",
+      "author": "蓝不过海呀",
+      "play": 456237,
+      "duration": "16:36",
+      "url": "https://www.bilibili.com/video/BV1HYtseiEQ8",
+      "keyword": "软件设计师 快排 堆排 归并"
+    },
+    {
+      "bvid": "BV1WP411c7hS",
+      "title": "【数据结构】八大排序算法过程详解",
+      "author": "Please907",
+      "play": 447363,
+      "duration": "70:6",
+      "url": "https://www.bilibili.com/video/BV1WP411c7hS",
+      "keyword": "软考 排序算法 复杂度"
+    },
+    {
+      "bvid": "BV1Ur4y1w7tv",
+      "title": "轻松搞定十大经典排序算法（冒泡排序、选择排序、插入排序、希尔排序、快速排序、归并排序、堆排序、计数排序、桶排序和基数排序）",
+      "author": "码农论坛",
+      "play": 376208,
+      "duration": "259:59",
+      "url": "https://www.bilibili.com/video/BV1Ur4y1w7tv",
+      "keyword": "软考 排序算法 复杂度"
+    },
+    {
+      "bvid": "BV1CS4y187Hk",
+      "title": "「软件设计师」 上午题 #16 算法",
+      "author": "zst_2001",
+      "play": 274983,
+      "duration": "593:24",
+      "url": "https://www.bilibili.com/video/BV1CS4y187Hk",
+      "keyword": "软考 排序算法 复杂度"
+    },
+    {
+      "bvid": "BV1AF411G7cA",
+      "title": "【从堆的定义到优先队列、堆排序】 10分钟看懂必考的数据结构——堆",
+      "author": "工程部老周",
+      "play": 239302,
+      "duration": "11:12",
+      "url": "https://www.bilibili.com/video/BV1AF411G7cA",
+      "keyword": "软件设计师 快排 堆排 归并"
+    },
+    {
+      "bvid": "BV1UVwUeLEzv",
+      "title": "半小时速通十大排序算法，核心原理 + 可视化",
+      "author": "labuladong",
+      "play": 207417,
+      "duration": "31:25",
+      "url": "https://www.bilibili.com/video/BV1UVwUeLEzv",
+      "keyword": "软考 排序算法 复杂度"
+    },
+    {
+      "bvid": "BV1ZX4y1K7HL",
+      "title": "软考（中级软件设计师）两周快速备考",
+      "author": "一只乌龟大王",
+      "play": 197952,
+      "duration": "8:20",
+      "url": "https://www.bilibili.com/video/BV1ZX4y1K7HL",
+      "keyword": "软件设计师 快排 堆排 归并"
+    },
+    {
+      "bvid": "BV1Tnd2BDEBp",
+      "title": "Leetcode入门和常见的算法套路-python（开篇！后续在合集中）",
+      "author": "算法路飞",
+      "play": 148911,
+      "duration": "267:36",
+      "url": "https://www.bilibili.com/video/BV1Tnd2BDEBp",
+      "keyword": "软考 排序算法 复杂度"
+    },
+    {
+      "bvid": "BV1DP4y1n71W",
+      "title": "【排序算法】八种排序算法可视化过程",
+      "author": "一只没梦想的桔子",
+      "play": 136348,
+      "duration": "8:41",
+      "url": "https://www.bilibili.com/video/BV1DP4y1n71W",
+      "keyword": "软考 排序算法 复杂度"
+    }
+  ],
+  "数据结构-图": [
+    {
+      "bvid": "BV1zz4y1m7Nq",
+      "title": "【算法】最短路径查找—Dijkstra算法",
+      "author": "从0开始数",
+      "play": 1038620,
+      "duration": "5:15",
+      "url": "https://www.bilibili.com/video/BV1zz4y1m7Nq",
+      "keyword": "软考 最小生成树 Dijkstra"
+    },
+    {
+      "bvid": "BV1uT4y1p7Jy",
+      "title": "图-最短路径-Dijkstra(迪杰斯特拉)算法",
+      "author": "蓝不过海呀",
+      "play": 981446,
+      "duration": "6:10",
+      "url": "https://www.bilibili.com/video/BV1uT4y1p7Jy",
+      "keyword": "软考 最小生成树 Dijkstra"
+    },
+    {
+      "bvid": "BV1wG411z79G",
+      "title": "图-最小生成树-Prim(普里姆)算法和Kruskal(克鲁斯卡尔)算法",
+      "author": "蓝不过海呀",
+      "play": 576824,
+      "duration": "16:59",
+      "url": "https://www.bilibili.com/video/BV1wG411z79G",
+      "keyword": "软考 最小生成树 Dijkstra"
+    },
+    {
+      "bvid": "BV1QESyYGE55",
+      "title": "最短路径 迪杰斯特拉 dijkstra算法 数据结构与算法",
+      "author": "图码",
+      "play": 355316,
+      "duration": "13:39",
+      "url": "https://www.bilibili.com/video/BV1QESyYGE55",
+      "keyword": "软考 最小生成树 Dijkstra"
+    },
+    {
+      "bvid": "BV1dy421a7S1",
+      "title": "图-AOE网和关键路径",
+      "author": "蓝不过海呀",
+      "play": 349928,
+      "duration": "32:50",
+      "url": "https://www.bilibili.com/video/BV1dy421a7S1",
+      "keyword": "软件设计师 拓扑排序 关键路径"
+    },
+    {
+      "bvid": "BV1XV411X7T7",
+      "title": "图-拓扑排序",
+      "author": "蓝不过海呀",
+      "play": 348076,
+      "duration": "6:53",
+      "url": "https://www.bilibili.com/video/BV1XV411X7T7",
+      "keyword": "软件设计师 拓扑排序 关键路径"
+    },
+    {
+      "bvid": "BV1jE411W7tT",
+      "title": "【全网第二清晰】手写迪杰斯特拉-Dijkstra（考试用）",
+      "author": "Cauchy可喜可乐",
+      "play": 294737,
+      "duration": "12:38",
+      "url": "https://www.bilibili.com/video/BV1jE411W7tT",
+      "keyword": "软考 最小生成树 Dijkstra"
+    },
+    {
+      "bvid": "BV1NG4y1v78Q",
+      "title": "让你两分钟学会最小生成树",
+      "author": "徐团团啊",
+      "play": 275355,
+      "duration": "3:57",
+      "url": "https://www.bilibili.com/video/BV1NG4y1v78Q",
+      "keyword": "软考 最小生成树 Dijkstra"
+    },
+    {
+      "bvid": "BV1ve4y1b7gH",
+      "title": "一张图说明软件架构设计-核心关键点和底层逻辑",
+      "author": "人月聊IT",
+      "play": 175131,
+      "duration": "11:59",
+      "url": "https://www.bilibili.com/video/BV1ve4y1b7gH",
+      "keyword": "软件设计师 拓扑排序 关键路径"
+    },
+    {
+      "bvid": "BV17K4y1w7wH",
+      "title": "软件设计师教程（仅供社区学习与参考，附历年真题）",
+      "author": "__不蒸馒头争口气__",
+      "play": 147144,
+      "duration": "1695:38",
+      "url": "https://www.bilibili.com/video/BV17K4y1w7wH",
+      "keyword": "软件设计师 拓扑排序 关键路径"
+    }
+  ],
+  "数据结构-算法策略": [
+    {
+      "bvid": "BV1cy4y167mM",
+      "title": "带你学透回溯算法（理论篇）| 回溯法精讲！",
+      "author": "代码随想录",
+      "play": 512917,
+      "duration": "19:23",
+      "url": "https://www.bilibili.com/video/BV1cy4y167mM",
+      "keyword": "软件设计师 回溯法"
+    },
+    {
+      "bvid": "BV1aa411f7uT",
+      "title": "动态规划入门50题",
+      "author": "英雄哪里出来",
+      "play": 429758,
+      "duration": "35:27",
+      "url": "https://www.bilibili.com/video/BV1aa411f7uT",
+      "keyword": "软考 分治 贪心 动态规划"
+    },
+    {
+      "bvid": "BV1mG4y1A7Gu",
+      "title": "回溯算法套路①子集型回溯【基础算法精讲 14】",
+      "author": "灵茶山艾府",
+      "play": 358922,
+      "duration": "12:22",
+      "url": "https://www.bilibili.com/video/BV1mG4y1A7Gu",
+      "keyword": "软件设计师 回溯法"
+    },
+    {
+      "bvid": "BV1m9EUzLEB4",
+      "title": "不是我催... 以后大家学动态规划，都得要看这个视频。",
+      "author": "NotOnlySuccess",
+      "play": 255241,
+      "duration": "19:57",
+      "url": "https://www.bilibili.com/video/BV1m9EUzLEB4",
+      "keyword": "软考 分治 贪心 动态规划"
+    },
+    {
+      "bvid": "BV1ie4y1y7qD",
+      "title": "【有套路地拿证】2026 年软件设计师考试下午题高频考点技巧总结",
+      "author": "软件设计师_Mango教练",
+      "play": 103435,
+      "duration": "74:27",
+      "url": "https://www.bilibili.com/video/BV1ie4y1y7qD",
+      "keyword": "软件设计师 回溯法"
+    },
+    {
+      "bvid": "BV12gu3zmEc3",
+      "title": "动画展示，五分钟从分数背包问题看透贪心算法的应用逻辑",
+      "author": "算法菌不熬夜",
+      "play": 58734,
+      "duration": "5:17",
+      "url": "https://www.bilibili.com/video/BV12gu3zmEc3",
+      "keyword": "软考 分治 贪心 动态规划"
+    },
+    {
+      "bvid": "BV1SBdxYMEmB",
+      "title": "拿真题教你如何暴力骗分 (DFS，枚举，模拟，贪心)",
+      "author": "yeVegetable",
+      "play": 53691,
+      "duration": "48:21",
+      "url": "https://www.bilibili.com/video/BV1SBdxYMEmB",
+      "keyword": "软考 分治 贪心 动态规划"
+    },
+    {
+      "bvid": "BV1ReMDz6EvW",
+      "title": "【从0开始的C++算法课】找遍迷宫所有路径 | 回溯算法 | 深度优先搜索算法进阶｜回溯算法常见用途｜递归方式求解｜经典题型超详细解析 | 第10期",
+      "author": "LetsLearning",
+      "play": 52073,
+      "duration": "10:9",
+      "url": "https://www.bilibili.com/video/BV1ReMDz6EvW",
+      "keyword": "软件设计师 回溯法"
+    },
+    {
+      "bvid": "BV16MJg6jEBn",
+      "title": "动态规划3小时由易到难 从一维到二维到背包到区间DP",
+      "author": "T_zhao",
+      "play": 29432,
+      "duration": "179:41",
+      "url": "https://www.bilibili.com/video/BV16MJg6jEBn",
+      "keyword": "软考 分治 贪心 动态规划"
+    },
+    {
+      "bvid": "BV1i7411V7Zv",
+      "title": "【第二十四节-贪心算法和动态规划1(到了提高篇的算法部分了呢~)】2020计算机复试刷题班|计算机专业上机考|计算机考研复试|与黄焖鸡共同刷题|计算机跨考",
+      "author": "战斗黄焖鸡",
+      "play": 24023,
+      "duration": "50:9",
+      "url": "https://www.bilibili.com/video/BV1i7411V7Zv",
+      "keyword": "软考 分治 贪心 动态规划"
+    }
+  ],
+  "计组-码制浮点数": [
+    {
+      "bvid": "BV1aB4y177Ef",
+      "title": "【计算机基础】轻松学会原码、反码、补码的转换规则以及计算机内有符号数的计算方式！",
+      "author": "计算机知识星球",
+      "play": 1116146,
+      "duration": "4:49",
+      "url": "https://www.bilibili.com/video/BV1aB4y177Ef",
+      "keyword": "软考 原码反码补码"
+    },
+    {
+      "bvid": "BV1Y7411t7Fj",
+      "title": "原码、反码和补码的相关知识点",
+      "author": "海创电子",
+      "play": 389917,
+      "duration": "12:4",
+      "url": "https://www.bilibili.com/video/BV1Y7411t7Fj",
+      "keyword": "软考 原码反码补码"
+    },
+    {
+      "bvid": "BV1hg411V7Bm",
+      "title": "【2026软考】《程序员》精讲视频（零基础系统教程，考点全面解析）~希赛网！",
+      "author": "希赛软考",
+      "play": 379748,
+      "duration": "1836:45",
+      "url": "https://www.bilibili.com/video/BV1hg411V7Bm",
+      "keyword": "软考 原码反码补码"
+    },
+    {
+      "bvid": "BV1UP4y1R7bB",
+      "title": "IEEE754单精度浮点数的转换，32位浮点数",
+      "author": "卿青娥",
+      "play": 187319,
+      "duration": "7:37",
+      "url": "https://www.bilibili.com/video/BV1UP4y1R7bB",
+      "keyword": "软件设计师 浮点数 IEEE754"
+    },
+    {
+      "bvid": "BV1VK4y1f7o6",
+      "title": "【CSAPP-深入理解计算机系统】2-4.浮点数(上)",
+      "author": "九曲阑干",
+      "play": 77906,
+      "duration": "8:18",
+      "url": "https://www.bilibili.com/video/BV1VK4y1f7o6",
+      "keyword": "软件设计师 浮点数 IEEE754"
+    },
+    {
+      "bvid": "BV1Rw411i7kq",
+      "title": "IEEE754（十五分钟速成版）",
+      "author": "朝yiyi",
+      "play": 58301,
+      "duration": "14:50",
+      "url": "https://www.bilibili.com/video/BV1Rw411i7kq",
+      "keyword": "软件设计师 浮点数 IEEE754"
+    },
+    {
+      "bvid": "BV1Ks4y1E7qo",
+      "title": "【计组】.透彻理解浮点数与IEEE754标准",
+      "author": "其涼",
+      "play": 53834,
+      "duration": "47:59",
+      "url": "https://www.bilibili.com/video/BV1Ks4y1E7qo",
+      "keyword": "软件设计师 浮点数 IEEE754"
+    },
+    {
+      "bvid": "BV1PvdKYzEAc",
+      "title": "原码、补码、反码、移码的本质和技巧",
+      "author": "Beokayy_",
+      "play": 48063,
+      "duration": "15:0",
+      "url": "https://www.bilibili.com/video/BV1PvdKYzEAc",
+      "keyword": "软考 原码反码补码"
+    },
+    {
+      "bvid": "BV1JDM46aEbX",
+      "title": "【吊打付费】2026软考《信息安全工程师》新版精讲视频🔥第二版零基础入门通关教程，附备考资料包，考前三个月学完，一次通关上岸！",
+      "author": "希赛软考",
+      "play": 45525,
+      "duration": "1369:49",
+      "url": "https://www.bilibili.com/video/BV1JDM46aEbX",
+      "keyword": "软考 原码反码补码"
+    },
+    {
+      "bvid": "BV136DQYNEVN",
+      "title": "【全网最强：计组速成】原码、补码一位二位乘法、除法运算：恢复余数法、加减交替法，计算机组成速成课",
+      "author": "苏晓宇Douglas",
+      "play": 42238,
+      "duration": "24:51",
+      "url": "https://www.bilibili.com/video/BV136DQYNEVN",
+      "keyword": "软考 原码反码补码"
+    }
+  ],
+  "计组-校验码": [
+    {
+      "bvid": "BV1V4411Z7VA",
+      "title": "[CRC校验]手算与直观演示",
+      "author": "Kneight",
+      "play": 271609,
+      "duration": "11:2",
+      "url": "https://www.bilibili.com/video/BV1V4411Z7VA",
+      "keyword": "软考 海明码 CRC"
+    },
+    {
+      "bvid": "BV1SP4y127si",
+      "title": "此刻你正在用的APP是这样被制作出来的（三天学会软件开发）",
+      "author": "杨肉肉不胖",
+      "play": 265080,
+      "duration": "247:52",
+      "url": "https://www.bilibili.com/video/BV1SP4y127si",
+      "keyword": "软件设计师 奇偶校验"
+    },
+    {
+      "bvid": "BV1cd4y1o7op",
+      "title": "一题学会循环冗余码（CRC）",
+      "author": "土豆和小玉米",
+      "play": 140278,
+      "duration": "6:17",
+      "url": "https://www.bilibili.com/video/BV1cd4y1o7op",
+      "keyword": "软考 海明码 CRC"
+    },
+    {
+      "bvid": "BV1m84y1T7kd",
+      "title": "计组原理/奇偶校验码原理，检验元的确定",
+      "author": "耶耶LCY",
+      "play": 137624,
+      "duration": "5:2",
+      "url": "https://www.bilibili.com/video/BV1m84y1T7kd",
+      "keyword": "软件设计师 奇偶校验"
+    },
+    {
+      "bvid": "BV14p4y1w7S3",
+      "title": "一个视频看懂CRC校验",
+      "author": "小科不好奇",
+      "play": 67679,
+      "duration": "3:57",
+      "url": "https://www.bilibili.com/video/BV14p4y1w7S3",
+      "keyword": "软考 海明码 CRC"
+    },
+    {
+      "bvid": "BV1JxQAY5ERF",
+      "title": "数据传输的3大差错检测方法 | 奇偶校验、检验和、CRC循环冗余检验",
+      "author": "技术蛋老师",
+      "play": 66937,
+      "duration": "9:35",
+      "url": "https://www.bilibili.com/video/BV1JxQAY5ERF",
+      "keyword": "软件设计师 奇偶校验"
+    },
+    {
+      "bvid": "BV1PZ421u7pS",
+      "title": "海明码！不用记！本质就是分组校验！（25全新版、附带例题）",
+      "author": "里昂408",
+      "play": 64181,
+      "duration": "30:46",
+      "url": "https://www.bilibili.com/video/BV1PZ421u7pS",
+      "keyword": "软考 海明码 CRC"
+    },
+    {
+      "bvid": "BV19XuMzHEcP",
+      "title": "《计算机网络》CRC校验码计算",
+      "author": "困了就睡睡到天亮",
+      "play": 58403,
+      "duration": "11:41",
+      "url": "https://www.bilibili.com/video/BV19XuMzHEcP",
+      "keyword": "软考 海明码 CRC"
+    },
+    {
+      "bvid": "BV1nbe16SESV",
+      "title": "如何使用 AI 做出顶级的 UI 设计",
+      "author": "oil欧呦",
+      "play": 35568,
+      "duration": "26:50",
+      "url": "https://www.bilibili.com/video/BV1nbe16SESV",
+      "keyword": "软件设计师 奇偶校验"
+    },
+    {
+      "bvid": "BV1qaxDz9Et4",
+      "title": "一道例题彻底记住海明码【包括编码与检验】",
+      "author": "小猫在加油",
+      "play": 35521,
+      "duration": "4:43",
+      "url": "https://www.bilibili.com/video/BV1qaxDz9Et4",
+      "keyword": "软考 海明码 CRC"
+    }
+  ],
+  "计组-Cache存储": [
+    {
+      "bvid": "BV1keLp6GERQ",
+      "title": "什么是缓存命中？8分钟说清楚KVCache与Prompt Cache",
+      "author": "费曼学徒冬瓜",
+      "play": 99357,
+      "duration": "7:36",
+      "url": "https://www.bilibili.com/video/BV1keLp6GERQ",
+      "keyword": "Cache命中率"
+    },
+    {
+      "bvid": "BV1B6tdz6EwN",
+      "title": "【cache专项】谁说cache难了？这个cache可太棒了！",
+      "author": "里昂408",
+      "play": 55791,
+      "duration": "49:4",
+      "url": "https://www.bilibili.com/video/BV1B6tdz6EwN",
+      "keyword": "Cache命中率"
+    },
+    {
+      "bvid": "BV1X9nfeYEVr",
+      "title": "【计组 | Cache】30min带你狠狠拿捏Cache所有知识与题型方法",
+      "author": "_不是小火龙",
+      "play": 42070,
+      "duration": "30:48",
+      "url": "https://www.bilibili.com/video/BV1X9nfeYEVr",
+      "keyword": "Cache命中率"
+    },
+    {
+      "bvid": "BV1nZMy6DE2B",
+      "title": "缓存命中99.82%！DeepSeek版Claude Code火了，让DeepSeek省上加省",
+      "author": "量子位Daily",
+      "play": 32806,
+      "duration": "1:20",
+      "url": "https://www.bilibili.com/video/BV1nZMy6DE2B",
+      "keyword": "Cache命中率"
+    },
+    {
+      "bvid": "BV1aHAJe3EKc",
+      "title": "纯干货：Cache容量计算！方法简单！",
+      "author": "计算机考研-雨涵",
+      "play": 31998,
+      "duration": "27:8",
+      "url": "https://www.bilibili.com/video/BV1aHAJe3EKc",
+      "keyword": "Cache命中率"
+    },
+    {
+      "bvid": "BV16nkRYKEVP",
+      "title": "【全网最强：计组速成】Cache命中率，效率，主存格式设计，映射方式",
+      "author": "苏晓宇Douglas",
+      "play": 21388,
+      "duration": "10:36",
+      "url": "https://www.bilibili.com/video/BV16nkRYKEVP",
+      "keyword": "Cache命中率"
+    },
+    {
+      "bvid": "BV1Cby7BaEpu",
+      "title": "1个视频搞定所有cache地址映射数组命中率考题！",
+      "author": "木子老师408",
+      "play": 12705,
+      "duration": "47:12",
+      "url": "https://www.bilibili.com/video/BV1Cby7BaEpu",
+      "keyword": "Cache命中率"
+    },
+    {
+      "bvid": "BV1Sx1JYdE1U",
+      "title": "15分钟搞定408真题系列 | 【Cache缺失率计算】【408强化专题】",
+      "author": "珞研银盐学长",
+      "play": 10944,
+      "duration": "17:13",
+      "url": "https://www.bilibili.com/video/BV1Sx1JYdE1U",
+      "keyword": "Cache命中率"
+    },
+    {
+      "bvid": "BV1sJje6LEK7",
+      "title": "AI订阅省钱秘籍: 深入解析Codex缓存机制, 10倍成本差异的秘密!",
+      "author": "DP_IT",
+      "play": 9771,
+      "duration": "14:35",
+      "url": "https://www.bilibili.com/video/BV1sJje6LEK7",
+      "keyword": "Cache命中率"
+    },
+    {
+      "bvid": "BV1pdH765EUC",
+      "title": "同样的字，“缓存命中”凭什么便宜九成？一期讲透 KV 缓存",
+      "author": "辞月赴尘",
+      "play": 4084,
+      "duration": "17:11",
+      "url": "https://www.bilibili.com/video/BV1pdH765EUC",
+      "keyword": "Cache命中率"
+    }
+  ],
+  "计组-IO中断DMA": [
+    {
+      "bvid": "BV1t4411e7LH",
+      "title": "计算机组成原理（哈工大刘宏伟）135讲（全）高清",
+      "author": "FCCJK",
+      "play": 3573971,
+      "duration": "1974:6",
+      "url": "https://www.bilibili.com/video/BV1t4411e7LH",
+      "keyword": "计算机组成原理 中断方式 DMA方式"
+    },
+    {
+      "bvid": "BV1G29JYQE8b",
+      "title": "计算机组成原理【27考研408高分必看、计算机学生必备】",
+      "author": "老汤讲408",
+      "play": 1358660,
+      "duration": "1924:32",
+      "url": "https://www.bilibili.com/video/BV1G29JYQE8b",
+      "keyword": "计算机组成原理 中断方式 DMA方式"
+    },
+    {
+      "bvid": "BV1Wv411x7zP",
+      "title": "【计算机组成】计算机组成原理（大神之路-起始篇）",
+      "author": "JZStudio计算机编程",
+      "play": 1019325,
+      "duration": "1407:18",
+      "url": "https://www.bilibili.com/video/BV1Wv411x7zP",
+      "keyword": "计算机组成原理 中断方式 DMA方式"
+    },
+    {
+      "bvid": "BV1xk4y1y7m5",
+      "title": "计算机组成原理不挂科之 输入输出系统方式(查询、中断、DMA)  横屏版在主页合集",
+      "author": "小憨啵啵啵",
+      "play": 47225,
+      "duration": "25:19",
+      "url": "https://www.bilibili.com/video/BV1xk4y1y7m5",
+      "keyword": "计算机组成原理 中断方式 DMA方式"
+    },
+    {
+      "bvid": "BV1Ad4y1H7M1",
+      "title": "半小时组成原理复习，I/O接口，中断方式，程序查询方式，DMA方式，中断和DMA对比",
+      "author": "费棍",
+      "play": 23748,
+      "duration": "29:35",
+      "url": "https://www.bilibili.com/video/BV1Ad4y1H7M1",
+      "keyword": "计算机组成原理 中断方式 DMA方式"
+    },
+    {
+      "bvid": "BV1ih4y127ct",
+      "title": "计组7.3 I/O方式（程序查询、程序中断、DMA）",
+      "author": "吃葡萄不吐葡萄皮ooc",
+      "play": 22468,
+      "duration": "5:3",
+      "url": "https://www.bilibili.com/video/BV1ih4y127ct",
+      "keyword": "计算机组成原理 中断方式 DMA方式"
+    },
+    {
+      "bvid": "BV1rq4y137kt",
+      "title": "中断方式和DMA典型计算大题—计算机组成原理！",
+      "author": "计算机考研408大师兄",
+      "play": 18818,
+      "duration": "11:11",
+      "url": "https://www.bilibili.com/video/BV1rq4y137kt",
+      "keyword": "计算机组成原理 中断方式 DMA方式"
+    },
+    {
+      "bvid": "BV1NiUDBrEkE",
+      "title": "程序查询方式概念及计算全解析！",
+      "author": "计算机考研-雨涵",
+      "play": 13471,
+      "duration": "12:6",
+      "url": "https://www.bilibili.com/video/BV1NiUDBrEkE",
+      "keyword": "IO控制方式 程序查询 中断 DMA"
+    },
+    {
+      "bvid": "BV17mLs6GEdX",
+      "title": "8-4 I/O控制方式（9）—— DMA方式（无字幕版）",
+      "author": "湖科大教书匠",
+      "play": 11813,
+      "duration": "20:20",
+      "url": "https://www.bilibili.com/video/BV17mLs6GEdX",
+      "keyword": "IO控制方式 程序查询 中断 DMA"
+    },
+    {
+      "bvid": "BV1tQH96XEgH",
+      "title": "一小时速通《计算机组成原理》",
+      "author": "橙子粉972",
+      "play": 10878,
+      "duration": "62:12",
+      "url": "https://www.bilibili.com/video/BV1tQH96XEgH",
+      "keyword": "计算机组成原理 中断方式 DMA方式"
+    }
+  ],
+  "计组-流水线": [
+    {
+      "bvid": "BV1Tx4y1a7zm",
+      "title": "一小时速通CPU指令流水线",
+      "author": "Beokayy_",
+      "play": 119920,
+      "duration": "52:30",
+      "url": "https://www.bilibili.com/video/BV1Tx4y1a7zm",
+      "keyword": "软考 流水线 吞吐率"
+    },
+    {
+      "bvid": "BV1rrVd6fEsm",
+      "title": "基于混子导向的技术岗速成实习路线，纯焚决",
+      "author": "炒肉多ovo",
+      "play": 102793,
+      "duration": "29:17",
+      "url": "https://www.bilibili.com/video/BV1rrVd6fEsm",
+      "keyword": "软件设计师 指令流水线"
+    },
+    {
+      "bvid": "BV1cV4y1q7ca",
+      "title": "408计算机组成原理第五章3-指令流水线以及真题讲解",
+      "author": "就是氧气11",
+      "play": 88959,
+      "duration": "16:51",
+      "url": "https://www.bilibili.com/video/BV1cV4y1q7ca",
+      "keyword": "软考 流水线 吞吐率"
+    },
+    {
+      "bvid": "BV1yd4y1w7qa",
+      "title": "计算机组成原理流水线加速比、吞吐率、效率计算方法",
+      "author": "goingkingNO-1",
+      "play": 55389,
+      "duration": "5:10",
+      "url": "https://www.bilibili.com/video/BV1yd4y1w7qa",
+      "keyword": "软考 流水线 吞吐率"
+    },
+    {
+      "bvid": "BV1Tp4y187dj",
+      "title": "【CSAPP-深入理解计算机系统】4-5. 流水线的通用原理",
+      "author": "九曲阑干",
+      "play": 51117,
+      "duration": "9:35",
+      "url": "https://www.bilibili.com/video/BV1Tp4y187dj",
+      "keyword": "软件设计师 指令流水线"
+    },
+    {
+      "bvid": "BV1g34y167Nu",
+      "title": "【体系结构】快速分析（动态/静态）流水线性能（时空图，效率，吞吐率，加速比）",
+      "author": "啊我有兔子牙",
+      "play": 42485,
+      "duration": "35:47",
+      "url": "https://www.bilibili.com/video/BV1g34y167Nu",
+      "keyword": "软考 流水线 吞吐率"
+    },
+    {
+      "bvid": "BV1x9yVBfEXU",
+      "title": "指令流水线（含三种冒险）解题技巧！",
+      "author": "计算机考研-雨涵",
+      "play": 36004,
+      "duration": "56:5",
+      "url": "https://www.bilibili.com/video/BV1x9yVBfEXU",
+      "keyword": "软考 流水线 吞吐率"
+    },
+    {
+      "bvid": "BV1rZ4y1G7Mu",
+      "title": "「计算机组成原理」流水线吞吐率与加速比",
+      "author": "熊哥保佑你",
+      "play": 24107,
+      "duration": "22:20",
+      "url": "https://www.bilibili.com/video/BV1rZ4y1G7Mu",
+      "keyword": "软考 流水线 吞吐率"
+    },
+    {
+      "bvid": "BV1MG411W7HX",
+      "title": "用verilog实现32位五级流水线MIPS指令集CPU设计，Modelsim仿真",
+      "author": "kingslanding2000",
+      "play": 22362,
+      "duration": "20:34",
+      "url": "https://www.bilibili.com/video/BV1MG411W7HX",
+      "keyword": "软件设计师 指令流水线"
+    },
+    {
+      "bvid": "BV1Ygm7BxEi6",
+      "title": "我把 Codex 变成了一个自动执行的工程流水线",
+      "author": "AI-Ghost-Lab",
+      "play": 17635,
+      "duration": "18:6",
+      "url": "https://www.bilibili.com/video/BV1Ygm7BxEi6",
+      "keyword": "软件设计师 指令流水线"
+    }
+  ],
+  "计组-可靠性": [
+    {
+      "bvid": "BV1gbEB6kESt",
+      "title": "让你变强的顶级思维：建立系统，而非追求目标丨纳瓦尔·拉维坎特",
+      "author": "觉知实验室AwareLab",
+      "play": 310863,
+      "duration": "34:48",
+      "url": "https://www.bilibili.com/video/BV1gbEB6kESt",
+      "keyword": "系统可靠性 串联并联"
+    },
+    {
+      "bvid": "BV1Eh411W788",
+      "title": "可靠性基础知识     注册可靠性工程师实战教程  共17节课",
+      "author": "好名字被猪取了_",
+      "play": 105991,
+      "duration": "530:47",
+      "url": "https://www.bilibili.com/video/BV1Eh411W788",
+      "keyword": "可靠性计算"
+    },
+    {
+      "bvid": "BV1gL411u7WF",
+      "title": "运筹学-16-动态规划之系统可靠性问题",
+      "author": "怡乐小屋的欢乐留言板",
+      "play": 33870,
+      "duration": "46:33",
+      "url": "https://www.bilibili.com/video/BV1gL411u7WF",
+      "keyword": "系统可靠性 串联并联"
+    },
+    {
+      "bvid": "BV1z84y1h7Bt",
+      "title": "可靠性复习题",
+      "author": "有钱也有猫",
+      "play": 26862,
+      "duration": "116:9",
+      "url": "https://www.bilibili.com/video/BV1z84y1h7Bt",
+      "keyword": "系统可靠性 串联并联"
+    },
+    {
+      "bvid": "BV1T5411x7Hy",
+      "title": "可靠性统计-韩君",
+      "author": "你室友",
+      "play": 23663,
+      "duration": "1252:1",
+      "url": "https://www.bilibili.com/video/BV1T5411x7Hy",
+      "keyword": "系统可靠性 串联并联"
+    },
+    {
+      "bvid": "BV14z421i7RW",
+      "title": "威布尔分布（指数分布）和可靠性及失效率",
+      "author": "东哥聊统计",
+      "play": 15562,
+      "duration": "20:11",
+      "url": "https://www.bilibili.com/video/BV14z421i7RW",
+      "keyword": "可靠性计算"
+    },
+    {
+      "bvid": "BV1GA4y1o7do",
+      "title": "2.18  串联系统与并联系统可靠度计算",
+      "author": "金小贱Z",
+      "play": 11946,
+      "duration": "9:31",
+      "url": "https://www.bilibili.com/video/BV1GA4y1o7do",
+      "keyword": "系统可靠性 串联并联"
+    },
+    {
+      "bvid": "BV1ah411974v",
+      "title": "3.1 可靠性建模、预计与分配",
+      "author": "好名字被猪取了_",
+      "play": 8629,
+      "duration": "47:38",
+      "url": "https://www.bilibili.com/video/BV1ah411974v",
+      "keyword": "系统可靠性 串联并联"
+    },
+    {
+      "bvid": "BV1BT42117es",
+      "title": "可靠性试验加速模型及算法-可靠性基础理论",
+      "author": "科技大狗熊-汽车电子",
+      "play": 7844,
+      "duration": "10:9",
+      "url": "https://www.bilibili.com/video/BV1BT42117es",
+      "keyword": "可靠性计算"
+    },
+    {
+      "bvid": "BV1dWKE6cEnG",
+      "title": "可靠性工程基础",
+      "author": "吃不胖气不气",
+      "play": 3904,
+      "duration": "645:27",
+      "url": "https://www.bilibili.com/video/BV1dWKE6cEnG",
+      "keyword": "可靠性计算"
+    }
+  ],
+  "操作系统-PV操作": [
+    {
+      "bvid": "BV1AY411E7GC",
+      "title": "「软件设计师」 上午题 #10 操作系统",
+      "author": "zst_2001",
+      "play": 481225,
+      "duration": "766:56",
+      "url": "https://www.bilibili.com/video/BV1AY411E7GC",
+      "keyword": "软考 PV操作 前驱图"
+    },
+    {
+      "bvid": "BV1Xk4y1q7RK",
+      "title": "【经典进程同步问题】生产者消费者、读者写者、哲学家进餐、打瞌睡的理发师 | 信号量机制",
+      "author": "这个东东有点野",
+      "play": 209896,
+      "duration": "71:52",
+      "url": "https://www.bilibili.com/video/BV1Xk4y1q7RK",
+      "keyword": "软件设计师 信号量 生产者消费者"
+    },
+    {
+      "bvid": "BV1af421z7Hk",
+      "title": "【圆酱】全网讲得最好的操作系统PV秒杀法",
+      "author": "圆酱的计算机速通魔法",
+      "play": 181629,
+      "duration": "12:45",
+      "url": "https://www.bilibili.com/video/BV1af421z7Hk",
+      "keyword": "软考 PV操作 前驱图"
+    },
+    {
+      "bvid": "BV1BA411W7DL",
+      "title": "计算机操作系统（期末必考系列）--进程同步生产者消费者（PV）",
+      "author": "Great鹄",
+      "play": 177536,
+      "duration": "11:43",
+      "url": "https://www.bilibili.com/video/BV1BA411W7DL",
+      "keyword": "软件设计师 信号量 生产者消费者"
+    },
+    {
+      "bvid": "BV1H52gB2EPh",
+      "title": "十分钟学会pv操作（视频里讲了三个题）",
+      "author": "不是然然菜",
+      "play": 125906,
+      "duration": "12:44",
+      "url": "https://www.bilibili.com/video/BV1H52gB2EPh",
+      "keyword": "软考 PV操作 前驱图"
+    },
+    {
+      "bvid": "BV1fuUQYBEHL",
+      "title": "一句话讲清楚pv操作，操作系统有救啦！",
+      "author": "408令人忍俊不禁",
+      "play": 112920,
+      "duration": "9:59",
+      "url": "https://www.bilibili.com/video/BV1fuUQYBEHL",
+      "keyword": "软考 PV操作 前驱图"
+    },
+    {
+      "bvid": "BV1fWx4eaE9g",
+      "title": "【操作系统 | PV】40min带你狠狠拿捏PV大题的所有核心知识与解题技巧",
+      "author": "_不是小火龙",
+      "play": 79164,
+      "duration": "40:37",
+      "url": "https://www.bilibili.com/video/BV1fWx4eaE9g",
+      "keyword": "软考 PV操作 前驱图"
+    },
+    {
+      "bvid": "BV17T4y1S7RS",
+      "title": "并发控制：同步 (条件变量、信号量、生产者-消费者和哲♂学家吃饭问题) [南京大学2022操作系统-P6]",
+      "author": "绿导师原谅你了",
+      "play": 72317,
+      "duration": "98:35",
+      "url": "https://www.bilibili.com/video/BV17T4y1S7RS",
+      "keyword": "软件设计师 信号量 生产者消费者"
+    },
+    {
+      "bvid": "BV1CAv1BDErZ",
+      "title": "双非本科上岸字节后端",
+      "author": "啵啵米浴海梓341",
+      "play": 55215,
+      "duration": "20:9",
+      "url": "https://www.bilibili.com/video/BV1CAv1BDErZ",
+      "keyword": "软件设计师 信号量 生产者消费者"
+    },
+    {
+      "bvid": "BV1aA411L76R",
+      "title": "信息处理技术员 软考（部分操作题）",
+      "author": "sypx_h",
+      "play": 54753,
+      "duration": "54:46",
+      "url": "https://www.bilibili.com/video/BV1aA411L76R",
+      "keyword": "软考 PV操作 前驱图"
+    }
+  ],
+  "操作系统-死锁": [
+    {
+      "bvid": "BV1rJ411p7au",
+      "title": "操作系统-银行家算法",
+      "author": "山大小佛爷",
+      "play": 690553,
+      "duration": "12:14",
+      "url": "https://www.bilibili.com/video/BV1rJ411p7au",
+      "keyword": "软考 死锁 银行家"
+    },
+    {
+      "bvid": "BV18M4m1f76s",
+      "title": "十分钟完全掌握操作系统大题银行家算法 纯干货",
+      "author": "豫东第一帅-",
+      "play": 225252,
+      "duration": "9:41",
+      "url": "https://www.bilibili.com/video/BV18M4m1f76s",
+      "keyword": "软考 死锁 银行家"
+    },
+    {
+      "bvid": "BV1Cepw6TEid",
+      "title": "越玩越痴呆？万字解析《死锁》为什么是神？MOBA游戏的新未来？从未见过如此完美的竞技游戏！《DeadLock》(死锁/异锁)完整体验—— 『新游今日谈』",
+      "author": "阿Miao今天马枪了吗",
+      "play": 181919,
+      "duration": "16:12",
+      "url": "https://www.bilibili.com/video/BV1Cepw6TEid",
+      "keyword": "软件设计师 死锁必要条件"
+    },
+    {
+      "bvid": "BV1RGoWY3EzG",
+      "title": "操作系统银行家算法-无畏契约版",
+      "author": "武商院Alice",
+      "play": 152915,
+      "duration": "4:7",
+      "url": "https://www.bilibili.com/video/BV1RGoWY3EzG",
+      "keyword": "软考 死锁 银行家"
+    },
+    {
+      "bvid": "BV1av411q73F",
+      "title": "花三分钟了解一下死锁 | 这波不亏，不亏",
+      "author": "JayCode",
+      "play": 135844,
+      "duration": "3:55",
+      "url": "https://www.bilibili.com/video/BV1av411q73F",
+      "keyword": "软考 死锁 银行家"
+    },
+    {
+      "bvid": "BV1eF411d7Kx",
+      "title": "死锁即为极致的残局魔术师",
+      "author": "casperrfps",
+      "play": 69734,
+      "duration": "7:12",
+      "url": "https://www.bilibili.com/video/BV1eF411d7Kx",
+      "keyword": "软考 死锁 银行家"
+    },
+    {
+      "bvid": "BV17ooSB2E6T",
+      "title": "2026年死锁最夯Mod推荐！帧率瞬间翻倍！",
+      "author": "小猪日大楼",
+      "play": 65753,
+      "duration": "3:36",
+      "url": "https://www.bilibili.com/video/BV17ooSB2E6T",
+      "keyword": "软件设计师 死锁必要条件"
+    },
+    {
+      "bvid": "BV1Pk4y1G7b6",
+      "title": "408操作系统第二章6-死锁及真题讲解",
+      "author": "就是氧气11",
+      "play": 37868,
+      "duration": "22:30",
+      "url": "https://www.bilibili.com/video/BV1Pk4y1G7b6",
+      "keyword": "软考 死锁 银行家"
+    },
+    {
+      "bvid": "BV1Hh5Z6ME4r",
+      "title": "别报软考了，没意义：曾靠“以考代评”封神，如今没人抢着考了",
+      "author": "懦弱小橘子3",
+      "play": 23542,
+      "duration": "3:46",
+      "url": "https://www.bilibili.com/video/BV1Hh5Z6ME4r",
+      "keyword": "软件设计师 死锁必要条件"
+    },
+    {
+      "bvid": "BV1Fc411W74Z",
+      "title": "业务并发导致死锁，特殊业务逻辑处理，一些通用解决方案分享",
+      "author": "极海Channel",
+      "play": 22560,
+      "duration": "5:4",
+      "url": "https://www.bilibili.com/video/BV1Fc411W74Z",
+      "keyword": "软件设计师 死锁必要条件"
+    }
+  ],
+  "操作系统-页式存储": [
+    {
+      "bvid": "BV1Y44y1D7vv",
+      "title": "计算机操作系统计算题三——页面置换算法",
+      "author": "爱吃麻薯的小王同学",
+      "play": 442220,
+      "duration": "14:42",
+      "url": "https://www.bilibili.com/video/BV1Y44y1D7vv",
+      "keyword": "软件设计师 页面置换 LRU"
+    },
+    {
+      "bvid": "BV1hd4y1m7yC",
+      "title": "16分半还你一个能听懂基本分页存储管理在干嘛的大脑！",
+      "author": "Beokayy_",
+      "play": 293100,
+      "duration": "16:35",
+      "url": "https://www.bilibili.com/video/BV1hd4y1m7yC",
+      "keyword": "软考 页式存储 逻辑地址"
+    },
+    {
+      "bvid": "BV1ba4y1m7Fc",
+      "title": "操作系统地址转换大题",
+      "author": "茉墨七",
+      "play": 264879,
+      "duration": "8:28",
+      "url": "https://www.bilibili.com/video/BV1ba4y1m7Fc",
+      "keyword": "软考 页式存储 逻辑地址"
+    },
+    {
+      "bvid": "BV13X4y1k7Tf",
+      "title": "【原理计算题】存储容量计算；内存地址计算；某计算机的内存以字节编址，地址范围为30000H~AFFFFH，则其存储容量为多少？",
+      "author": "短尾巴的阿吉",
+      "play": 111291,
+      "duration": "11:6",
+      "url": "https://www.bilibili.com/video/BV13X4y1k7Tf",
+      "keyword": "软考 页式存储 逻辑地址"
+    },
+    {
+      "bvid": "BV1Hb4y1J7dD",
+      "title": "【操作系统】10分钟-速解页面置换算法",
+      "author": "Chocovanilazuki",
+      "play": 76612,
+      "duration": "12:4",
+      "url": "https://www.bilibili.com/video/BV1Hb4y1J7dD",
+      "keyword": "软件设计师 页面置换 LRU"
+    },
+    {
+      "bvid": "BV1QY411T7RM",
+      "title": "3.12  页式存储、段式存储、段页式存储",
+      "author": "金小贱Z",
+      "play": 48861,
+      "duration": "18:9",
+      "url": "https://www.bilibili.com/video/BV1QY411T7RM",
+      "keyword": "软考 页式存储 逻辑地址"
+    },
+    {
+      "bvid": "BV1pP411B7J2",
+      "title": "看了就会做系列！每个APP必备的「我的」页面，怎么设计？【UI设计0基础教程】",
+      "author": "即时设计-在线UI设计",
+      "play": 45758,
+      "duration": "9:20",
+      "url": "https://www.bilibili.com/video/BV1pP411B7J2",
+      "keyword": "软件设计师 页面置换 LRU"
+    },
+    {
+      "bvid": "BV1uY411k73T",
+      "title": "页式存储管理讲解",
+      "author": "我的狗姓阳",
+      "play": 36567,
+      "duration": "4:33",
+      "url": "https://www.bilibili.com/video/BV1uY411k73T",
+      "keyword": "软考 页式存储 逻辑地址"
+    },
+    {
+      "bvid": "BV1shVd6iEzs",
+      "title": "ui-ux-pro-max-skill上的49种前端UI通用风格",
+      "author": "每周一个idea",
+      "play": 33019,
+      "duration": "4:0",
+      "url": "https://www.bilibili.com/video/BV1shVd6iEzs",
+      "keyword": "软件设计师 页面置换 LRU"
+    },
+    {
+      "bvid": "BV1aAnbziEQE",
+      "title": "8分钟搞懂虚拟内存和分页，操作系统核心知识点get！| 程序崩溃 / 多任务处理 / 按需分页 / 共享页面",
+      "author": "赛博门外憨",
+      "play": 31218,
+      "duration": "8:9",
+      "url": "https://www.bilibili.com/video/BV1aAnbziEQE",
+      "keyword": "软考 页式存储 逻辑地址"
+    }
+  ],
+  "操作系统-文件索引": [
+    {
+      "bvid": "BV13b4y1Q7YD",
+      "title": "操作系统原理(合集)",
+      "author": "从0开始数",
+      "play": 459306,
+      "duration": "36:38",
+      "url": "https://www.bilibili.com/video/BV13b4y1Q7YD",
+      "keyword": "文件系统 磁盘空间管理 操作系统"
+    },
+    {
+      "bvid": "BV19h48zoEeB",
+      "title": "CoreDumped【中英⚡图解操作系统原理|Operating Systems Theory】",
+      "author": "常青藤中英字幕课程",
+      "play": 119427,
+      "duration": "192:6",
+      "url": "https://www.bilibili.com/video/BV19h48zoEeB",
+      "keyword": "操作系统 文件管理 索引节点 位示图"
+    },
+    {
+      "bvid": "BV1kLuFzyEEs",
+      "title": "文件整理术【大学生Windows基础05】都放桌面可以吗？丨用好&quot;默认文件夹&quot;",
+      "author": "文西碎碎念",
+      "play": 96108,
+      "duration": "6:0",
+      "url": "https://www.bilibili.com/video/BV1kLuFzyEEs",
+      "keyword": "文件系统 磁盘空间管理 操作系统"
+    },
+    {
+      "bvid": "BV1h8CyBXEiQ",
+      "title": "文件系统-物理结构大题全解析！方法简单固定",
+      "author": "计算机考研-雨涵",
+      "play": 49188,
+      "duration": "68:53",
+      "url": "https://www.bilibili.com/video/BV1h8CyBXEiQ",
+      "keyword": "操作系统 文件管理 索引节点 位示图"
+    },
+    {
+      "bvid": "BV1Mi4y1K7CW",
+      "title": "「操作系统」磁盘管理之位示图法",
+      "author": "熊哥保佑你",
+      "play": 46058,
+      "duration": "17:46",
+      "url": "https://www.bilibili.com/video/BV1Mi4y1K7CW",
+      "keyword": "操作系统 文件管理 索引节点 位示图"
+    },
+    {
+      "bvid": "BV1Nw411V7VZ",
+      "title": "【普识无滑】你真的会管理电脑硬盘吗？别再让你的电脑受伤了！",
+      "author": "广東老陈",
+      "play": 37370,
+      "duration": "14:12",
+      "url": "https://www.bilibili.com/video/BV1Nw411V7VZ",
+      "keyword": "文件系统 磁盘空间管理 操作系统"
+    },
+    {
+      "bvid": "BV1ru411o7Fy",
+      "title": "王道操作系统-位示图方法",
+      "author": "我一定会上华师",
+      "play": 28830,
+      "duration": "18:39",
+      "url": "https://www.bilibili.com/video/BV1ru411o7Fy",
+      "keyword": "操作系统 文件管理 索引节点 位示图"
+    },
+    {
+      "bvid": "BV1q341137Fq",
+      "title": "3.15  索引文件结构",
+      "author": "金小贱Z",
+      "play": 13220,
+      "duration": "10:40",
+      "url": "https://www.bilibili.com/video/BV1q341137Fq",
+      "keyword": "操作系统 文件管理 索引节点 位示图"
+    },
+    {
+      "bvid": "BV13DH263EoM",
+      "title": "一小时速通《操作系统》",
+      "author": "橙子粉972",
+      "play": 11287,
+      "duration": "53:54",
+      "url": "https://www.bilibili.com/video/BV13DH263EoM",
+      "keyword": "操作系统 文件管理 索引节点 位示图"
+    },
+    {
+      "bvid": "BV1Nv4y1X7E5",
+      "title": "4.13.文件存储空间管理：位示图法",
+      "author": "彭彭学编程",
+      "play": 6968,
+      "duration": "5:32",
+      "url": "https://www.bilibili.com/video/BV1Nv4y1X7E5",
+      "keyword": "操作系统 文件管理 索引节点 位示图"
+    }
+  ],
+  "数据库-ER关系模式": [
+    {
+      "bvid": "BV1LZ4y1k7ma",
+      "title": "「软件设计师」 上午题 #6 数据库",
+      "author": "zst_2001",
+      "play": 756254,
+      "duration": "1031:44",
+      "url": "https://www.bilibili.com/video/BV1LZ4y1k7ma",
+      "keyword": "软件设计师 数据库下午题"
+    },
+    {
+      "bvid": "BV1pFQfYzEta",
+      "title": "【数据库必考】怎么画ER图及如何转为关系模型",
+      "author": "小皮睡不饱",
+      "play": 336559,
+      "duration": "6:30",
+      "url": "https://www.bilibili.com/video/BV1pFQfYzEta",
+      "keyword": "软考 ER图 关系模式"
+    },
+    {
+      "bvid": "BV1tV4y1d7FE",
+      "title": "数据库详细速成课之er图和关系模型",
+      "author": "言齐齐齐",
+      "play": 322248,
+      "duration": "18:16",
+      "url": "https://www.bilibili.com/video/BV1tV4y1d7FE",
+      "keyword": "软考 ER图 关系模式"
+    },
+    {
+      "bvid": "BV1p2iJBJE7N",
+      "title": "【数据库速成】画E-R图&amp;转关系模式 期末大题 必考15分",
+      "author": "-兔子帮-",
+      "play": 250677,
+      "duration": "15:54",
+      "url": "https://www.bilibili.com/video/BV1p2iJBJE7N",
+      "keyword": "软考 ER图 关系模式"
+    },
+    {
+      "bvid": "BV1DnGbzyEHT",
+      "title": "E-R图向关系模型的转换",
+      "author": "橘子怒学",
+      "play": 85964,
+      "duration": "8:54",
+      "url": "https://www.bilibili.com/video/BV1DnGbzyEHT",
+      "keyword": "软考 ER图 关系模式"
+    },
+    {
+      "bvid": "BV13ZwQzpE8X",
+      "title": "【B站强推】2026年软考中级《数据库系统工程师》完整精讲课程，零基础必学，全程干货无废话！up已经替大家尝试了，这份课程真的很管用（附历年真题讲解+配套资料）",
+      "author": "软考酱",
+      "play": 46215,
+      "duration": "1789:3",
+      "url": "https://www.bilibili.com/video/BV13ZwQzpE8X",
+      "keyword": "软件设计师 数据库下午题"
+    },
+    {
+      "bvid": "BV1m64y1R7HB",
+      "title": "【计算机软考】2021年数据库工程师下午真题",
+      "author": "薛大龙讲软考",
+      "play": 21365,
+      "duration": "127:40",
+      "url": "https://www.bilibili.com/video/BV1m64y1R7HB",
+      "keyword": "软件设计师 数据库下午题"
+    },
+    {
+      "bvid": "BV1Jt411d7sw",
+      "title": "软考(下午第一题)——数据库设计",
+      "author": "ThunderWinds",
+      "play": 18330,
+      "duration": "48:6",
+      "url": "https://www.bilibili.com/video/BV1Jt411d7sw",
+      "keyword": "软件设计师 数据库下午题"
+    },
+    {
+      "bvid": "BV1WPzEYhE4T",
+      "title": "透彻掌握ER图和关系模式之间的相互转换 数据库系统概论 适用于全国专升本/江苏省专转本/五年一贯制高职专转本计算机专业课/数据库期末考试",
+      "author": "云开本科",
+      "play": 12529,
+      "duration": "46:50",
+      "url": "https://www.bilibili.com/video/BV1WPzEYhE4T",
+      "keyword": "软考 ER图 关系模式"
+    },
+    {
+      "bvid": "BV1dt411Z7Nt",
+      "title": "软考——数据库",
+      "author": "ThunderWinds",
+      "play": 6838,
+      "duration": "186:51",
+      "url": "https://www.bilibili.com/video/BV1dt411Z7Nt",
+      "keyword": "软件设计师 数据库下午题"
+    }
+  ],
+  "数据库-SQL范式": [
+    {
+      "bvid": "BV1bQxMehETa",
+      "title": "SQL 十四分钟速成班！没错不要怀疑，资料库语法比中午决定吃什么还要简单！",
+      "author": "PAPAYA电脑教室",
+      "play": 572098,
+      "duration": "13:36",
+      "url": "https://www.bilibili.com/video/BV1bQxMehETa",
+      "keyword": "软考 SQL 范式 1NF 3NF"
+    },
+    {
+      "bvid": "BV1724y1T72K",
+      "title": "数据库速成课之关系代数运算",
+      "author": "言齐齐齐",
+      "play": 326364,
+      "duration": "37:31",
+      "url": "https://www.bilibili.com/video/BV1724y1T72K",
+      "keyword": "软件设计师 关系代数"
+    },
+    {
+      "bvid": "BV15763YaECb",
+      "title": "SQL编程大赛冠军郭其：1.184 秒夺冠！通过 Oracle 完成百万车票分配的SQL 底层逻辑和算法技巧解读",
+      "author": "NineData",
+      "play": 299859,
+      "duration": "25:26",
+      "url": "https://www.bilibili.com/video/BV15763YaECb",
+      "keyword": "软考 SQL 范式 1NF 3NF"
+    },
+    {
+      "bvid": "BV1Re4y1u7Cj",
+      "title": "数据库范式分解方法（最简便的方法）-3nf，bcnf",
+      "author": "ReX丿",
+      "play": 235188,
+      "duration": "5:55",
+      "url": "https://www.bilibili.com/video/BV1Re4y1u7Cj",
+      "keyword": "软考 SQL 范式 1NF 3NF"
+    },
+    {
+      "bvid": "BV1DPRYYDE7Q",
+      "title": "10分钟解决数据库范式问题",
+      "author": "硕成专升本鱼叔-C语言",
+      "play": 168541,
+      "duration": "10:14",
+      "url": "https://www.bilibili.com/video/BV1DPRYYDE7Q",
+      "keyword": "软考 SQL 范式 1NF 3NF"
+    },
+    {
+      "bvid": "BV1Kh4y1f7Ha",
+      "title": "数据库期末速成范式",
+      "author": "夜深昕雨",
+      "play": 96840,
+      "duration": "13:9",
+      "url": "https://www.bilibili.com/video/BV1Kh4y1f7Ha",
+      "keyword": "软考 SQL 范式 1NF 3NF"
+    },
+    {
+      "bvid": "BV1u14y1H72w",
+      "title": "10分钟快速掌握数据库2NF,3NF,BCNF",
+      "author": "算法咖",
+      "play": 90854,
+      "duration": "14:15",
+      "url": "https://www.bilibili.com/video/BV1u14y1H72w",
+      "keyword": "软考 SQL 范式 1NF 3NF"
+    },
+    {
+      "bvid": "BV1Sk4y1H7NK",
+      "title": "【数据库】1个做题技巧秒杀范式判断，期末考get高分！！！1NF、2NF、3NF、BCNF",
+      "author": "DJ在教书",
+      "play": 84347,
+      "duration": "10:29",
+      "url": "https://www.bilibili.com/video/BV1Sk4y1H7NK",
+      "keyword": "软考 SQL 范式 1NF 3NF"
+    },
+    {
+      "bvid": "BV159tbeqEk4",
+      "title": "数据库第一范式，第二范式，第三范式讲解",
+      "author": "奔驰上树不耗油",
+      "play": 40958,
+      "duration": "14:10",
+      "url": "https://www.bilibili.com/video/BV159tbeqEk4",
+      "keyword": "软考 SQL 范式 1NF 3NF"
+    },
+    {
+      "bvid": "BV1zM4y1s7ar",
+      "title": "【关系代数】并、交、差与广义笛卡尔积",
+      "author": "土豆泥怕木",
+      "play": 27508,
+      "duration": "8:25",
+      "url": "https://www.bilibili.com/video/BV1zM4y1s7ar",
+      "keyword": "软件设计师 关系代数"
+    }
+  ],
+  "数据库-事务": [
+    {
+      "bvid": "BV1JG4y1Q7BX",
+      "title": "5分钟精通数据库事务-ACID和三大问题",
+      "author": "猿人林克",
+      "play": 50086,
+      "duration": "6:49",
+      "url": "https://www.bilibili.com/video/BV1JG4y1Q7BX",
+      "keyword": "软考 事务 ACID 封锁"
+    },
+    {
+      "bvid": "BV1HwgU6aEK3",
+      "title": "全200集【1个月学完信息安全工程师】目前B站最好的软考中级信息安全工程师课程 (配套资料PDF）可打印",
+      "author": "如风走了八千里",
+      "play": 16526,
+      "duration": "4554:27",
+      "url": "https://www.bilibili.com/video/BV1HwgU6aEK3",
+      "keyword": "软考 事务 ACID 封锁"
+    },
+    {
+      "bvid": "BV1FnR9YhEwH",
+      "title": "19分钟Spring事务精讲（ACID、事务属性、底层原理、事务失效、事务使用）",
+      "author": "仙可程序员",
+      "play": 16369,
+      "duration": "19:33",
+      "url": "https://www.bilibili.com/video/BV1FnR9YhEwH",
+      "keyword": "软考 事务 ACID 封锁"
+    },
+    {
+      "bvid": "BV11EqZYiEAM",
+      "title": "数据库事务系列01-白话ACID",
+      "author": "程序员Shark",
+      "play": 1611,
+      "duration": "14:18",
+      "url": "https://www.bilibili.com/video/BV11EqZYiEAM",
+      "keyword": "软考 事务 ACID 封锁"
+    },
+    {
+      "bvid": "BV1JNHX6KEJJ",
+      "title": "考前冲刺！一周学完2026年软考信息安全工程师急救通关跟学视频！信安精讲教程+冲刺串讲+题库+配套资料，保45争50分，邪修一次上岸！",
+      "author": "希赛软考",
+      "play": 1453,
+      "duration": "1458:13",
+      "url": "https://www.bilibili.com/video/BV1JNHX6KEJJ",
+      "keyword": "软考 事务 ACID 封锁"
+    },
+    {
+      "bvid": "BV1Gg411n7AV",
+      "title": "图灵诸葛老师Mysql事务与锁机制原理详解 | 事务ACID特性、事务的四种隔离级别、MVCC原理、BufferPool缓存机制、事务优化、redo日志",
+      "author": "图灵课堂官方视频",
+      "play": 1185,
+      "duration": "165:3",
+      "url": "https://www.bilibili.com/video/BV1Gg411n7AV",
+      "keyword": "软考 事务 ACID 封锁"
+    },
+    {
+      "bvid": "BV1fe4y1r7sT",
+      "title": "全网最好的Mysql事务与锁机制原理详解 | redo日志、ACID底层原理、事务四大隔离级别、MVCC、BufferPool缓存、事务优化等",
+      "author": "程序员阿翔",
+      "play": 636,
+      "duration": "161:33",
+      "url": "https://www.bilibili.com/video/BV1fe4y1r7sT",
+      "keyword": "软考 事务 ACID 封锁"
+    },
+    {
+      "bvid": "BV1A4RmBkEDT",
+      "title": "事务的ACID特性详解",
+      "author": "不Yellow",
+      "play": 51,
+      "duration": "8:35",
+      "url": "https://www.bilibili.com/video/BV1A4RmBkEDT",
+      "keyword": "软考 事务 ACID 封锁"
+    }
+  ],
+  "网络-OSI协议栈": [
+    {
+      "bvid": "BV1EU4y1v7ju",
+      "title": "互联网数据传输原理 ｜OSI七层网络参考模型",
+      "author": "技术蛋老师",
+      "play": 330530,
+      "duration": "10:5",
+      "url": "https://www.bilibili.com/video/BV1EU4y1v7ju",
+      "keyword": "软考 OSI七层 TCP IP"
+    },
+    {
+      "bvid": "BV1gU4y1U72k",
+      "title": "「软件设计师」 上午题 #15 计算机网络",
+      "author": "zst_2001",
+      "play": 298744,
+      "duration": "336:46",
+      "url": "https://www.bilibili.com/video/BV1gU4y1U72k",
+      "keyword": "软考 OSI七层 TCP IP"
+    },
+    {
+      "bvid": "BV1pu411G7P6",
+      "title": "TCP/IP 网络编程从零开始",
+      "author": "天天写乱码",
+      "play": 166924,
+      "duration": "137:22",
+      "url": "https://www.bilibili.com/video/BV1pu411G7P6",
+      "keyword": "软考 OSI七层 TCP IP"
+    },
+    {
+      "bvid": "BV1Pt41137w6",
+      "title": "网络协议 TCP/IP 视频教程全集（23P）| 14 小时从入门到精通",
+      "author": "Java基基",
+      "play": 141536,
+      "duration": "880:47",
+      "url": "https://www.bilibili.com/video/BV1Pt41137w6",
+      "keyword": "软件设计师 网络协议分层"
+    },
+    {
+      "bvid": "BV1gV8F6bEFr",
+      "title": "【2026最新版】软考中级网络工程师精讲视频教程（全118集）",
+      "author": "Ustinian9527",
+      "play": 78292,
+      "duration": "2093:56",
+      "url": "https://www.bilibili.com/video/BV1gV8F6bEFr",
+      "keyword": "软考 OSI七层 TCP IP"
+    },
+    {
+      "bvid": "BV14A411E7d5",
+      "title": "五分钟理解网络分层模型。什么是OSI七层模型？什么是TCP/IP协议五层模型？",
+      "author": "敬维",
+      "play": 58706,
+      "duration": "6:19",
+      "url": "https://www.bilibili.com/video/BV14A411E7d5",
+      "keyword": "软件设计师 网络协议分层"
+    },
+    {
+      "bvid": "BV1Q1421Q7Hv",
+      "title": "全国也没几个比我讲得好！之《OSI七层网络参考模型》，别以为很简单，面试必问你能说清吗？机翻字幕，这里纠正错误：思维导图软件是：xmind，在线笔记是：息流",
+      "author": "高骞",
+      "play": 31270,
+      "duration": "35:20",
+      "url": "https://www.bilibili.com/video/BV1Q1421Q7Hv",
+      "keyword": "软考 OSI七层 TCP IP"
+    },
+    {
+      "bvid": "BV1qJ411J7Tt",
+      "title": "【转载-中文字幕】计算机网络-OSI七层模型",
+      "author": "青杏板栗",
+      "play": 30086,
+      "duration": "16:42",
+      "url": "https://www.bilibili.com/video/BV1qJ411J7Tt",
+      "keyword": "软考 OSI七层 TCP IP"
+    },
+    {
+      "bvid": "BV1Nbj76NEDB",
+      "title": "接近满分的网络工程毕业设计是什么样的——《基于MPLS与DSVPN分层架构的大型金融企业网络规划设计》毕设分享",
+      "author": "魂渡_hund",
+      "play": 26980,
+      "duration": "181:15",
+      "url": "https://www.bilibili.com/video/BV1Nbj76NEDB",
+      "keyword": "软件设计师 网络协议分层"
+    },
+    {
+      "bvid": "BV1aE4peVEhe",
+      "title": "网络协议分层如何更好理解 初中信息科技",
+      "author": "T_zhao",
+      "play": 24338,
+      "duration": "3:53",
+      "url": "https://www.bilibili.com/video/BV1aE4peVEhe",
+      "keyword": "软件设计师 网络协议分层"
+    }
+  ],
+  "网络-IP子网": [
+    {
+      "bvid": "BV1ym4y1D7RW",
+      "title": "「软件设计师」 上午题 #1 计算机系统",
+      "author": "zst_2001",
+      "play": 1898714,
+      "duration": "515:23",
+      "url": "https://www.bilibili.com/video/BV1ym4y1D7RW",
+      "keyword": "软件设计师 IP地址 计算"
+    },
+    {
+      "bvid": "BV1be4y1i78u",
+      "title": "【计算机网络】子网划分题型总结",
+      "author": "Please907",
+      "play": 543802,
+      "duration": "39:7",
+      "url": "https://www.bilibili.com/video/BV1be4y1i78u",
+      "keyword": "软考 子网划分 CIDR"
+    },
+    {
+      "bvid": "BV1ib4y117ci",
+      "title": "牛逼！让人头疼的ip子网划分原来这么简单......超详细例题解析｜附子网计算器",
+      "author": "IT课程学长",
+      "play": 509969,
+      "duration": "52:0",
+      "url": "https://www.bilibili.com/video/BV1ib4y117ci",
+      "keyword": "软考 子网划分 CIDR"
+    },
+    {
+      "bvid": "BV1fE411V7zb",
+      "title": "计算机网络-IP地址的划分",
+      "author": "Cauchy可喜可乐",
+      "play": 379157,
+      "duration": "42:12",
+      "url": "https://www.bilibili.com/video/BV1fE411V7zb",
+      "keyword": "软件设计师 IP地址 计算"
+    },
+    {
+      "bvid": "BV1D362YpETh",
+      "title": "十分钟带你全方位了解：什么是IP地址、子网掩码、网关、DNS，小白也能轻松学会！",
+      "author": "网工涛哥",
+      "play": 359930,
+      "duration": "15:58",
+      "url": "https://www.bilibili.com/video/BV1D362YpETh",
+      "keyword": "软件设计师 IP地址 计算"
+    },
+    {
+      "bvid": "BV19D4y197uD",
+      "title": "十分钟理解子网划分  路由技术基础",
+      "author": "豆豆家姐姐",
+      "play": 203101,
+      "duration": "16:10",
+      "url": "https://www.bilibili.com/video/BV19D4y197uD",
+      "keyword": "软考 子网划分 CIDR"
+    },
+    {
+      "bvid": "BV1U2ijBQEav",
+      "title": "计算机网络子网划分 CIDR 期末速成 必考大题",
+      "author": "快来吃掉小鱼派",
+      "play": 107732,
+      "duration": "13:48",
+      "url": "https://www.bilibili.com/video/BV1U2ijBQEav",
+      "keyword": "软考 子网划分 CIDR"
+    },
+    {
+      "bvid": "BV1yhx5euEFo",
+      "title": "IP地址与掩码计算全攻略！轻松求出网络地址、广播地址和可用IP范围",
+      "author": "大号鑫仔",
+      "play": 93428,
+      "duration": "12:57",
+      "url": "https://www.bilibili.com/video/BV1yhx5euEFo",
+      "keyword": "软件设计师 IP地址 计算"
+    },
+    {
+      "bvid": "BV1pZViz4EYi",
+      "title": "8分钟搞定子网划分",
+      "author": "熊猫的KT猫",
+      "play": 62383,
+      "duration": "7:35",
+      "url": "https://www.bilibili.com/video/BV1pZViz4EYi",
+      "keyword": "软考 子网划分 CIDR"
+    },
+    {
+      "bvid": "BV1vh4y1Q7Vw",
+      "title": "IP地址的计算方法",
+      "author": "精彩网络技术",
+      "play": 62277,
+      "duration": "8:18",
+      "url": "https://www.bilibili.com/video/BV1vh4y1Q7Vw",
+      "keyword": "软件设计师 IP地址 计算"
+    }
+  ],
+  "网络-TCP": [
+    {
+      "bvid": "BV1KY411x7Jp",
+      "title": "HTTPS是什么？加密原理和证书。SSL/TLS握手过程",
+      "author": "技术蛋老师",
+      "play": 487844,
+      "duration": "11:32",
+      "url": "https://www.bilibili.com/video/BV1KY411x7Jp",
+      "keyword": "软考 TCP 三次握手"
+    },
+    {
+      "bvid": "BV1rwTCzxEZ3",
+      "title": "【吊打付费】零基础学上位机通信，网口+串口+TCP+UDP+Modbus+S7 小白到项目实战快速上手（C#/Winform/WPF/工控/实战）B1458",
+      "author": "DotNET知识库",
+      "play": 388198,
+      "duration": "395:24",
+      "url": "https://www.bilibili.com/video/BV1rwTCzxEZ3",
+      "keyword": "软考 TCP 三次握手"
+    },
+    {
+      "bvid": "BV18h41187Ep",
+      "title": "TCP三次握手和四次挥手",
+      "author": "技术蛋老师",
+      "play": 368277,
+      "duration": "8:59",
+      "url": "https://www.bilibili.com/video/BV18h41187Ep",
+      "keyword": "软考 TCP 三次握手"
+    },
+    {
+      "bvid": "BV1at4y1Q77b",
+      "title": "TCP协议三次握手与四次挥手",
+      "author": "doubleyong",
+      "play": 217523,
+      "duration": "14:8",
+      "url": "https://www.bilibili.com/video/BV1at4y1Q77b",
+      "keyword": "软考 TCP 三次握手"
+    },
+    {
+      "bvid": "BV1bi4y1x7m5",
+      "title": "【深度讲解+面试回答】tcp/ip协议三次握手、四次挥手，通俗易懂，亲自解答",
+      "author": "IT楠老师",
+      "play": 179861,
+      "duration": "21:4",
+      "url": "https://www.bilibili.com/video/BV1bi4y1x7m5",
+      "keyword": "软考 TCP 三次握手"
+    },
+    {
+      "bvid": "BV1aPBCYCESR",
+      "title": "TCP拥塞控制算法及题目的讲解",
+      "author": "晓c老师",
+      "play": 103327,
+      "duration": "15:36",
+      "url": "https://www.bilibili.com/video/BV1aPBCYCESR",
+      "keyword": "软件设计师 TCP拥塞控制"
+    },
+    {
+      "bvid": "BV1Du4m1u7un",
+      "title": "TCP三次握手和四次挥手以及为什么",
+      "author": "白衣0v0",
+      "play": 100995,
+      "duration": "5:41",
+      "url": "https://www.bilibili.com/video/BV1Du4m1u7un",
+      "keyword": "软考 TCP 三次握手"
+    },
+    {
+      "bvid": "BV1oo4y1j7Eb",
+      "title": "计算机网络-一次TCP通信过程分析",
+      "author": "码上小白",
+      "play": 84352,
+      "duration": "14:33",
+      "url": "https://www.bilibili.com/video/BV1oo4y1j7Eb",
+      "keyword": "软考 TCP 三次握手"
+    },
+    {
+      "bvid": "BV1jWS7BeEX5",
+      "title": "“我为人人，人人为我”的TCP拥塞控制",
+      "author": "技术蛋老师",
+      "play": 39581,
+      "duration": "10:53",
+      "url": "https://www.bilibili.com/video/BV1jWS7BeEX5",
+      "keyword": "软件设计师 TCP拥塞控制"
+    },
+    {
+      "bvid": "BV1JcbCzCELm",
+      "title": "14、题三次握手与四次挥手，以及报文流程分析",
+      "author": "你喝菠萝汽水吗",
+      "play": 33001,
+      "duration": "24:41",
+      "url": "https://www.bilibili.com/video/BV1JcbCzCELm",
+      "keyword": "软考 TCP 三次握手"
+    }
+  ],
+  "UML-用例图类图": [
+    {
+      "bvid": "BV1Wu4y1Y7ya",
+      "title": "6 分钟学会 UML 类图",
+      "author": "肥猫简图",
+      "play": 659243,
+      "duration": "6:24",
+      "url": "https://www.bilibili.com/video/BV1Wu4y1Y7ya",
+      "keyword": "软件设计师 类图 聚合组合"
+    },
+    {
+      "bvid": "BV1qN41177fw",
+      "title": "6 分钟学会 UML 用例图",
+      "author": "肥猫简图",
+      "play": 469015,
+      "duration": "6:1",
+      "url": "https://www.bilibili.com/video/BV1qN41177fw",
+      "keyword": "软考 UML 用例图 include extend"
+    },
+    {
+      "bvid": "BV1yU82zcEgv",
+      "title": "以前的程序员，除了敲代码，还得会画画【让编程再次伟大#42】",
+      "author": "原子能",
+      "play": 156837,
+      "duration": "12:20",
+      "url": "https://www.bilibili.com/video/BV1yU82zcEgv",
+      "keyword": "软考 UML 用例图 include extend"
+    },
+    {
+      "bvid": "BV1nN411H7Dk",
+      "title": "【有效需求沟通】UML用例图",
+      "author": "Liria学姐",
+      "play": 69873,
+      "duration": "6:28",
+      "url": "https://www.bilibili.com/video/BV1nN411H7Dk",
+      "keyword": "软考 UML 用例图 include extend"
+    },
+    {
+      "bvid": "BV16E421T7hc",
+      "title": "架构师必须掌握的画图工具，时序图、架构图、各种UML图轻松掌握",
+      "author": "小编码上说",
+      "play": 61591,
+      "duration": "25:6",
+      "url": "https://www.bilibili.com/video/BV16E421T7hc",
+      "keyword": "软件设计师 类图 聚合组合"
+    },
+    {
+      "bvid": "BV1Jt411d7PR",
+      "title": "软考(下午第三题)——UML建模",
+      "author": "ThunderWinds",
+      "play": 61235,
+      "duration": "64:44",
+      "url": "https://www.bilibili.com/video/BV1Jt411d7PR",
+      "keyword": "软考 UML 用例图 include extend"
+    },
+    {
+      "bvid": "BV1W59cB3EVn",
+      "title": "UML类图20分钟速通，知识点+例题全覆盖，零基础看完就会画类图",
+      "author": "小发宝耶",
+      "play": 52216,
+      "duration": "18:59",
+      "url": "https://www.bilibili.com/video/BV1W59cB3EVn",
+      "keyword": "软件设计师 类图 聚合组合"
+    },
+    {
+      "bvid": "BV1qWXfBxEgE",
+      "title": "UML用例图10分钟速通，看完就会画，知识点+例题全覆盖",
+      "author": "小发宝耶",
+      "play": 42458,
+      "duration": "10:11",
+      "url": "https://www.bilibili.com/video/BV1qWXfBxEgE",
+      "keyword": "软考 UML 用例图 include extend"
+    },
+    {
+      "bvid": "BV19mMu66Eap",
+      "title": "设计师如何使用 Codex",
+      "author": "nodeHello",
+      "play": 26011,
+      "duration": "16:44",
+      "url": "https://www.bilibili.com/video/BV19mMu66Eap",
+      "keyword": "软件设计师 类图 聚合组合"
+    },
+    {
+      "bvid": "BV1Fo4y1H7t6",
+      "title": "汽车 APP UI 设计的艺术：看国外天才设计师如何用 Figma 实现高端设计",
+      "author": "Super咕咕爱前端和设计",
+      "play": 15965,
+      "duration": "38:12",
+      "url": "https://www.bilibili.com/video/BV1Fo4y1H7t6",
+      "keyword": "软件设计师 类图 聚合组合"
+    }
+  ],
+  "UML-序列图": [
+    {
+      "bvid": "BV1a44y1K7HH",
+      "title": "「软件设计师」 上午题 #8 UML",
+      "author": "zst_2001",
+      "play": 511352,
+      "duration": "405:37",
+      "url": "https://www.bilibili.com/video/BV1a44y1K7HH",
+      "keyword": "软考 UML 序列图 状态图"
+    },
+    {
+      "bvid": "BV1YM411f7dr",
+      "title": "5 分钟学会 UML 时序图（顺序图、序列图）",
+      "author": "肥猫简图",
+      "play": 439717,
+      "duration": "5:8",
+      "url": "https://www.bilibili.com/video/BV1YM411f7dr",
+      "keyword": "软考 UML 序列图 状态图"
+    },
+    {
+      "bvid": "BV1dx421S7Lo",
+      "title": "2 分钟学会 UML 状态图",
+      "author": "肥猫简图",
+      "play": 157851,
+      "duration": "2:17",
+      "url": "https://www.bilibili.com/video/BV1dx421S7Lo",
+      "keyword": "软考 UML 序列图 状态图"
+    },
+    {
+      "bvid": "BV1x94y1u75f",
+      "title": "【有效需求沟通】UML状态图",
+      "author": "Liria学姐",
+      "play": 42796,
+      "duration": "6:10",
+      "url": "https://www.bilibili.com/video/BV1x94y1u75f",
+      "keyword": "软考 UML 序列图 状态图"
+    },
+    {
+      "bvid": "BV1Je411n7Eb",
+      "title": "Verilog1011有限状态机画法讲解",
+      "author": "-波波狗",
+      "play": 20757,
+      "duration": "8:45",
+      "url": "https://www.bilibili.com/video/BV1Je411n7Eb",
+      "keyword": "软考 UML 序列图 状态图"
+    },
+    {
+      "bvid": "BV1cAxTeLEvP",
+      "title": "6.11. UML图之状态图",
+      "author": "asianleolion",
+      "play": 6375,
+      "duration": "9:2",
+      "url": "https://www.bilibili.com/video/BV1cAxTeLEvP",
+      "keyword": "软考 UML 序列图 状态图"
+    }
+  ],
+  "设计模式-23个": [
+    {
+      "bvid": "BV18L4y1M7Bd",
+      "title": "「软件设计师」 上午题 #9 设计模式",
+      "author": "zst_2001",
+      "play": 533776,
+      "duration": "857:58",
+      "url": "https://www.bilibili.com/video/BV18L4y1M7Bd",
+      "keyword": "软考 设计模式 口诀"
+    },
+    {
+      "bvid": "BV1vNN4zaEo7",
+      "title": "【2025版】2小时带你彻底搞定23种设计模式！！全程干货无废话，允许白嫖！让你少走99%的弯路！",
+      "author": "徐庶架构师",
+      "play": 150529,
+      "duration": "146:21",
+      "url": "https://www.bilibili.com/video/BV1vNN4zaEo7",
+      "keyword": "软考 设计模式 口诀"
+    },
+    {
+      "bvid": "BV11B3i6GEn6",
+      "title": "你不是没创意，你是不会拆——从设计思维中提炼的通用学习方法论",
+      "author": "伏羲扩散局",
+      "play": 29289,
+      "duration": "57:51",
+      "url": "https://www.bilibili.com/video/BV11B3i6GEn6",
+      "keyword": "软件设计师 创建型 结构型 行为型"
+    },
+    {
+      "bvid": "BV15af3BTEPy",
+      "title": "设计师在AI时代出路很清晰：远离Figma，尽早写代码｜Cursor设计负责人Ryo Lu",
+      "author": "课代表立正",
+      "play": 26182,
+      "duration": "59:44",
+      "url": "https://www.bilibili.com/video/BV15af3BTEPy",
+      "keyword": "软件设计师 创建型 结构型 行为型"
+    },
+    {
+      "bvid": "BV1X14y1j7Uh",
+      "title": "信息系统项目管理师 软考 口诀",
+      "author": "懒人老师1100",
+      "play": 11704,
+      "duration": "15:18",
+      "url": "https://www.bilibili.com/video/BV1X14y1j7Uh",
+      "keyword": "软考 设计模式 口诀"
+    },
+    {
+      "bvid": "BV1nEZPY8EAi",
+      "title": "软考案例蒙题大法，完全不会也能写出来！",
+      "author": "秋意浓啊浓",
+      "play": 11585,
+      "duration": "48:19",
+      "url": "https://www.bilibili.com/video/BV1nEZPY8EAi",
+      "keyword": "软考 设计模式 口诀"
+    },
+    {
+      "bvid": "BV1fXcueHE7Z",
+      "title": "【中级职称】【软考】软件设计师中级知识点记忆默写",
+      "author": "祥羚玥",
+      "play": 3890,
+      "duration": "310:10",
+      "url": "https://www.bilibili.com/video/BV1fXcueHE7Z",
+      "keyword": "软考 设计模式 口诀"
+    },
+    {
+      "bvid": "BV1p84y1G7bD",
+      "title": "设计模式-Java版-创建型-结构型-行为型-1小时入门别人半个月的学习，超高效学习法",
+      "author": "波波酱老师",
+      "play": 3441,
+      "duration": "145:44",
+      "url": "https://www.bilibili.com/video/BV1p84y1G7bD",
+      "keyword": "软件设计师 创建型 结构型 行为型"
+    },
+    {
+      "bvid": "BV1xhLP6aEdU",
+      "title": "1）软考中级软件设计师上午题速成——设计模式",
+      "author": "橘子晚风0891",
+      "play": 3021,
+      "duration": "34:28",
+      "url": "https://www.bilibili.com/video/BV1xhLP6aEdU",
+      "keyword": "软考 设计模式 口诀"
+    },
+    {
+      "bvid": "BV1ejbe6hED6",
+      "title": "Java 设计模式｜创建型 + 结构型完整教程，工厂 / 单例 / 代理模式通俗易懂",
+      "author": "大美美呀0206",
+      "play": 333,
+      "duration": "300:55",
+      "url": "https://www.bilibili.com/video/BV1ejbe6hED6",
+      "keyword": "软件设计师 创建型 结构型 行为型"
+    }
+  ],
+  "设计模式-单例工厂": [
+    {
+      "bvid": "BV1XT4y1v7ih",
+      "title": "「软件设计师」 下午题 #4 试题六",
+      "author": "zst_2001",
+      "play": 688375,
+      "duration": "1037:4",
+      "url": "https://www.bilibili.com/video/BV1XT4y1v7ih",
+      "keyword": "软件设计师 抽象工厂"
+    },
+    {
+      "bvid": "BV1d5411R7AL",
+      "title": "一位“灵活就业”的设计师，年入百万，方法有创意",
+      "author": "doyoudo",
+      "play": 178003,
+      "duration": "8:6",
+      "url": "https://www.bilibili.com/video/BV1d5411R7AL",
+      "keyword": "软件设计师 抽象工厂"
+    },
+    {
+      "bvid": "BV1af4y1y7sS",
+      "title": "五分钟学设计模式.01.单例模式",
+      "author": "子烁爱学习",
+      "play": 147359,
+      "duration": "5:32",
+      "url": "https://www.bilibili.com/video/BV1af4y1y7sS",
+      "keyword": "软考 单例模式 工厂模式"
+    },
+    {
+      "bvid": "BV1xC411n7mL",
+      "title": "大型企业软件开发是什么样子的？ - Web Dev Cody",
+      "author": "黑纹白斑马",
+      "play": 44677,
+      "duration": "23:6",
+      "url": "https://www.bilibili.com/video/BV1xC411n7mL",
+      "keyword": "软件设计师 抽象工厂"
+    },
+    {
+      "bvid": "BV1EagM6SEHN",
+      "title": "两个月做了20+个App：我的AI App工厂是怎么跑起来的？【B站AI创造公开赛】",
+      "author": "MakerJackie",
+      "play": 23230,
+      "duration": "10:10",
+      "url": "https://www.bilibili.com/video/BV1EagM6SEHN",
+      "keyword": "软件设计师 抽象工厂"
+    },
+    {
+      "bvid": "BV1ZS421X74d",
+      "title": "工厂模式？错！是工厂模式群！",
+      "author": "EfficLab中文",
+      "play": 17024,
+      "duration": "14:39",
+      "url": "https://www.bilibili.com/video/BV1ZS421X74d",
+      "keyword": "软考 单例模式 工厂模式"
+    },
+    {
+      "bvid": "BV1ux4y157iU",
+      "title": "【10分钟了解Java设计模式】设计模式-工厂模式|手把手教你|通俗易懂",
+      "author": "程序员一棵树",
+      "play": 16734,
+      "duration": "10:58",
+      "url": "https://www.bilibili.com/video/BV1ux4y157iU",
+      "keyword": "软考 单例模式 工厂模式"
+    },
+    {
+      "bvid": "BV1524y1y79F",
+      "title": "十分钟蹂躏工厂模式（开倍速只要五分钟哦）",
+      "author": "叼烟写单测",
+      "play": 12418,
+      "duration": "9:48",
+      "url": "https://www.bilibili.com/video/BV1524y1y79F",
+      "keyword": "软考 单例模式 工厂模式"
+    },
+    {
+      "bvid": "BV1sj411b7wu",
+      "title": "第6章 抽象工厂模式",
+      "author": "爱上课的码农",
+      "play": 11228,
+      "duration": "25:6",
+      "url": "https://www.bilibili.com/video/BV1sj411b7wu",
+      "keyword": "软件设计师 抽象工厂"
+    },
+    {
+      "bvid": "BV13u411g7zn",
+      "title": "第9章 单例模式",
+      "author": "爱上课的码农",
+      "play": 8681,
+      "duration": "27:24",
+      "url": "https://www.bilibili.com/video/BV13u411g7zn",
+      "keyword": "软考 单例模式 工厂模式"
+    }
+  ],
+  "设计模式-观察者策略": [
+    {
+      "bvid": "BV1vg4y1v7V4",
+      "title": "五分钟学设计模式.07.观察者模式",
+      "author": "子烁爱学习",
+      "play": 92194,
+      "duration": "4:32",
+      "url": "https://www.bilibili.com/video/BV1vg4y1v7V4",
+      "keyword": "软考 观察者模式 策略模式"
+    },
+    {
+      "bvid": "BV1vT4y1E7g6",
+      "title": "五分钟学设计模式.10.策略模式",
+      "author": "子烁爱学习",
+      "play": 71819,
+      "duration": "5:9",
+      "url": "https://www.bilibili.com/video/BV1vT4y1E7g6",
+      "keyword": "软考 观察者模式 策略模式"
+    },
+    {
+      "bvid": "BV1Hz411e7sA",
+      "title": "五分钟学设计模式.06.适配器模式",
+      "author": "子烁爱学习",
+      "play": 70631,
+      "duration": "3:46",
+      "url": "https://www.bilibili.com/video/BV1Hz411e7sA",
+      "keyword": "软件设计师 装饰器 适配器"
+    },
+    {
+      "bvid": "BV14z421k7hv",
+      "title": "「观察者模式」与「发布/订阅模式」，你分得清楚吗？",
+      "author": "EfficLab中文",
+      "play": 62140,
+      "duration": "8:59",
+      "url": "https://www.bilibili.com/video/BV14z421k7hv",
+      "keyword": "软考 观察者模式 策略模式"
+    },
+    {
+      "bvid": "BV12ukRYCEz9",
+      "title": "30分钟搞定Python装饰器",
+      "author": "死磕源代码",
+      "play": 58913,
+      "duration": "19:24",
+      "url": "https://www.bilibili.com/video/BV12ukRYCEz9",
+      "keyword": "软件设计师 装饰器 适配器"
+    },
+    {
+      "bvid": "BV1SZ4y1s7cv",
+      "title": "可能是b站上最好的Python装饰器教程",
+      "author": "嘉然今天吃带变",
+      "play": 41277,
+      "duration": "55:16",
+      "url": "https://www.bilibili.com/video/BV1SZ4y1s7cv",
+      "keyword": "软件设计师 装饰器 适配器"
+    },
+    {
+      "bvid": "BV1454y187Er",
+      "title": "设计模式-策略模式(Strategy Pattern)-保姆级攻略，实战项目",
+      "author": "林斯基JI",
+      "play": 36942,
+      "duration": "6:12",
+      "url": "https://www.bilibili.com/video/BV1454y187Er",
+      "keyword": "软考 观察者模式 策略模式"
+    },
+    {
+      "bvid": "BV1pg411n7Ug",
+      "title": "99%的人都学错了，4分钟重新认识设计模式",
+      "author": "极海Channel",
+      "play": 36385,
+      "duration": "4:25",
+      "url": "https://www.bilibili.com/video/BV1pg411n7Ug",
+      "keyword": "软件设计师 装饰器 适配器"
+    },
+    {
+      "bvid": "BV1Vp4y187dK",
+      "title": "设计模式-装饰者模式 (Decorator Pattern)-保姆级攻略，实战项目",
+      "author": "林斯基JI",
+      "play": 22200,
+      "duration": "6:42",
+      "url": "https://www.bilibili.com/video/BV1Vp4y187dK",
+      "keyword": "软件设计师 装饰器 适配器"
+    },
+    {
+      "bvid": "BV1NKTV6wEKb",
+      "title": "安装了这些skill，让Codex接管电路设计与三维建模",
+      "author": "极简AI丨",
+      "play": 18408,
+      "duration": "2:39",
+      "url": "https://www.bilibili.com/video/BV1NKTV6wEKb",
+      "keyword": "软件设计师 装饰器 适配器"
+    }
+  ],
+  "知识产权-保护期限": [
+    {
+      "bvid": "BV1Qr4y167cX",
+      "title": "「软件设计师」 上午题 #5 知识产权",
+      "author": "zst_2001",
+      "play": 247085,
+      "duration": "112:43",
+      "url": "https://www.bilibili.com/video/BV1Qr4y167cX",
+      "keyword": "软考 知识产权 保护期限"
+    },
+    {
+      "bvid": "BV1KW4y187F5",
+      "title": "手把手教你撰写发明专利（计算机电子大类）",
+      "author": "专利代理师兵小二",
+      "play": 127109,
+      "duration": "26:47",
+      "url": "https://www.bilibili.com/video/BV1KW4y187F5",
+      "keyword": "软件设计师 著作权 专利 商标"
+    },
+    {
+      "bvid": "BV1PT411H7dL",
+      "title": "新人必看！专利代理究竟是一份怎样的工作？这份工作前景如何？是否值得新人入行？",
+      "author": "bili_3493267394005658",
+      "play": 82150,
+      "duration": "19:54",
+      "url": "https://www.bilibili.com/video/BV1PT411H7dL",
+      "keyword": "软件设计师 著作权 专利 商标"
+    },
+    {
+      "bvid": "BV1CpAMznEa2",
+      "title": "软著史上最严ai禁令，竟能直接影响个人征信？三月新规后撰写软著需要注意些什么？",
+      "author": "言午知识产权",
+      "play": 69934,
+      "duration": "3:47",
+      "url": "https://www.bilibili.com/video/BV1CpAMznEa2",
+      "keyword": "软考 知识产权 保护期限"
+    },
+    {
+      "bvid": "BV1ch41197Qd",
+      "title": "被骗稿？被盗图？设计师必学之如何申请作品著作权！",
+      "author": "美丫姐",
+      "play": 30883,
+      "duration": "7:1",
+      "url": "https://www.bilibili.com/video/BV1ch41197Qd",
+      "keyword": "软件设计师 著作权 专利 商标"
+    },
+    {
+      "bvid": "BV1tYRYB3ENJ",
+      "title": "软著黑名单正式生效！竟然和AI无关？用AI写软著会被拉入黑名单和个人征信吗？",
+      "author": "言午知识产权",
+      "play": 23067,
+      "duration": "4:41",
+      "url": "https://www.bilibili.com/video/BV1tYRYB3ENJ",
+      "keyword": "软考 知识产权 保护期限"
+    },
+    {
+      "bvid": "BV1v5411Y7pc",
+      "title": "独立游戏的软件著作权和商标是什么样子的？对游戏开发重要吗？【夜神VLOG】",
+      "author": "夜神不说话",
+      "play": 22817,
+      "duration": "12:50",
+      "url": "https://www.bilibili.com/video/BV1v5411Y7pc",
+      "keyword": "软件设计师 著作权 专利 商标"
+    },
+    {
+      "bvid": "BV1hauq6EEvz",
+      "title": "Codex 半小时速成可投稿发明专利｜开源 Skill 分享",
+      "author": "云顶科研",
+      "play": 17596,
+      "duration": "30:51",
+      "url": "https://www.bilibili.com/video/BV1hauq6EEvz",
+      "keyword": "软件设计师 著作权 专利 商标"
+    },
+    {
+      "bvid": "BV1iN4y1g7s6",
+      "title": "以开源软件为基础开发的软件可以申报软著和专利吗？",
+      "author": "魏永明的考鼎学堂",
+      "play": 9596,
+      "duration": "22:11",
+      "url": "https://www.bilibili.com/video/BV1iN4y1g7s6",
+      "keyword": "软件设计师 著作权 专利 商标"
+    },
+    {
+      "bvid": "BV1vwWKzUELj",
+      "title": "【软著】自己如何申请软著？保姆级全流程教程！",
+      "author": "喵师傅游戏开发",
+      "play": 8871,
+      "duration": "6:56",
+      "url": "https://www.bilibili.com/video/BV1vwWKzUELj",
+      "keyword": "软件设计师 著作权 专利 商标"
+    }
+  ],
+  "下午题-DFD": [
+    {
+      "bvid": "BV1x34y1k7ZE",
+      "title": "「软件设计师」 下午题 #2 试题二",
+      "author": "zst_2001",
+      "play": 556281,
+      "duration": "620:10",
+      "url": "https://www.bilibili.com/video/BV1x34y1k7ZE",
+      "keyword": "软考 数据流图 DFD 下午题"
+    },
+    {
+      "bvid": "BV1Yv4y1E71P",
+      "title": "数据流图",
+      "author": "寒山code苏苏",
+      "play": 286056,
+      "duration": "24:7",
+      "url": "https://www.bilibili.com/video/BV1Yv4y1E71P",
+      "keyword": "软考 数据流图 DFD 下午题"
+    },
+    {
+      "bvid": "BV138vfB6Ei5",
+      "title": "软件工程｜数据流图",
+      "author": "carlong龍",
+      "play": 75657,
+      "duration": "7:54",
+      "url": "https://www.bilibili.com/video/BV138vfB6Ei5",
+      "keyword": "软考 数据流图 DFD 下午题"
+    },
+    {
+      "bvid": "BV1oMXhYpEff",
+      "title": "软件工程大提速成（上）：问题定义+可行性分析+需求说明+数据流图+er图+ipo图",
+      "author": "愤怒烤红薯统治地球",
+      "play": 57771,
+      "duration": "9:9",
+      "url": "https://www.bilibili.com/video/BV1oMXhYpEff",
+      "keyword": "软考 数据流图 DFD 下午题"
+    },
+    {
+      "bvid": "BV1UK421471E",
+      "title": "软工速成之数据流图",
+      "author": "不会修电脑的搬砖工",
+      "play": 43830,
+      "duration": "33:7",
+      "url": "https://www.bilibili.com/video/BV1UK421471E",
+      "keyword": "软考 数据流图 DFD 下午题"
+    },
+    {
+      "bvid": "BV1ta4y137Hi",
+      "title": "软件设计师下午1数据流图",
+      "author": "耀说编程",
+      "play": 35991,
+      "duration": "14:50",
+      "url": "https://www.bilibili.com/video/BV1ta4y137Hi",
+      "keyword": "软考 数据流图 DFD 下午题"
+    },
+    {
+      "bvid": "BV1b14y1e7sA",
+      "title": "程序流程图来喽20年下午题试题一(软考初级程序员)",
+      "author": "分秒必争小陈",
+      "play": 11438,
+      "duration": "19:10",
+      "url": "https://www.bilibili.com/video/BV1b14y1e7sA",
+      "keyword": "软考 数据流图 DFD 下午题"
+    },
+    {
+      "bvid": "BV1CWpGesErs",
+      "title": "16.软件设计师-结构化分析与设计(DFD图及SC图)",
+      "author": "比特培训邓少",
+      "play": 10774,
+      "duration": "57:21",
+      "url": "https://www.bilibili.com/video/BV1CWpGesErs",
+      "keyword": "软件设计师 DFD 真题"
+    },
+    {
+      "bvid": "BV1by5K6qEL2",
+      "title": "【2026软考】软考软件设计师历年真题（2021-2025最新）详细解析，冲刺备考必刷！附模拟密卷 || 含电子版‖上岸必刷 || 逐题精讲 || 高频考点解析",
+      "author": "半岛阳光xy",
+      "play": 8988,
+      "duration": "1090:45",
+      "url": "https://www.bilibili.com/video/BV1by5K6qEL2",
+      "keyword": "软件设计师 DFD 真题"
+    },
+    {
+      "bvid": "BV1W4em6fEMR",
+      "title": "【2026软考】软考软件设计师历年真题（2021-2026最新）详细解析，冲刺备考必刷！附模拟密卷 || 含电子版‖上岸必刷 || 逐题精讲 || 高频考点解析",
+      "author": "半岛阳光xy",
+      "play": 2295,
+      "duration": "1150:25",
+      "url": "https://www.bilibili.com/video/BV1W4em6fEMR",
+      "keyword": "软件设计师 DFD 真题"
+    }
+  ],
+  "下午题-ER数据库": [
+    {
+      "bvid": "BV1Aj41137Aa",
+      "title": "【2022软考真题】全网最详细《数据库系统工程师》真题精讲原创视频（上午75+下午5）",
+      "author": "崔老夫子",
+      "play": 267888,
+      "duration": "1533:57",
+      "url": "https://www.bilibili.com/video/BV1Aj41137Aa",
+      "keyword": "软考 下午题 数据库 ER"
+    },
+    {
+      "bvid": "BV1Jz42167PH",
+      "title": "数据库关系模式规范化 关系模式分解习题",
+      "author": "碳酸钙001",
+      "play": 128389,
+      "duration": "19:58",
+      "url": "https://www.bilibili.com/video/BV1Jz42167PH",
+      "keyword": "软件设计师 下午题 关系模式 SQL"
+    },
+    {
+      "bvid": "BV1bC4y1J7JW",
+      "title": "如何做软件设计师下午题？",
+      "author": "小编码上说",
+      "play": 18190,
+      "duration": "14:26",
+      "url": "https://www.bilibili.com/video/BV1bC4y1J7JW",
+      "keyword": "软件设计师 下午题 关系模式 SQL"
+    },
+    {
+      "bvid": "BV1ht411d7EZ",
+      "title": "软考(下午题)——面向对象程序设计",
+      "author": "ThunderWinds",
+      "play": 13051,
+      "duration": "28:38",
+      "url": "https://www.bilibili.com/video/BV1ht411d7EZ",
+      "keyword": "软件设计师 下午题 关系模式 SQL"
+    },
+    {
+      "bvid": "BV1S2dKB6EXb",
+      "title": "【吊打付费】目前B站最完整的软考数据库系统工程师教程，包含了所有数据库系统工程师干货内容！这还没人看，我不更了！！！",
+      "author": "如风走了八千里",
+      "play": 2540,
+      "duration": "6010:24",
+      "url": "https://www.bilibili.com/video/BV1S2dKB6EXb",
+      "keyword": "软考 下午题 数据库 ER"
+    },
+    {
+      "bvid": "BV181H96oEhp",
+      "title": "信息安全工程师（软考）下午案例题流量分析经验分享第二节一句话木马和SQL注入",
+      "author": "记忆化成忧伤",
+      "play": 48,
+      "duration": "13:25",
+      "url": "https://www.bilibili.com/video/BV181H96oEhp",
+      "keyword": "软件设计师 下午题 关系模式 SQL"
+    }
+  ],
+  "下午题-UML": [
+    {
+      "bvid": "BV11Z4y1z7Uc",
+      "title": "「软件设计师」 下午题 #3 试题三",
+      "author": "zst_2001",
+      "play": 575264,
+      "duration": "662:20",
+      "url": "https://www.bilibili.com/video/BV11Z4y1z7Uc",
+      "keyword": "软考 下午题 UML 建模"
+    },
+    {
+      "bvid": "BV1TT421Q7LS",
+      "title": "机票预订系统UML建模，轻松绘制用例图、类图、顺序图",
+      "author": "小编码上说",
+      "play": 54025,
+      "duration": "20:44",
+      "url": "https://www.bilibili.com/video/BV1TT421Q7LS",
+      "keyword": "软件设计师 UML 案例题"
+    },
+    {
+      "bvid": "BV1cu4y1J72K",
+      "title": "软考中级软件设计师机考软件怎么操作？",
+      "author": "乐悠漂流记",
+      "play": 36685,
+      "duration": "12:22",
+      "url": "https://www.bilibili.com/video/BV1cu4y1J72K",
+      "keyword": "软件设计师 UML 案例题"
+    },
+    {
+      "bvid": "BV1YD421N7Vt",
+      "title": "案例分析专题-试题5-面向对象程序设计",
+      "author": "软考诸葛老师",
+      "play": 19276,
+      "duration": "59:8",
+      "url": "https://www.bilibili.com/video/BV1YD421N7Vt",
+      "keyword": "软件设计师 UML 案例题"
+    },
+    {
+      "bvid": "BV14fFGzhE1u",
+      "title": "【26软考】软考中级软件设计师（软设）案例分析特训合集！看完保底50+！",
+      "author": "软考小灵通",
+      "play": 3330,
+      "duration": "543:36",
+      "url": "https://www.bilibili.com/video/BV14fFGzhE1u",
+      "keyword": "软件设计师 UML 案例题"
+    },
+    {
+      "bvid": "BV1vP5Z6dEB3",
+      "title": "软件设计师_案例分析_UML建模",
+      "author": "峭之酷雷伏_",
+      "play": 2967,
+      "duration": "139:49",
+      "url": "https://www.bilibili.com/video/BV1vP5Z6dEB3",
+      "keyword": "软件设计师 UML 案例题"
+    }
+  ],
+  "下午题-算法C": [
+    {
+      "bvid": "BV1P94y1Z74b",
+      "title": "C语言经典100题（手把手 编程）",
+      "author": "dayeyeqj",
+      "play": 2057170,
+      "duration": "859:36",
+      "url": "https://www.bilibili.com/video/BV1P94y1Z74b",
+      "keyword": "软考 下午题 算法 C语言"
+    },
+    {
+      "bvid": "BV1AB4y1w7eT",
+      "title": "10分钟彻底搞懂“动态规划”算法",
+      "author": "Ross-Ning",
+      "play": 869996,
+      "duration": "8:1",
+      "url": "https://www.bilibili.com/video/BV1AB4y1w7eT",
+      "keyword": "软件设计师 算法填空 动态规划"
+    },
+    {
+      "bvid": "BV1AV4y1B7pV",
+      "title": "一分钟记住所有算法",
+      "author": "算法大师兄",
+      "play": 580985,
+      "duration": "1:1",
+      "url": "https://www.bilibili.com/video/BV1AV4y1B7pV",
+      "keyword": "软考 下午题 算法 C语言"
+    },
+    {
+      "bvid": "BV1LiS1YSEgF",
+      "title": "有个说法：“「递归」是检验编程天赋的试金石”；而本视频打破天赋壁垒，助你快速掌握递归。",
+      "author": "NotOnlySuccess",
+      "play": 514922,
+      "duration": "10:2",
+      "url": "https://www.bilibili.com/video/BV1LiS1YSEgF",
+      "keyword": "软考 下午题 算法 C语言"
+    },
+    {
+      "bvid": "BV1GvVizGEmU",
+      "title": "10分钟算法学习路线过脑课",
+      "author": "算法大师兄",
+      "play": 167311,
+      "duration": "10:34",
+      "url": "https://www.bilibili.com/video/BV1GvVizGEmU",
+      "keyword": "软考 下午题 算法 C语言"
+    },
+    {
+      "bvid": "BV1FJ4m1M7RJ",
+      "title": "ACM 金牌选手教你动态规划的本质。力扣 No.72 编辑距离，真·动画教编程，适合语言初学者或编程新人。",
+      "author": "NotOnlySuccess",
+      "play": 73950,
+      "duration": "6:29",
+      "url": "https://www.bilibili.com/video/BV1FJ4m1M7RJ",
+      "keyword": "软件设计师 算法填空 动态规划"
+    },
+    {
+      "bvid": "BV1Et411d7zo",
+      "title": "软考(下午第四题)——c语言算法",
+      "author": "ThunderWinds",
+      "play": 20435,
+      "duration": "78:11",
+      "url": "https://www.bilibili.com/video/BV1Et411d7zo",
+      "keyword": "软考 下午题 算法 C语言"
+    },
+    {
+      "bvid": "BV1EM4m1C7C8",
+      "title": "案例分析专题-试题4-C语言算法",
+      "author": "软考诸葛老师",
+      "play": 16036,
+      "duration": "67:51",
+      "url": "https://www.bilibili.com/video/BV1EM4m1C7C8",
+      "keyword": "软考 下午题 算法 C语言"
+    },
+    {
+      "bvid": "BV1mqbL6PEZz",
+      "title": "让 Deepseek Harnesss 成为上下文思维地图｜ThoughtDAG 开发者实操",
+      "author": "Chatchan",
+      "play": 12253,
+      "duration": "8:1",
+      "url": "https://www.bilibili.com/video/BV1mqbL6PEZz",
+      "keyword": "软件设计师 算法填空 动态规划"
+    },
+    {
+      "bvid": "BV1z1oWYUEUp",
+      "title": "重点推荐！软考软件设计师专题训练营-掌握C语言算法题的解题技巧！",
+      "author": "希赛软考",
+      "play": 10576,
+      "duration": "207:40",
+      "url": "https://www.bilibili.com/video/BV1z1oWYUEUp",
+      "keyword": "软考 下午题 算法 C语言"
+    }
+  ],
+  "下午题-设计模式代码": [
+    {
+      "bvid": "BV1Np4y1z7BU",
+      "title": "黑马程序员Java设计模式详解， 23种Java设计模式（图解+框架源码分析+实战）",
+      "author": "黑马程序员",
+      "play": 1299546,
+      "duration": "1236:52",
+      "url": "https://www.bilibili.com/video/BV1Np4y1z7BU",
+      "keyword": "软考 下午题 设计模式 Java"
+    },
+    {
+      "bvid": "BV1Yr4y157Ci",
+      "title": "C++设计模式入门",
+      "author": "CodeAllen嵌入式",
+      "play": 361584,
+      "duration": "719:10",
+      "url": "https://www.bilibili.com/video/BV1Yr4y157Ci",
+      "keyword": "软件设计师 设计模式 代码填空"
+    },
+    {
+      "bvid": "BV1caeBz1EoF",
+      "title": "java学不会？10分钟springboot入门到精通！程序员邪修之：springboot直通车",
+      "author": "java避坑大师兄",
+      "play": 173613,
+      "duration": "9:32",
+      "url": "https://www.bilibili.com/video/BV1caeBz1EoF",
+      "keyword": "软考 下午题 设计模式 Java"
+    },
+    {
+      "bvid": "BV1Nmd5YYEWK",
+      "title": "Java基础知识点速通",
+      "author": "比欧外的账号",
+      "play": 113343,
+      "duration": "76:51",
+      "url": "https://www.bilibili.com/video/BV1Nmd5YYEWK",
+      "keyword": "软考 下午题 设计模式 Java"
+    },
+    {
+      "bvid": "BV18Y411m7MQ",
+      "title": "软件工程设计模式（期末速成版）",
+      "author": "MGcoding",
+      "play": 80270,
+      "duration": "82:19",
+      "url": "https://www.bilibili.com/video/BV18Y411m7MQ",
+      "keyword": "软件设计师 设计模式 代码填空"
+    },
+    {
+      "bvid": "BV1PLJnzaEKB",
+      "title": "【18集】国外大神讲设计模式 | 目前最好的设计模式课程 | Design Patterns",
+      "author": "知识搬运工-Coding",
+      "play": 34393,
+      "duration": "781:32",
+      "url": "https://www.bilibili.com/video/BV1PLJnzaEKB",
+      "keyword": "软件设计师 设计模式 代码填空"
+    },
+    {
+      "bvid": "BV1LsdoBZEgu",
+      "title": "【Godot】游戏开发设计模式（已完结）",
+      "author": "N工坊",
+      "play": 29280,
+      "duration": "163:54",
+      "url": "https://www.bilibili.com/video/BV1LsdoBZEgu",
+      "keyword": "软件设计师 设计模式 代码填空"
+    },
+    {
+      "bvid": "BV1MrVFzaEuY",
+      "title": "软考中的java基础知识（一）",
+      "author": "chocolate_carol",
+      "play": 17606,
+      "duration": "37:20",
+      "url": "https://www.bilibili.com/video/BV1MrVFzaEuY",
+      "keyword": "软考 下午题 设计模式 Java"
+    },
+    {
+      "bvid": "BV1Dm421M7Pz",
+      "title": "【C++】游戏开发常用的设计模式，高手都这样写？单例模式、组件模式、原型模式、访问者模式等",
+      "author": "双笙子佯谬",
+      "play": 17259,
+      "duration": "58:17",
+      "url": "https://www.bilibili.com/video/BV1Dm421M7Pz",
+      "keyword": "软件设计师 设计模式 代码填空"
+    }
+  ],
+  "整体-串讲": [
+    {
+      "bvid": "BV1rc411t71D",
+      "title": "【2026软考中级-软件设计师】基础阶段|考点理论精讲【已完结】",
+      "author": "学以致知Learning",
+      "play": 1113181,
+      "duration": "807:54",
+      "url": "https://www.bilibili.com/video/BV1rc411t71D",
+      "keyword": "软件设计师冲刺"
+    },
+    {
+      "bvid": "BV13iDvBVENd",
+      "title": "【全网最全】26软考中级软件设计师（软设）保姆级跟学视频+历年真题+案例训练营+模拟题带练+考前冲刺+配套资料包！",
+      "author": "软考小灵通",
+      "play": 335433,
+      "duration": "5011:49",
+      "url": "https://www.bilibili.com/video/BV13iDvBVENd",
+      "keyword": "软件设计师冲刺"
+    },
+    {
+      "bvid": "BV1ZX4y1K7HL",
+      "title": "软考（中级软件设计师）两周快速备考",
+      "author": "一只乌龟大王",
+      "play": 197956,
+      "duration": "8:20",
+      "url": "https://www.bilibili.com/video/BV1ZX4y1K7HL",
+      "keyword": "软件设计师冲刺"
+    },
+    {
+      "bvid": "BV1ie4y1y7qD",
+      "title": "【有套路地拿证】2026 年软件设计师考试下午题高频考点技巧总结",
+      "author": "软件设计师_Mango教练",
+      "play": 103439,
+      "duration": "74:27",
+      "url": "https://www.bilibili.com/video/BV1ie4y1y7qD",
+      "keyword": "软件设计师冲刺"
+    },
+    {
+      "bvid": "BV1Mo4y1w7Gu",
+      "title": "软件设计师（一周通关）",
+      "author": "耀说编程",
+      "play": 77749,
+      "duration": "13:12",
+      "url": "https://www.bilibili.com/video/BV1Mo4y1w7Gu",
+      "keyword": "软件设计师冲刺"
+    },
+    {
+      "bvid": "BV1M6dWYFE1R",
+      "title": "软考之1小时教会你满分拿下软件设计师编程题",
+      "author": "程序猿龙猫",
+      "play": 69859,
+      "duration": "48:19",
+      "url": "https://www.bilibili.com/video/BV1M6dWYFE1R",
+      "keyword": "软件设计师冲刺"
+    },
+    {
+      "bvid": "BV13yoGBcE8Q",
+      "title": "B站首发！26上半年软考中级软件设计师（软设）「全网最牛」冲刺总结，懒人上岸指南！7天背完上岸！",
+      "author": "蹦迪老母猪",
+      "play": 8550,
+      "duration": "5:13",
+      "url": "https://www.bilibili.com/video/BV13yoGBcE8Q",
+      "keyword": "软件设计师冲刺"
+    },
+    {
+      "bvid": "BV1fXcueHE7Z",
+      "title": "【中级职称】【软考】软件设计师中级知识点记忆默写",
+      "author": "祥羚玥",
+      "play": 3893,
+      "duration": "310:10",
+      "url": "https://www.bilibili.com/video/BV1fXcueHE7Z",
+      "keyword": "软件设计师冲刺"
+    },
+    {
+      "bvid": "BV1AGaP6YEoP",
+      "title": "【软考冲刺】几十小时带你搞定26下半年软考中级软件设计师（软设）！精讲+案例+真题+模拟+资料！",
+      "author": "软考小灵通",
+      "play": 3713,
+      "duration": "5359:29",
+      "url": "https://www.bilibili.com/video/BV1AGaP6YEoP",
+      "keyword": "软件设计师冲刺"
+    },
+    {
+      "bvid": "BV1ys2TBGEMQ",
+      "title": "【2025软考】24小时极限过软考软件设计师，超强临时抱佛脚！（考前冲刺备考指导课，重要考点分享！）",
+      "author": "半岛阳光xy",
+      "play": 2149,
+      "duration": "142:12",
+      "url": "https://www.bilibili.com/video/BV1ys2TBGEMQ",
+      "keyword": "软件设计师冲刺"
+    }
+  ],
+  "整体-经验": [],
+  "软件工程-CMMI": [
+    {
+      "bvid": "BV16N411P7Wg",
+      "title": "怎么做，才能立刻掌控自己的时间？",
+      "author": "本子在隔壁",
+      "play": 466783,
+      "duration": "71:22",
+      "url": "https://www.bilibili.com/video/BV16N411P7Wg",
+      "keyword": "软件能力成熟度"
+    },
+    {
+      "bvid": "BV154426xEha",
+      "title": "我的 AI 编程全流程：如何使用 AI 稳定交付一个高质量的产品",
+      "author": "马克的技术工作坊",
+      "play": 280562,
+      "duration": "24:55",
+      "url": "https://www.bilibili.com/video/BV154426xEha",
+      "keyword": "软件能力成熟度"
+    },
+    {
+      "bvid": "BV1m4gzzeEp8",
+      "title": "📔你学的太慢了！油管大神Dankoe拆解如何利用AI进行10倍速学习！（附笔记）",
+      "author": "臻智Wisdom",
+      "play": 107453,
+      "duration": "67:48",
+      "url": "https://www.bilibili.com/video/BV1m4gzzeEp8",
+      "keyword": "软件能力成熟度"
+    },
+    {
+      "bvid": "BV15Wgn6CEfy",
+      "title": "让 Codex 别再造史了：一个插件治好 AI 编程的过度工程化",
+      "author": "AI技术投降派",
+      "play": 92437,
+      "duration": "11:8",
+      "url": "https://www.bilibili.com/video/BV15Wgn6CEfy",
+      "keyword": "软件能力成熟度"
+    },
+    {
+      "bvid": "BV1gmewzZEVw",
+      "title": "MIT开放所有课程，教育彻底变天了",
+      "author": "C哥聊科技",
+      "play": 56434,
+      "duration": "3:59",
+      "url": "https://www.bilibili.com/video/BV1gmewzZEVw",
+      "keyword": "CMMI"
+    },
+    {
+      "bvid": "BV1T2p56mErw",
+      "title": "AI逆向任意软件 github断层第一",
+      "author": "AI大圆镜",
+      "play": 52593,
+      "duration": "1:36",
+      "url": "https://www.bilibili.com/video/BV1T2p56mErw",
+      "keyword": "软件能力成熟度"
+    },
+    {
+      "bvid": "BV1Puk7BbEet",
+      "title": "我用Gemini做了一次自我认知实验 沉默良久",
+      "author": "不吃辣的Chris",
+      "play": 30440,
+      "duration": "6:56",
+      "url": "https://www.bilibili.com/video/BV1Puk7BbEet",
+      "keyword": "软件能力成熟度"
+    },
+    {
+      "bvid": "BV1xhps6BEw9",
+      "title": "邵艾伦×孙宇晨深度对谈 高清4h已删减违规片段放心观看！",
+      "author": "20年卧薪尝胆",
+      "play": 28887,
+      "duration": "260:16",
+      "url": "https://www.bilibili.com/video/BV1xhps6BEw9",
+      "keyword": "软件能力成熟度"
+    },
+    {
+      "bvid": "BV1Qt411a7Hw",
+      "title": "CMMI基础知识扫盲",
+      "author": "彼时_流年若水",
+      "play": 26844,
+      "duration": "92:31",
+      "url": "https://www.bilibili.com/video/BV1Qt411a7Hw",
+      "keyword": "CMMI"
+    },
+    {
+      "bvid": "BV1VXPRzgESN",
+      "title": "关于我被学校毒打后纯自学本科连发AI顶会申上直博后成为传道UP主这档事",
+      "author": "星芽老师",
+      "play": 25841,
+      "duration": "14:11",
+      "url": "https://www.bilibili.com/video/BV1VXPRzgESN",
+      "keyword": "软件能力成熟度"
+    }
+  ],
+  "软件工程-数据字典": [
+    {
+      "bvid": "BV1Hx4y1J7yg",
+      "title": "3 分钟学会 数据流图",
+      "author": "肥猫简图",
+      "play": 336371,
+      "duration": "2:46",
+      "url": "https://www.bilibili.com/video/BV1Hx4y1J7yg",
+      "keyword": "数据字典 数据流图 软件工程"
+    },
+    {
+      "bvid": "BV1G64y147Sh",
+      "title": "【Re：从零开始系列番外篇】：管理信息系统！业务流程图，数据流程图，决策树的讲解~",
+      "author": "杰咕咕Uaena",
+      "play": 286794,
+      "duration": "14:39",
+      "url": "https://www.bilibili.com/video/BV1G64y147Sh",
+      "keyword": "数据字典 数据流图 软件工程"
+    },
+    {
+      "bvid": "BV1Y44y117UK",
+      "title": "不用编程！也可完成文本高阶分析：爬虫+词频分析+情感分析+语意网络图",
+      "author": "慧研格真",
+      "play": 218285,
+      "duration": "21:35",
+      "url": "https://www.bilibili.com/video/BV1Y44y117UK",
+      "keyword": "结构化分析 数据字典 四类条目"
+    },
+    {
+      "bvid": "BV167411y7Jm",
+      "title": "2-软件工程-数据流图+ER图绘制",
+      "author": "小溪流水叮叮咚咚",
+      "play": 135174,
+      "duration": "35:9",
+      "url": "https://www.bilibili.com/video/BV167411y7Jm",
+      "keyword": "数据字典 数据流图 软件工程"
+    },
+    {
+      "bvid": "BV1hc41147R2",
+      "title": "软件工程速成之数据字典例题讲解",
+      "author": "不会修电脑的搬砖工",
+      "play": 43146,
+      "duration": "13:4",
+      "url": "https://www.bilibili.com/video/BV1hc41147R2",
+      "keyword": "数据字典 数据流图 软件工程"
+    },
+    {
+      "bvid": "BV1nX4y1H7dk",
+      "title": "软件工程数据字典定义讲解",
+      "author": "言齐齐齐",
+      "play": 37616,
+      "duration": "11:16",
+      "url": "https://www.bilibili.com/video/BV1nX4y1H7dk",
+      "keyword": "数据字典 数据流图 软件工程"
+    },
+    {
+      "bvid": "BV143ewzpEM4",
+      "title": "LangExtract-小而美的结构化数据提取工具",
+      "author": "有趣程序员的boredlife",
+      "play": 27219,
+      "duration": "23:57",
+      "url": "https://www.bilibili.com/video/BV143ewzpEM4",
+      "keyword": "结构化分析 数据字典 四类条目"
+    },
+    {
+      "bvid": "BV1iJZVYSEE6",
+      "title": "数据流图+数据字典",
+      "author": "smartnessyang",
+      "play": 16647,
+      "duration": "36:59",
+      "url": "https://www.bilibili.com/video/BV1iJZVYSEE6",
+      "keyword": "数据字典 数据流图 软件工程"
+    },
+    {
+      "bvid": "BV1Lz4y1z7oE",
+      "title": "【打工人必会技能】从纯文本到结构化数据",
+      "author": "Johnny学",
+      "play": 15668,
+      "duration": "14:50",
+      "url": "https://www.bilibili.com/video/BV1Lz4y1z7oE",
+      "keyword": "结构化分析 数据字典 四类条目"
+    },
+    {
+      "bvid": "BV1yg411v7vz",
+      "title": "【5个小时让你明白数据分析的底层逻辑】实操案例经验教学",
+      "author": "Jason-阿段",
+      "play": 14332,
+      "duration": "339:45",
+      "url": "https://www.bilibili.com/video/BV1yg411v7vz",
+      "keyword": "结构化分析 数据字典 四类条目"
+    }
+  ],
+  "操作系统-进程调度": [
+    {
+      "bvid": "BV1544y1D7TF",
+      "title": "操作系统必考计算题二——作业调度",
+      "author": "爱吃麻薯的小王同学",
+      "play": 259680,
+      "duration": "9:39",
+      "url": "https://www.bilibili.com/video/BV1544y1D7TF",
+      "keyword": "短作业优先 多级反馈队列"
+    },
+    {
+      "bvid": "BV1P44y1S7ss",
+      "title": "【操作系统】作业调度的四种算法  附运算过程",
+      "author": "泡泡苹苹_",
+      "play": 245156,
+      "duration": "11:29",
+      "url": "https://www.bilibili.com/video/BV1P44y1S7ss",
+      "keyword": "进程调度算法 FCFS SJF 时间片轮转"
+    },
+    {
+      "bvid": "BV15V411J7mq",
+      "title": "RR时间片轮转调度算法～不同到达时间",
+      "author": "bili_95149190474",
+      "play": 226151,
+      "duration": "16:14",
+      "url": "https://www.bilibili.com/video/BV15V411J7mq",
+      "keyword": "进程调度算法 FCFS SJF 时间片轮转"
+    },
+    {
+      "bvid": "BV1U34y1R7kJ",
+      "title": "计算机操作系统（调度算法 4种）FCFS   SJF  HRRN  RR  （优先级）",
+      "author": "Melvyn_Yin",
+      "play": 183446,
+      "duration": "9:34",
+      "url": "https://www.bilibili.com/video/BV1U34y1R7kJ",
+      "keyword": "进程调度算法 FCFS SJF 时间片轮转"
+    },
+    {
+      "bvid": "BV1CK411R7iJ",
+      "title": "【操作系统】时间片轮转调度算法",
+      "author": "-Myles-",
+      "play": 144294,
+      "duration": "11:6",
+      "url": "https://www.bilibili.com/video/BV1CK411R7iJ",
+      "keyword": "进程调度算法 FCFS SJF 时间片轮转"
+    },
+    {
+      "bvid": "BV1j1gZzPEVX",
+      "title": "【操作系统期末速成】七种调度算法（先来先服务，短作业优先，优先级，高响应比优先，最早截止时间优先，最低松弛度优先）",
+      "author": "小发宝耶",
+      "play": 93778,
+      "duration": "25:2",
+      "url": "https://www.bilibili.com/video/BV1j1gZzPEVX",
+      "keyword": "进程调度算法 FCFS SJF 时间片轮转"
+    },
+    {
+      "bvid": "BV1JW5yz1E6L",
+      "title": "操作系统 专题四 处理机调度算法（1）先来先服务 短作业优先 高响应比优先",
+      "author": "海盐蛋糕派",
+      "play": 59427,
+      "duration": "24:40",
+      "url": "https://www.bilibili.com/video/BV1JW5yz1E6L",
+      "keyword": "短作业优先 多级反馈队列"
+    },
+    {
+      "bvid": "BV1F34y1v7zA",
+      "title": "操作系统(FCFS,SJF,HRRN,RR,多级反馈队列算法)",
+      "author": "认真学习的小桐同学",
+      "play": 45789,
+      "duration": "40:7",
+      "url": "https://www.bilibili.com/video/BV1F34y1v7zA",
+      "keyword": "进程调度算法 FCFS SJF 时间片轮转"
+    },
+    {
+      "bvid": "BV18T1FYMEiJ",
+      "title": "冠以图灵奖之名的调度算法：MLFQ 多级反馈队列！",
+      "author": "EfficLab中文",
+      "play": 40489,
+      "duration": "12:21",
+      "url": "https://www.bilibili.com/video/BV18T1FYMEiJ",
+      "keyword": "短作业优先 多级反馈队列"
+    },
+    {
+      "bvid": "BV1Ne4y1k7gD",
+      "title": "【进程管理】多级反馈队列调度算法",
+      "author": "Polaris_hzn8",
+      "play": 37058,
+      "duration": "3:50",
+      "url": "https://www.bilibili.com/video/BV1Ne4y1k7gD",
+      "keyword": "短作业优先 多级反馈队列"
+    }
+  ],
+  "数据库-三级模式": [
+    {
+      "bvid": "BV1Bq4y1Y7GC",
+      "title": "【数据库系统概论】三小时复习期末速成不挂科",
+      "author": "没睡醒冬",
+      "play": 4175041,
+      "duration": "194:10",
+      "url": "https://www.bilibili.com/video/BV1Bq4y1Y7GC",
+      "keyword": "数据库系统 外模式 模式 内模式"
+    },
+    {
+      "bvid": "BV1Mm5kzHEWA",
+      "title": "20分钟入门数据库",
+      "author": "三分钟实验室",
+      "play": 156724,
+      "duration": "21:48",
+      "url": "https://www.bilibili.com/video/BV1Mm5kzHEWA",
+      "keyword": "数据库系统 外模式 模式 内模式"
+    },
+    {
+      "bvid": "BV12qKq6PETb",
+      "title": "一口气讲透大数据/数据库/数据仓库/数据湖/数据中台的底层原理",
+      "author": "架构师阿Q",
+      "play": 64655,
+      "duration": "12:55",
+      "url": "https://www.bilibili.com/video/BV12qKq6PETb",
+      "keyword": "数据库系统 外模式 模式 内模式"
+    },
+    {
+      "bvid": "BV13Q4y1B7BZ",
+      "title": "SQL入门教程 第26集 内连接和外连接",
+      "author": "_不剪发的Tony老师_",
+      "play": 26353,
+      "duration": "13:31",
+      "url": "https://www.bilibili.com/video/BV13Q4y1B7BZ",
+      "keyword": "数据库系统 外模式 模式 内模式"
+    },
+    {
+      "bvid": "BV1m75NzjESS",
+      "title": "计算机三级数据库技术备考指南",
+      "author": "尚应锴",
+      "play": 23520,
+      "duration": "99:44",
+      "url": "https://www.bilibili.com/video/BV1m75NzjESS",
+      "keyword": "数据库三级模式两级映像"
+    },
+    {
+      "bvid": "BV1feavzZEMd",
+      "title": "（2026年9月）数据库三级选择填空邪修背法 第一章 数据库分析与设计",
+      "author": "妈我要吃饺子",
+      "play": 18451,
+      "duration": "12:51",
+      "url": "https://www.bilibili.com/video/BV1feavzZEMd",
+      "keyword": "数据库三级模式两级映像"
+    },
+    {
+      "bvid": "BV1eo4y147zu",
+      "title": "三级模式和二级映像",
+      "author": "寒山code苏苏",
+      "play": 14880,
+      "duration": "7:41",
+      "url": "https://www.bilibili.com/video/BV1eo4y147zu",
+      "keyword": "数据库三级模式两级映像"
+    },
+    {
+      "bvid": "BV1sJETztEjS",
+      "title": "自己动手编写数据库系统[2025新版]",
+      "author": "CSPrimer",
+      "play": 14221,
+      "duration": "141:6",
+      "url": "https://www.bilibili.com/video/BV1sJETztEjS",
+      "keyword": "数据库系统 外模式 模式 内模式"
+    },
+    {
+      "bvid": "BV1k8411f7ix",
+      "title": "【儒猿课堂】MySQL深度底层教程（深入内核剖析）",
+      "author": "儒猿课堂",
+      "play": 9619,
+      "duration": "436:8",
+      "url": "https://www.bilibili.com/video/BV1k8411f7ix",
+      "keyword": "数据库系统 外模式 模式 内模式"
+    },
+    {
+      "bvid": "BV1dP4y1Z7Pc",
+      "title": "三级模式和二级映像",
+      "author": "阿奇啊没错",
+      "play": 9116,
+      "duration": "14:33",
+      "url": "https://www.bilibili.com/video/BV1dP4y1Z7Pc",
+      "keyword": "数据库三级模式两级映像"
+    }
+  ],
+  "网络-加密防火墙": [
+    {
+      "bvid": "BV1Eo4y1y7Dh",
+      "title": "【硬核科普】如何保证发出去的微信和QQ消息不被篡改？详解RSA加密算法",
+      "author": "硬件茶谈",
+      "play": 542324,
+      "duration": "14:49",
+      "url": "https://www.bilibili.com/video/BV1Eo4y1y7Dh",
+      "keyword": "对称加密 非对称加密 RSA 数字签名"
+    },
+    {
+      "bvid": "BV1XP4y1A7Ui",
+      "title": "数学不好也能听懂的算法 - RSA加密和解密原理和过程",
+      "author": "技术蛋老师",
+      "play": 436193,
+      "duration": "7:34",
+      "url": "https://www.bilibili.com/video/BV1XP4y1A7Ui",
+      "keyword": "对称加密 非对称加密 RSA 数字签名"
+    },
+    {
+      "bvid": "BV1KQ4y127AT",
+      "title": "DES加密算法｜密码学｜信息安全",
+      "author": "可厉害的土豆",
+      "play": 268305,
+      "duration": "18:22",
+      "url": "https://www.bilibili.com/video/BV1KQ4y127AT",
+      "keyword": "对称加密 非对称加密 RSA 数字签名"
+    },
+    {
+      "bvid": "BV1nt411h79E",
+      "title": "看完你就拥有了黑客意识！——迈克教你网关，端口，防火墙，节点，肉鸡，社会工程学，公开课第三讲",
+      "author": "比尔迈克",
+      "play": 251982,
+      "duration": "37:31",
+      "url": "https://www.bilibili.com/video/BV1nt411h79E",
+      "keyword": "防火墙 包过滤 应用网关"
+    },
+    {
+      "bvid": "BV1YQ4y1a7n1",
+      "title": "【RSA加密算法】| RSA加密过程详解 | 公钥加密| 密码学| 信息安全|",
+      "author": "可厉害的土豆",
+      "play": 225369,
+      "duration": "13:54",
+      "url": "https://www.bilibili.com/video/BV1YQ4y1a7n1",
+      "keyword": "对称加密 非对称加密 RSA 数字签名"
+    },
+    {
+      "bvid": "BV1Sv6vB2E5D",
+      "title": "【城】加密流量如何绕过防火墙？抓包告诉你答案",
+      "author": "网络小白_Uncle城",
+      "play": 157980,
+      "duration": "7:46",
+      "url": "https://www.bilibili.com/video/BV1Sv6vB2E5D",
+      "keyword": "防火墙 包过滤 应用网关"
+    },
+    {
+      "bvid": "BV1fD421A7wL",
+      "title": "所有网站都需要的专业防火墙工具，黑客劝退神器 feat.雷池WAF上手体验",
+      "author": "御风大世界",
+      "play": 108336,
+      "duration": "6:15",
+      "url": "https://www.bilibili.com/video/BV1fD421A7wL",
+      "keyword": "防火墙 包过滤 应用网关"
+    },
+    {
+      "bvid": "BV1v1ty6tESu",
+      "title": "只发了一串数字，马斯克跑来围观 | RSA-260被破",
+      "author": "为什么叫QQ",
+      "play": 65659,
+      "duration": "11:19",
+      "url": "https://www.bilibili.com/video/BV1v1ty6tESu",
+      "keyword": "对称加密 非对称加密 RSA 数字签名"
+    },
+    {
+      "bvid": "BV134411r7Kt",
+      "title": "四分钟搞明白非对称加密",
+      "author": "shancwOoO",
+      "play": 55101,
+      "duration": "4:41",
+      "url": "https://www.bilibili.com/video/BV134411r7Kt",
+      "keyword": "对称加密 非对称加密 RSA 数字签名"
+    },
+    {
+      "bvid": "BV1Tg411f7mB",
+      "title": "非对称加密原理 - 公钥和私钥是天生的一对",
+      "author": "gitcoins",
+      "play": 47084,
+      "duration": "5:47",
+      "url": "https://www.bilibili.com/video/BV1Tg411f7mB",
+      "keyword": "对称加密 非对称加密 RSA 数字签名"
+    }
+  ],
+  "OOP-SOLID": [
+    {
+      "bvid": "BV1KW4y1L7te",
+      "title": "【架构与设计模式】控制反转和依赖注入 之 概念说明",
+      "author": "全栈码叔",
+      "play": 32029,
+      "duration": "16:14",
+      "url": "https://www.bilibili.com/video/BV1KW4y1L7te",
+      "keyword": "里氏替换 依赖倒置 设计原则"
+    },
+    {
+      "bvid": "BV1VY411F7kG",
+      "title": "【入门】-solidworks-建模思路比技巧还要重要",
+      "author": "别闹了0",
+      "play": 23122,
+      "duration": "4:36",
+      "url": "https://www.bilibili.com/video/BV1VY411F7kG",
+      "keyword": "SOLID设计原则 开闭原则"
+    },
+    {
+      "bvid": "BV1fG411P75c",
+      "title": "里氏替换原则是什么? 继承复用有什么规范【设计模式系列8】",
+      "author": "图灵星球TuringPlanet",
+      "play": 18162,
+      "duration": "8:20",
+      "url": "https://www.bilibili.com/video/BV1fG411P75c",
+      "keyword": "里氏替换 依赖倒置 设计原则"
+    },
+    {
+      "bvid": "BV1Lg411h74u",
+      "title": "教你如何使用抽象类 实践开闭原则",
+      "author": "XYCoding",
+      "play": 15684,
+      "duration": "17:41",
+      "url": "https://www.bilibili.com/video/BV1Lg411h74u",
+      "keyword": "SOLID设计原则 开闭原则"
+    },
+    {
+      "bvid": "BV1E7411A7mk",
+      "title": "面向对象设计原则精讲",
+      "author": "宁静致远在路上走着",
+      "play": 14081,
+      "duration": "219:32",
+      "url": "https://www.bilibili.com/video/BV1E7411A7mk",
+      "keyword": "SOLID设计原则 开闭原则"
+    },
+    {
+      "bvid": "BV19b411d7AA",
+      "title": "秒懂设计原则.04.依赖倒置原则",
+      "author": "子烁爱学习",
+      "play": 12213,
+      "duration": "2:37",
+      "url": "https://www.bilibili.com/video/BV19b411d7AA",
+      "keyword": "里氏替换 依赖倒置 设计原则"
+    },
+    {
+      "bvid": "BV1RT411D7by",
+      "title": "秒懂设计原则.01.开闭原则",
+      "author": "子烁爱学习",
+      "play": 11762,
+      "duration": "1:26",
+      "url": "https://www.bilibili.com/video/BV1RT411D7by",
+      "keyword": "SOLID设计原则 开闭原则"
+    },
+    {
+      "bvid": "BV1p54y1g74c",
+      "title": "秒懂设计原则.02.里氏替换原则",
+      "author": "子烁爱学习",
+      "play": 11685,
+      "duration": "3:6",
+      "url": "https://www.bilibili.com/video/BV1p54y1g74c",
+      "keyword": "里氏替换 依赖倒置 设计原则"
+    },
+    {
+      "bvid": "BV1cg411e7mJ",
+      "title": "05-里氏代换与依赖倒转原则(Easy搞定Go语言设计模式)",
+      "author": "刘丹冰Aceld",
+      "play": 11591,
+      "duration": "21:21",
+      "url": "https://www.bilibili.com/video/BV1cg411e7mJ",
+      "keyword": "里氏替换 依赖倒置 设计原则"
+    },
+    {
+      "bvid": "BV1tBdCBrEYu",
+      "title": "解耦神器！接口 + 抽象类 + 依赖倒置一站式讲透",
+      "author": "DOTNET魔导师",
+      "play": 9301,
+      "duration": "7:17",
+      "url": "https://www.bilibili.com/video/BV1tBdCBrEYu",
+      "keyword": "里氏替换 依赖倒置 设计原则"
+    }
+  ],
+  "编译原理-编译过程": [],
+  "编译原理-自动机正规式": [
+    {
+      "bvid": "BV1mh41187fN",
+      "title": "编译原理正规表达式转NFA到DFA再化简",
+      "author": "dirty_child",
+      "play": 345865,
+      "duration": "21:11",
+      "url": "https://www.bilibili.com/video/BV1mh41187fN",
+      "keyword": "有限自动机 DFA NFA 正规式"
+    },
+    {
+      "bvid": "BV1M44y1E7uT",
+      "title": "13编译原理根据正规表达式构造有限自动机（包含DFA化简）",
+      "author": "致爱意",
+      "play": 206783,
+      "duration": "32:48",
+      "url": "https://www.bilibili.com/video/BV1M44y1E7uT",
+      "keyword": "有限自动机 DFA NFA 正规式"
+    },
+    {
+      "bvid": "BV1fi4y1Q7Yz",
+      "title": "正规式转化为NFA，NFA转化为DFA",
+      "author": "认真学习的小桐同学",
+      "play": 160579,
+      "duration": "25:50",
+      "url": "https://www.bilibili.com/video/BV1fi4y1Q7Yz",
+      "keyword": "有限自动机 DFA NFA 正规式"
+    },
+    {
+      "bvid": "BV1FT4y1Y775",
+      "title": "编译原理正规式-NFA-DFA-SDFA期末必考例题0基础超详解",
+      "author": "是聪明的李二蛋啊",
+      "play": 44286,
+      "duration": "16:39",
+      "url": "https://www.bilibili.com/video/BV1FT4y1Y775",
+      "keyword": "有限自动机 DFA NFA 正规式"
+    },
+    {
+      "bvid": "BV1bM4y1Q75x",
+      "title": "编译原理《第二章》正规式、正规文法、自动机DFA and NFA的转换#期末复习",
+      "author": "Gonna88",
+      "play": 29386,
+      "duration": "32:53",
+      "url": "https://www.bilibili.com/video/BV1bM4y1Q75x",
+      "keyword": "有限自动机 DFA NFA 正规式"
+    },
+    {
+      "bvid": "BV1gzquBMEH5",
+      "title": "【编译原理】NFA确定化（转DFA ）经典例题带做，速通也能吃透原理！",
+      "author": "高冷大葡萄_",
+      "play": 19859,
+      "duration": "20:8",
+      "url": "https://www.bilibili.com/video/BV1gzquBMEH5",
+      "keyword": "有限自动机 DFA NFA 正规式"
+    },
+    {
+      "bvid": "BV1uV4y1W7cB",
+      "title": "【manim | 算法】OI自动机大炒饭（字典树，KMP自动机，AC自动机，后缀自动机，广义后缀自动机）",
+      "author": "千嶂夹城",
+      "play": 16938,
+      "duration": "21:4",
+      "url": "https://www.bilibili.com/video/BV1uV4y1W7cB",
+      "keyword": "有限自动机 DFA NFA 正规式"
+    },
+    {
+      "bvid": "BV1Yi4y1t7J3",
+      "title": "【有限状态自动机】第1讲第1节（什么是计算）_超清",
+      "author": "ciscoxll",
+      "play": 10339,
+      "duration": "50:13",
+      "url": "https://www.bilibili.com/video/BV1Yi4y1t7J3",
+      "keyword": "有限自动机 DFA NFA 正规式"
+    },
+    {
+      "bvid": "BV1vd4y1k7M8",
+      "title": "软考软件设计师之--有限自动机",
+      "author": "我的博览君君_是你吗",
+      "play": 9474,
+      "duration": "12:18",
+      "url": "https://www.bilibili.com/video/BV1vd4y1k7M8",
+      "keyword": "有限自动机 DFA NFA 正规式"
+    },
+    {
+      "bvid": "BV15VG46aEvJ",
+      "title": "编译原理期末速成：0基础求DFA以及最小化和NFA确定化",
+      "author": "陌上花开烟雨生",
+      "play": 8837,
+      "duration": "28:13",
+      "url": "https://www.bilibili.com/video/BV15VG46aEvJ",
+      "keyword": "有限自动机 DFA NFA 正规式"
+    }
+  ],
+  "编译原理-后缀式": [],
+  "多媒体-图像容量": []
+}

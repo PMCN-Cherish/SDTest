@@ -1,0 +1,265 @@
+[
+  {
+    "bvid": "BV1iY3y6UEsa",
+    "topic": "软件工程-内聚耦合",
+    "status": "already"
+  },
+  {
+    "bvid": "BV1FPCzYdEeH",
+    "topic": "软件工程-维护",
+    "status": "ok",
+    "chars": 56226
+  },
+  {
+    "bvid": "BV1HN4y1F7VQ",
+    "topic": "软件工程-维护",
+    "status": "ok",
+    "chars": 6923
+  },
+  {
+    "bvid": "BV1DP4y1n71W",
+    "topic": "数据结构-排序算法",
+    "status": "ok",
+    "chars": 11
+  },
+  {
+    "bvid": "BV1jE411W7tT",
+    "topic": "数据结构-图",
+    "status": "ok",
+    "chars": 5072
+  },
+  {
+    "bvid": "BV1ve4y1b7gH",
+    "topic": "数据结构-图",
+    "status": "ok",
+    "chars": 3400
+  },
+  {
+    "bvid": "BV1aa411f7uT",
+    "topic": "数据结构-算法策略",
+    "status": "ok",
+    "chars": 95
+  },
+  {
+    "bvid": "BV1VK4y1f7o6",
+    "topic": "计组-码制浮点数",
+    "status": "ok",
+    "chars": 2179
+  },
+  {
+    "bvid": "BV1V4411Z7VA",
+    "topic": "计组-校验码",
+    "status": "ok",
+    "chars": 5
+  },
+  {
+    "bvid": "BV1keLp6GERQ",
+    "topic": "计组-Cache存储",
+    "status": "ok",
+    "chars": 3024
+  },
+  {
+    "bvid": "BV1nZMy6DE2B",
+    "topic": "计组-Cache存储",
+    "status": "ok",
+    "chars": 584
+  },
+  {
+    "bvid": "BV1Tp4y187dj",
+    "topic": "计组-流水线",
+    "status": "ok",
+    "chars": 2403
+  },
+  {
+    "bvid": "BV1T5411x7Hy",
+    "topic": "计组-可靠性",
+    "status": "ok",
+    "chars": 1445
+  },
+  {
+    "bvid": "BV1ah411974v",
+    "topic": "计组-可靠性",
+    "status": "ok",
+    "chars": 11808
+  },
+  {
+    "bvid": "BV1Xk4y1q7RK",
+    "topic": "操作系统-PV操作",
+    "status": "ok",
+    "chars": 16781
+  },
+  {
+    "bvid": "BV1av411q73F",
+    "topic": "操作系统-死锁",
+    "status": "ok",
+    "chars": 1321
+  },
+  {
+    "bvid": "BV1Fc411W74Z",
+    "topic": "操作系统-死锁",
+    "status": "ok",
+    "chars": 2196
+  },
+  {
+    "bvid": "BV1shVd6iEzs",
+    "topic": "操作系统-页式存储",
+    "status": "ok",
+    "chars": 2
+  },
+  {
+    "bvid": "BV1Jt411d7sw",
+    "topic": "数据库-ER关系模式",
+    "status": "ok",
+    "chars": 2081
+  },
+  {
+    "bvid": "BV1JG4y1Q7BX",
+    "topic": "数据库-事务",
+    "status": "ok",
+    "chars": 2067
+  },
+  {
+    "bvid": "BV1Pt41137w6",
+    "topic": "网络-OSI协议栈",
+    "status": "ok",
+    "chars": 5438
+  },
+  {
+    "bvid": "BV1qJ411J7Tt",
+    "topic": "网络-OSI协议栈",
+    "status": "ok",
+    "chars": 15175
+  },
+  {
+    "bvid": "BV1yU82zcEgv",
+    "topic": "UML-用例图类图",
+    "status": "ok",
+    "chars": 4367
+  },
+  {
+    "bvid": "BV16E421T7hc",
+    "topic": "UML-用例图类图",
+    "status": "ok",
+    "chars": 8231
+  },
+  {
+    "bvid": "BV1Fo4y1H7t6",
+    "topic": "UML-用例图类图",
+    "status": "ok",
+    "chars": 26232
+  },
+  {
+    "bvid": "BV1ZS421X74d",
+    "topic": "设计模式-单例工厂",
+    "status": "ok",
+    "chars": 5230
+  },
+  {
+    "bvid": "BV1Hz411e7sA",
+    "topic": "设计模式-观察者策略",
+    "status": "ok",
+    "chars": 1439
+  },
+  {
+    "bvid": "BV14z421k7hv",
+    "topic": "设计模式-观察者策略",
+    "status": "ok",
+    "chars": 3422
+  },
+  {
+    "bvid": "BV1pg411n7Ug",
+    "topic": "设计模式-观察者策略",
+    "status": "ok",
+    "chars": 1706
+  },
+  {
+    "bvid": "BV1Vp4y187dK",
+    "topic": "设计模式-观察者策略",
+    "status": "ok",
+    "chars": 2656
+  },
+  {
+    "bvid": "BV1iN4y1g7s6",
+    "topic": "知识产权-保护期限",
+    "status": "ok",
+    "chars": 7716
+  },
+  {
+    "bvid": "BV1Aj41137Aa",
+    "topic": "下午题-ER数据库",
+    "status": "ok",
+    "chars": 6337
+  },
+  {
+    "bvid": "BV181H96oEhp",
+    "topic": "下午题-ER数据库",
+    "status": "ok",
+    "chars": 2711
+  },
+  {
+    "bvid": "BV1TT421Q7LS",
+    "topic": "下午题-UML",
+    "status": "ok",
+    "chars": 6409
+  },
+  {
+    "bvid": "BV1EM4m1C7C8",
+    "topic": "下午题-算法C",
+    "status": "ok",
+    "chars": 21985
+  },
+  {
+    "bvid": "BV1Qt411a7Hw",
+    "topic": "软件工程-CMMI",
+    "status": "ok",
+    "chars": 3445
+  },
+  {
+    "bvid": "BV167411y7Jm",
+    "topic": "软件工程-数据字典",
+    "status": "ok",
+    "chars": 9639
+  },
+  {
+    "bvid": "BV18T1FYMEiJ",
+    "topic": "操作系统-进程调度",
+    "status": "ok",
+    "chars": 3899
+  },
+  {
+    "bvid": "BV13Q4y1B7BZ",
+    "topic": "数据库-三级模式",
+    "status": "ok",
+    "chars": 3261
+  },
+  {
+    "bvid": "BV1sJETztEjS",
+    "topic": "数据库-三级模式",
+    "status": "ok",
+    "chars": 1212
+  },
+  {
+    "bvid": "BV1dP4y1Z7Pc",
+    "topic": "数据库-三级模式",
+    "status": "ok",
+    "chars": 3714
+  },
+  {
+    "bvid": "BV1fi4y1Q7Yz",
+    "topic": "编译原理-自动机正规式",
+    "status": "ok",
+    "chars": 4191
+  },
+  {
+    "bvid": "BV1FT4y1Y775",
+    "topic": "编译原理-自动机正规式",
+    "status": "ok",
+    "chars": 3820
+  },
+  {
+    "bvid": "BV1Yi4y1t7J3",
+    "topic": "编译原理-自动机正规式",
+    "status": "ok",
+    "chars": 1772
+  }
+]

@@ -1,0 +1,1859 @@
+[
+  {
+    "line": 34,
+    "name": "瀑布模型",
+    "has_meta": true,
+    "keywords": [
+      "瀑布模型"
+    ],
+    "count": 254,
+    "docs": 26
+  },
+  {
+    "line": 36,
+    "name": "原型化模型",
+    "has_meta": true,
+    "keywords": [
+      "原型化模型"
+    ],
+    "count": 5,
+    "docs": 2
+  },
+  {
+    "line": 38,
+    "name": "螺旋模型",
+    "has_meta": true,
+    "keywords": [
+      "螺旋模型"
+    ],
+    "count": 176,
+    "docs": 22
+  },
+  {
+    "line": 40,
+    "name": "增量模型",
+    "has_meta": true,
+    "keywords": [
+      "增量模型"
+    ],
+    "count": 115,
+    "docs": 20
+  },
+  {
+    "line": 42,
+    "name": "V模型",
+    "has_meta": true,
+    "keywords": [
+      "V模型"
+    ],
+    "count": 33,
+    "docs": 14
+  },
+  {
+    "line": 44,
+    "name": "喷泉模型",
+    "has_meta": true,
+    "keywords": [
+      "喷泉模型"
+    ],
+    "count": 116,
+    "docs": 19
+  },
+  {
+    "line": 46,
+    "name": "敏捷开发",
+    "has_meta": true,
+    "keywords": [
+      "敏捷开发"
+    ],
+    "count": 100,
+    "docs": 19
+  },
+  {
+    "line": 51,
+    "name": "需求分类",
+    "has_meta": true,
+    "keywords": [
+      "功能需求",
+      "非功能需求"
+    ],
+    "count": 142,
+    "docs": 30
+  },
+  {
+    "line": 53,
+    "name": "需求工程6步",
+    "has_meta": true,
+    "keywords": [
+      "需求获取",
+      "需求分析",
+      "需求验证"
+    ],
+    "count": 829,
+    "docs": 47
+  },
+  {
+    "line": 55,
+    "name": "需求验证",
+    "has_meta": true,
+    "keywords": [
+      "需求验证"
+    ],
+    "count": 14,
+    "docs": 2
+  },
+  {
+    "line": 60,
+    "name": "内聚7级（从低到高）",
+    "has_meta": true,
+    "keywords": [
+      "内聚"
+    ],
+    "count": 296,
+    "docs": 35
+  },
+  {
+    "line": 62,
+    "name": "耦合7级（从低到高/从好到坏）",
+    "has_meta": true,
+    "keywords": [
+      "耦合"
+    ],
+    "count": 834,
+    "docs": 47
+  },
+  {
+    "line": 64,
+    "name": "模块独立",
+    "has_meta": true,
+    "keywords": [
+      "模块独立"
+    ],
+    "count": 33,
+    "docs": 12
+  },
+  {
+    "line": 69,
+    "name": "结构化分析SA工具",
+    "has_meta": true,
+    "keywords": [
+      "结构化分析",
+      "数据流图"
+    ],
+    "count": 2380,
+    "docs": 43
+  },
+  {
+    "line": 71,
+    "name": "数据字典4类条目",
+    "has_meta": true,
+    "keywords": [
+      "数据字典"
+    ],
+    "count": 478,
+    "docs": 35
+  },
+  {
+    "line": 73,
+    "name": "结构化设计SD",
+    "has_meta": false,
+    "keywords": [
+      "变换流",
+      "事务流"
+    ],
+    "count": 10,
+    "docs": 2
+  },
+  {
+    "line": 80,
+    "name": "V模型对应",
+    "has_meta": true,
+    "keywords": [
+      "验收测试",
+      "系统测试",
+      "集成测试",
+      "单元测试"
+    ],
+    "count": 308,
+    "docs": 29
+  },
+  {
+    "line": 82,
+    "name": "白盒覆盖强度（弱→强）",
+    "has_meta": true,
+    "keywords": [
+      "语句覆盖",
+      "判定覆盖",
+      "条件覆盖",
+      "路径覆盖"
+    ],
+    "count": 385,
+    "docs": 21
+  },
+  {
+    "line": 84,
+    "name": "黑盒方法",
+    "has_meta": true,
+    "keywords": [
+      "等价类",
+      "边界值",
+      "因果图",
+      "错误推测"
+    ],
+    "count": 250,
+    "docs": 25
+  },
+  {
+    "line": 86,
+    "name": "Alpha测试 vs Beta测试",
+    "has_meta": true,
+    "keywords": [
+      "Alpha测试",
+      "Beta测试",
+      "α测试",
+      "β测试"
+    ],
+    "count": 0,
+    "docs": 0
+  },
+  {
+    "line": 88,
+    "name": "调试 vs 测试",
+    "has_meta": true,
+    "keywords": [
+      "调试"
+    ],
+    "count": 178,
+    "docs": 38
+  },
+  {
+    "line": 90,
+    "name": "McCabe环路复杂度",
+    "has_meta": true,
+    "keywords": [
+      "环路复杂度",
+      "McCabe",
+      "McCabe环路"
+    ],
+    "count": 81,
+    "docs": 13
+  },
+  {
+    "line": 95,
+    "name": "4种维护",
+    "has_meta": true,
+    "keywords": [
+      "改正性",
+      "适应性维护",
+      "完善性",
+      "预防性"
+    ],
+    "count": 333,
+    "docs": 16
+  },
+  {
+    "line": 100,
+    "name": "甘特图",
+    "has_meta": true,
+    "keywords": [
+      "甘特图"
+    ],
+    "count": 222,
+    "docs": 27
+  },
+  {
+    "line": 102,
+    "name": "关键路径法CPM/PERT",
+    "has_meta": true,
+    "keywords": [
+      "关键路径",
+      "CPM",
+      "PERT"
+    ],
+    "count": 835,
+    "docs": 34
+  },
+  {
+    "line": 104,
+    "name": "风险管理",
+    "has_meta": true,
+    "keywords": [
+      "风险管理"
+    ],
+    "count": 329,
+    "docs": 19
+  },
+  {
+    "line": 106,
+    "name": "配置管理",
+    "has_meta": true,
+    "keywords": [
+      "配置管理"
+    ],
+    "count": 386,
+    "docs": 11
+  },
+  {
+    "line": 108,
+    "name": "软件质量",
+    "has_meta": true,
+    "keywords": [
+      "软件质量"
+    ],
+    "count": 30,
+    "docs": 17
+  },
+  {
+    "line": 113,
+    "name": "CMMI 5级（从低到高）",
+    "has_meta": false,
+    "keywords": [
+      "CMMI"
+    ],
+    "count": 18,
+    "docs": 17
+  },
+  {
+    "line": 123,
+    "name": "COCOMO模型",
+    "has_meta": true,
+    "keywords": [
+      "COCOMO"
+    ],
+    "count": 0,
+    "docs": 0
+  },
+  {
+    "line": 125,
+    "name": "功能点FP",
+    "has_meta": true,
+    "keywords": [
+      "功能点"
+    ],
+    "count": 3,
+    "docs": 3
+  },
+  {
+    "line": 136,
+    "name": "栈",
+    "has_meta": true,
+    "keywords": [
+      "栈"
+    ],
+    "count": 547,
+    "docs": 46
+  },
+  {
+    "line": 138,
+    "name": "队列",
+    "has_meta": true,
+    "keywords": [
+      "队列"
+    ],
+    "count": 1344,
+    "docs": 54
+  },
+  {
+    "line": 140,
+    "name": "串",
+    "has_meta": true,
+    "keywords": [
+      "串"
+    ],
+    "count": 5973,
+    "docs": 140
+  },
+  {
+    "line": 145,
+    "name": "二叉树遍历",
+    "has_meta": true,
+    "keywords": [
+      "二叉树遍历"
+    ],
+    "count": 31,
+    "docs": 18
+  },
+  {
+    "line": 147,
+    "name": "二叉树性质",
+    "has_meta": true,
+    "keywords": [
+      "二叉树"
+    ],
+    "count": 2240,
+    "docs": 46
+  },
+  {
+    "line": 149,
+    "name": "哈夫曼树",
+    "has_meta": true,
+    "keywords": [
+      "哈夫曼树"
+    ],
+    "count": 389,
+    "docs": 16
+  },
+  {
+    "line": 151,
+    "name": "B树/B+树",
+    "has_meta": true,
+    "keywords": [
+      "B+树",
+      "B树"
+    ],
+    "count": 2,
+    "docs": 2
+  },
+  {
+    "line": 153,
+    "name": "二叉排序树BST",
+    "has_meta": true,
+    "keywords": [
+      "二叉排序树",
+      "BST"
+    ],
+    "count": 131,
+    "docs": 15
+  },
+  {
+    "line": 155,
+    "name": "平衡二叉树AVL",
+    "has_meta": true,
+    "keywords": [
+      "平衡二叉树",
+      "AVL"
+    ],
+    "count": 59,
+    "docs": 16
+  },
+  {
+    "line": 160,
+    "name": "图的存储",
+    "has_meta": true,
+    "keywords": [
+      "图的存储"
+    ],
+    "count": 23,
+    "docs": 11
+  },
+  {
+    "line": 162,
+    "name": "DFS vs BFS",
+    "has_meta": true,
+    "keywords": [
+      "DFS"
+    ],
+    "count": 66,
+    "docs": 11
+  },
+  {
+    "line": 164,
+    "name": "最短路径Dijkstra",
+    "has_meta": true,
+    "keywords": [
+      "Dijkstra",
+      "迪杰斯特拉"
+    ],
+    "count": 55,
+    "docs": 19
+  },
+  {
+    "line": 166,
+    "name": "最小生成树",
+    "has_meta": true,
+    "keywords": [
+      "最小生成树"
+    ],
+    "count": 164,
+    "docs": 23
+  },
+  {
+    "line": 168,
+    "name": "拓扑排序",
+    "has_meta": true,
+    "keywords": [
+      "拓扑排序"
+    ],
+    "count": 183,
+    "docs": 19
+  },
+  {
+    "line": 170,
+    "name": "关键路径",
+    "has_meta": true,
+    "keywords": [
+      "关键路径"
+    ],
+    "count": 822,
+    "docs": 25
+  },
+  {
+    "line": 186,
+    "name": "要背的话",
+    "has_meta": true,
+    "keywords": [
+      "快速排序",
+      "快排",
+      "堆排序",
+      "归并排序"
+    ],
+    "count": 1182,
+    "docs": 33
+  },
+  {
+    "line": 191,
+    "name": "折半查找",
+    "has_meta": true,
+    "keywords": [
+      "折半查找"
+    ],
+    "count": 272,
+    "docs": 19
+  },
+  {
+    "line": 193,
+    "name": "哈希冲突",
+    "has_meta": true,
+    "keywords": [
+      "哈希",
+      "散列"
+    ],
+    "count": 1002,
+    "docs": 46
+  },
+  {
+    "line": 195,
+    "name": "ASL平均查找长度",
+    "has_meta": true,
+    "keywords": [
+      "平均查找长度",
+      "ASL"
+    ],
+    "count": 55,
+    "docs": 17
+  },
+  {
+    "line": 200,
+    "name": "编译过程6阶段",
+    "has_meta": false,
+    "keywords": [
+      "词法分析",
+      "语法分析",
+      "语义分析",
+      "中间代码",
+      "目标代码"
+    ],
+    "count": 1544,
+    "docs": 26
+  },
+  {
+    "line": 208,
+    "name": "Chomsky文法4型",
+    "has_meta": false,
+    "keywords": [
+      "Chomsky",
+      "乔姆斯基"
+    ],
+    "count": 0,
+    "docs": 0
+  },
+  {
+    "line": 214,
+    "name": "DFA vs NFA",
+    "has_meta": true,
+    "keywords": [
+      "DFA"
+    ],
+    "count": 116,
+    "docs": 14
+  },
+  {
+    "line": 216,
+    "name": "正规式",
+    "has_meta": true,
+    "keywords": [
+      "正规式"
+    ],
+    "count": 558,
+    "docs": 27
+  },
+  {
+    "line": 218,
+    "name": "后缀式（逆波兰式）",
+    "has_meta": true,
+    "keywords": [
+      "后缀式"
+    ],
+    "count": 162,
+    "docs": 13
+  },
+  {
+    "line": 220,
+    "name": "中间代码形式",
+    "has_meta": true,
+    "keywords": [
+      "后缀式",
+      "四元式",
+      "三元式",
+      "中间代码"
+    ],
+    "count": 601,
+    "docs": 19
+  },
+  {
+    "line": 225,
+    "name": "分治法",
+    "has_meta": true,
+    "keywords": [
+      "分治法"
+    ],
+    "count": 329,
+    "docs": 20
+  },
+  {
+    "line": 227,
+    "name": "贪心法",
+    "has_meta": true,
+    "keywords": [
+      "贪心法"
+    ],
+    "count": 486,
+    "docs": 22
+  },
+  {
+    "line": 229,
+    "name": "动态规划",
+    "has_meta": true,
+    "keywords": [
+      "动态规划"
+    ],
+    "count": 1386,
+    "docs": 37
+  },
+  {
+    "line": 231,
+    "name": "回溯法",
+    "has_meta": true,
+    "keywords": [
+      "回溯法"
+    ],
+    "count": 517,
+    "docs": 23
+  },
+  {
+    "line": 242,
+    "name": "进制转换",
+    "has_meta": true,
+    "keywords": [
+      "进制转换"
+    ],
+    "count": 280,
+    "docs": 27
+  },
+  {
+    "line": 244,
+    "name": "原码反码补码移码",
+    "has_meta": true,
+    "keywords": [
+      "原码反码补码移码"
+    ],
+    "count": 7,
+    "docs": 7
+  },
+  {
+    "line": 246,
+    "name": "浮点数",
+    "has_meta": true,
+    "keywords": [
+      "浮点数"
+    ],
+    "count": 1414,
+    "docs": 38
+  },
+  {
+    "line": 251,
+    "name": "奇偶校验",
+    "has_meta": true,
+    "keywords": [
+      "奇偶校验"
+    ],
+    "count": 241,
+    "docs": 28
+  },
+  {
+    "line": 253,
+    "name": "CRC循环冗余",
+    "has_meta": true,
+    "keywords": [
+      "CRC循环冗余"
+    ],
+    "count": 93,
+    "docs": 14
+  },
+  {
+    "line": 255,
+    "name": "海明码",
+    "has_meta": true,
+    "keywords": [
+      "海明码"
+    ],
+    "count": 234,
+    "docs": 22
+  },
+  {
+    "line": 260,
+    "name": "CPU组成",
+    "has_meta": true,
+    "keywords": [
+      "CPU组成"
+    ],
+    "count": 10,
+    "docs": 7
+  },
+  {
+    "line": 262,
+    "name": "层次化存储",
+    "has_meta": true,
+    "keywords": [
+      "层次化存储"
+    ],
+    "count": 116,
+    "docs": 15
+  },
+  {
+    "line": 264,
+    "name": "Cache映射",
+    "has_meta": true,
+    "keywords": [
+      "直接映射",
+      "全相联",
+      "组相联",
+      "Cache映射"
+    ],
+    "count": 236,
+    "docs": 21
+  },
+  {
+    "line": 266,
+    "name": "主存编址",
+    "has_meta": true,
+    "keywords": [
+      "主存编址"
+    ],
+    "count": 15,
+    "docs": 6
+  },
+  {
+    "line": 271,
+    "name": "IO控制方式",
+    "has_meta": true,
+    "keywords": [
+      "IO控制方式"
+    ],
+    "count": 24,
+    "docs": 13
+  },
+  {
+    "line": 273,
+    "name": "总线分类",
+    "has_meta": true,
+    "keywords": [
+      "总线分类"
+    ],
+    "count": 7,
+    "docs": 6
+  },
+  {
+    "line": 278,
+    "name": "寻址方式速度排序",
+    "has_meta": true,
+    "keywords": [
+      "寻址方式",
+      "立即寻址",
+      "寄存器寻址",
+      "间接寻址"
+    ],
+    "count": 1070,
+    "docs": 23
+  },
+  {
+    "line": 280,
+    "name": "CISC vs RISC",
+    "has_meta": true,
+    "keywords": [
+      "CISC"
+    ],
+    "count": 62,
+    "docs": 17
+  },
+  {
+    "line": 282,
+    "name": "流水线",
+    "has_meta": true,
+    "keywords": [
+      "流水线"
+    ],
+    "count": 1836,
+    "docs": 46
+  },
+  {
+    "line": 284,
+    "name": "可靠性",
+    "has_meta": true,
+    "keywords": [
+      "可靠性"
+    ],
+    "count": 1477,
+    "docs": 52
+  },
+  {
+    "line": 286,
+    "name": "Flynn分类法",
+    "has_meta": false,
+    "keywords": [
+      "Flynn分类法"
+    ],
+    "count": 1,
+    "docs": 1
+  },
+  {
+    "line": 292,
+    "name": "流水线相关",
+    "has_meta": false,
+    "keywords": [
+      "流水线"
+    ],
+    "count": 1836,
+    "docs": 46
+  },
+  {
+    "line": 307,
+    "name": "进程vs线程",
+    "has_meta": true,
+    "keywords": [
+      "线程"
+    ],
+    "count": 1158,
+    "docs": 53
+  },
+  {
+    "line": 309,
+    "name": "进程三态",
+    "has_meta": true,
+    "keywords": [
+      "进程状态",
+      "就绪",
+      "运行",
+      "阻塞"
+    ],
+    "count": 6779,
+    "docs": 164
+  },
+  {
+    "line": 311,
+    "name": "进程五态",
+    "has_meta": true,
+    "keywords": [
+      "进程状态",
+      "挂起"
+    ],
+    "count": 198,
+    "docs": 23
+  },
+  {
+    "line": 316,
+    "name": "FCFS先来先服务",
+    "has_meta": false,
+    "keywords": [
+      "先来先服务",
+      "FCFS"
+    ],
+    "count": 147,
+    "docs": 24
+  },
+  {
+    "line": 317,
+    "name": "SJF短作业优先",
+    "has_meta": false,
+    "keywords": [
+      "短作业优先",
+      "SJF"
+    ],
+    "count": 56,
+    "docs": 11
+  },
+  {
+    "line": 318,
+    "name": "时间片轮转RR",
+    "has_meta": false,
+    "keywords": [
+      "时间片轮转",
+      "RR"
+    ],
+    "count": 181,
+    "docs": 43
+  },
+  {
+    "line": 319,
+    "name": "优先级调度",
+    "has_meta": false,
+    "keywords": [
+      "优先级调度"
+    ],
+    "count": 28,
+    "docs": 14
+  },
+  {
+    "line": 320,
+    "name": "多级反馈队列",
+    "has_meta": true,
+    "keywords": [
+      "多级反馈队列"
+    ],
+    "count": 16,
+    "docs": 5
+  },
+  {
+    "line": 322,
+    "name": "三级调度",
+    "has_meta": true,
+    "keywords": [
+      "作业调度",
+      "进程调度",
+      "低级调度"
+    ],
+    "count": 68,
+    "docs": 20
+  },
+  {
+    "line": 327,
+    "name": "信号量",
+    "has_meta": true,
+    "keywords": [
+      "信号量"
+    ],
+    "count": 1368,
+    "docs": 32
+  },
+  {
+    "line": 329,
+    "name": "死锁四必要条件",
+    "has_meta": true,
+    "keywords": [
+      "互斥",
+      "循环等待",
+      "不可剥夺",
+      "死锁"
+    ],
+    "count": 1665,
+    "docs": 50
+  },
+  {
+    "line": 331,
+    "name": "死锁资源计算公式",
+    "has_meta": true,
+    "keywords": [
+      "死锁",
+      "资源数"
+    ],
+    "count": 1225,
+    "docs": 41
+  },
+  {
+    "line": 336,
+    "name": "页式存储",
+    "has_meta": true,
+    "keywords": [
+      "页式",
+      "分页"
+    ],
+    "count": 628,
+    "docs": 41
+  },
+  {
+    "line": 338,
+    "name": "TLB快表",
+    "has_meta": true,
+    "keywords": [
+      "TLB",
+      "快表"
+    ],
+    "count": 23,
+    "docs": 11
+  },
+  {
+    "line": 340,
+    "name": "动态分区分配算法",
+    "has_meta": true,
+    "keywords": [
+      "动态分区分配算法"
+    ],
+    "count": 4,
+    "docs": 2
+  },
+  {
+    "line": 342,
+    "name": "段式存储",
+    "has_meta": true,
+    "keywords": [
+      "段式"
+    ],
+    "count": 212,
+    "docs": 28
+  },
+  {
+    "line": 344,
+    "name": "页面置换算法",
+    "has_meta": true,
+    "keywords": [
+      "页面置换",
+      "LRU",
+      "FIFO",
+      "OPT"
+    ],
+    "count": 175,
+    "docs": 19
+  },
+  {
+    "line": 349,
+    "name": "树形目录路径",
+    "has_meta": true,
+    "keywords": [
+      "目录"
+    ],
+    "count": 1610,
+    "docs": 63
+  },
+  {
+    "line": 351,
+    "name": "索引文件",
+    "has_meta": true,
+    "keywords": [
+      "索引文件"
+    ],
+    "count": 100,
+    "docs": 11
+  },
+  {
+    "line": 353,
+    "name": "位示图",
+    "has_meta": true,
+    "keywords": [
+      "位示图"
+    ],
+    "count": 18,
+    "docs": 10
+  },
+  {
+    "line": 355,
+    "name": "磁盘移臂调度",
+    "has_meta": true,
+    "keywords": [
+      "磁盘移臂调度"
+    ],
+    "count": 16,
+    "docs": 4
+  },
+  {
+    "line": 359,
+    "name": "SPOOLing",
+    "has_meta": true,
+    "keywords": [
+      "SPOOLing",
+      "Spooling"
+    ],
+    "count": 1,
+    "docs": 1
+  },
+  {
+    "line": 370,
+    "name": "三级模式",
+    "has_meta": false,
+    "keywords": [
+      "三级模式"
+    ],
+    "count": 92,
+    "docs": 23
+  },
+  {
+    "line": 374,
+    "name": "两级映像",
+    "has_meta": false,
+    "keywords": [
+      "两级映像"
+    ],
+    "count": 9,
+    "docs": 3
+  },
+  {
+    "line": 378,
+    "name": "数据库设计4阶段",
+    "has_meta": true,
+    "keywords": [
+      "需求分析",
+      "概念设计",
+      "逻辑设计",
+      "物理设计"
+    ],
+    "count": 927,
+    "docs": 47
+  },
+  {
+    "line": 380,
+    "name": "三类完整性约束",
+    "has_meta": true,
+    "keywords": [
+      "实体完整性",
+      "参照完整性",
+      "用户定义完整性"
+    ],
+    "count": 116,
+    "docs": 13
+  },
+  {
+    "line": 385,
+    "name": "ER图元素",
+    "has_meta": true,
+    "keywords": [
+      "ER图",
+      "E-R图",
+      "实体"
+    ],
+    "count": 5237,
+    "docs": 81
+  },
+  {
+    "line": 387,
+    "name": "ER转关系模式规则",
+    "has_meta": false,
+    "keywords": [
+      "关系模式",
+      "ER图"
+    ],
+    "count": 2662,
+    "docs": 52
+  },
+  {
+    "line": 392,
+    "name": "关系代数",
+    "has_meta": true,
+    "keywords": [
+      "关系代数",
+      "选择",
+      "投影",
+      "连接"
+    ],
+    "count": 23393,
+    "docs": 258
+  },
+  {
+    "line": 397,
+    "name": "SQL核心",
+    "has_meta": true,
+    "keywords": [
+      "SELECT",
+      "GROUP BY",
+      "HAVING",
+      "JOIN"
+    ],
+    "count": 1,
+    "docs": 1
+  },
+  {
+    "line": 399,
+    "name": "规范化范式逐级消除",
+    "has_meta": false,
+    "keywords": [
+      "范式",
+      "1NF",
+      "2NF",
+      "3NF",
+      "BCNF"
+    ],
+    "count": 1547,
+    "docs": 42
+  },
+  {
+    "line": 408,
+    "name": "ACID",
+    "has_meta": true,
+    "keywords": [
+      "ACID"
+    ],
+    "count": 21,
+    "docs": 10
+  },
+  {
+    "line": 410,
+    "name": "封锁",
+    "has_meta": true,
+    "keywords": [
+      "封锁"
+    ],
+    "count": 114,
+    "docs": 13
+  },
+  {
+    "line": 421,
+    "name": "OSI七层（从下到上）",
+    "has_meta": false,
+    "keywords": [
+      "OSI七层"
+    ],
+    "count": 5,
+    "docs": 3
+  },
+  {
+    "line": 422,
+    "name": "TCP/IP四层",
+    "has_meta": true,
+    "keywords": [
+      "网络接口层",
+      "网际层",
+      "传输层",
+      "应用层"
+    ],
+    "count": 842,
+    "docs": 37
+  },
+  {
+    "line": 424,
+    "name": "各层代表协议",
+    "has_meta": false,
+    "keywords": [
+      "HTTP",
+      "TCP",
+      "UDP",
+      "IP协议"
+    ],
+    "count": 2232,
+    "docs": 50
+  },
+  {
+    "line": 433,
+    "name": "CIDR",
+    "has_meta": true,
+    "keywords": [
+      "CIDR",
+      "无类"
+    ],
+    "count": 18,
+    "docs": 5
+  },
+  {
+    "line": 438,
+    "name": "三次握手",
+    "has_meta": false,
+    "keywords": [
+      "三次握手"
+    ],
+    "count": 175,
+    "docs": 16
+  },
+  {
+    "line": 439,
+    "name": "四次挥手",
+    "has_meta": true,
+    "keywords": [
+      "四次挥手"
+    ],
+    "count": 45,
+    "docs": 12
+  },
+  {
+    "line": 441,
+    "name": "拥塞控制",
+    "has_meta": true,
+    "keywords": [
+      "拥塞控制"
+    ],
+    "count": 46,
+    "docs": 9
+  },
+  {
+    "line": 446,
+    "name": "对称加密",
+    "has_meta": false,
+    "keywords": [
+      "对称加密"
+    ],
+    "count": 586,
+    "docs": 27
+  },
+  {
+    "line": 447,
+    "name": "非对称加密",
+    "has_meta": false,
+    "keywords": [
+      "非对称加密"
+    ],
+    "count": 287,
+    "docs": 26
+  },
+  {
+    "line": 448,
+    "name": "数字签名",
+    "has_meta": false,
+    "keywords": [
+      "数字签名"
+    ],
+    "count": 521,
+    "docs": 25
+  },
+  {
+    "line": 449,
+    "name": "数字证书+CA",
+    "has_meta": false,
+    "keywords": [
+      "数字证书",
+      "CA"
+    ],
+    "count": 907,
+    "docs": 48
+  },
+  {
+    "line": 450,
+    "name": "防火墙",
+    "has_meta": true,
+    "keywords": [
+      "防火墙"
+    ],
+    "count": 2128,
+    "docs": 36
+  },
+  {
+    "line": 452,
+    "name": "网络设备分层",
+    "has_meta": false,
+    "keywords": [
+      "路由器",
+      "交换机",
+      "网桥",
+      "集线器"
+    ],
+    "count": 2222,
+    "docs": 35
+  },
+  {
+    "line": 457,
+    "name": "ARP",
+    "has_meta": false,
+    "keywords": [
+      "ARP"
+    ],
+    "count": 299,
+    "docs": 24
+  },
+  {
+    "line": 458,
+    "name": "DNS",
+    "has_meta": false,
+    "keywords": [
+      "DNS"
+    ],
+    "count": 265,
+    "docs": 25
+  },
+  {
+    "line": 459,
+    "name": "DHCP",
+    "has_meta": true,
+    "keywords": [
+      "DHCP"
+    ],
+    "count": 131,
+    "docs": 7
+  },
+  {
+    "line": 461,
+    "name": "VLAN虚拟局域网",
+    "has_meta": true,
+    "keywords": [
+      "VLAN"
+    ],
+    "count": 27,
+    "docs": 4
+  },
+  {
+    "line": 463,
+    "name": "Hash哈希函数",
+    "has_meta": true,
+    "keywords": [
+      "哈希函数",
+      "散列函数"
+    ],
+    "count": 205,
+    "docs": 21
+  },
+  {
+    "line": 465,
+    "name": "常见网络攻击",
+    "has_meta": true,
+    "keywords": [
+      "SQL注入",
+      "XSS",
+      "CSRF",
+      "DoS",
+      "攻击"
+    ],
+    "count": 3682,
+    "docs": 44
+  },
+  {
+    "line": 467,
+    "name": "多媒体图像容量计算",
+    "has_meta": true,
+    "keywords": [
+      "位图",
+      "分辨率",
+      "图像容量"
+    ],
+    "count": 113,
+    "docs": 24
+  },
+  {
+    "line": 478,
+    "name": "面向对象三特性",
+    "has_meta": true,
+    "keywords": [
+      "封装",
+      "继承",
+      "多态"
+    ],
+    "count": 4338,
+    "docs": 110
+  },
+  {
+    "line": 480,
+    "name": "重载vs重写",
+    "has_meta": true,
+    "keywords": [
+      "重载",
+      "重写",
+      "覆盖"
+    ],
+    "count": 2525,
+    "docs": 96
+  },
+  {
+    "line": 485,
+    "name": "SRP单一职责",
+    "has_meta": false,
+    "keywords": [
+      "单一职责"
+    ],
+    "count": 112,
+    "docs": 22
+  },
+  {
+    "line": 486,
+    "name": "OCP开闭原则",
+    "has_meta": false,
+    "keywords": [
+      "开闭原则"
+    ],
+    "count": 141,
+    "docs": 25
+  },
+  {
+    "line": 487,
+    "name": "LSP里氏替换",
+    "has_meta": false,
+    "keywords": [
+      "里氏替换"
+    ],
+    "count": 36,
+    "docs": 14
+  },
+  {
+    "line": 488,
+    "name": "DIP依赖倒置",
+    "has_meta": false,
+    "keywords": [
+      "依赖倒置"
+    ],
+    "count": 100,
+    "docs": 22
+  },
+  {
+    "line": 489,
+    "name": "ISP接口隔离",
+    "has_meta": true,
+    "keywords": [
+      "接口隔离"
+    ],
+    "count": 65,
+    "docs": 15
+  },
+  {
+    "line": 491,
+    "name": "抽象类vs接口",
+    "has_meta": true,
+    "keywords": [
+      "抽象类"
+    ],
+    "count": 662,
+    "docs": 46
+  },
+  {
+    "line": 496,
+    "name": "UML 9图分类",
+    "has_meta": false,
+    "keywords": [
+      "用例图",
+      "类图",
+      "序列图",
+      "活动图",
+      "状态图"
+    ],
+    "count": 3845,
+    "docs": 79
+  },
+  {
+    "line": 500,
+    "name": "用例图关系",
+    "has_meta": false,
+    "keywords": [
+      "包含",
+      "扩展",
+      "泛化"
+    ],
+    "count": 7581,
+    "docs": 197
+  },
+  {
+    "line": 506,
+    "name": "类图关系",
+    "has_meta": false,
+    "keywords": [
+      "关联",
+      "聚合",
+      "组合",
+      "依赖",
+      "泛化"
+    ],
+    "count": 10572,
+    "docs": 176
+  },
+  {
+    "line": 522,
+    "name": "单例模式",
+    "has_meta": false,
+    "keywords": [
+      "单例模式"
+    ],
+    "count": 362,
+    "docs": 28
+  },
+  {
+    "line": 523,
+    "name": "工厂方法",
+    "has_meta": false,
+    "keywords": [
+      "工厂方法"
+    ],
+    "count": 343,
+    "docs": 28
+  },
+  {
+    "line": 524,
+    "name": "抽象工厂",
+    "has_meta": false,
+    "keywords": [
+      "抽象工厂"
+    ],
+    "count": 455,
+    "docs": 31
+  },
+  {
+    "line": 525,
+    "name": "建造者（生成器）",
+    "has_meta": false,
+    "keywords": [
+      "建造者"
+    ],
+    "count": 15,
+    "docs": 7
+  },
+  {
+    "line": 526,
+    "name": "原型模式",
+    "has_meta": false,
+    "keywords": [
+      "原型模式"
+    ],
+    "count": 101,
+    "docs": 24
+  },
+  {
+    "line": 529,
+    "name": "适配器",
+    "has_meta": false,
+    "keywords": [
+      "适配器"
+    ],
+    "count": 561,
+    "docs": 34
+  },
+  {
+    "line": 530,
+    "name": "桥接",
+    "has_meta": false,
+    "keywords": [
+      "桥接"
+    ],
+    "count": 267,
+    "docs": 26
+  },
+  {
+    "line": 531,
+    "name": "组合",
+    "has_meta": false,
+    "keywords": [
+      "组合"
+    ],
+    "count": 2743,
+    "docs": 109
+  },
+  {
+    "line": 532,
+    "name": "装饰器",
+    "has_meta": false,
+    "keywords": [
+      "装饰器"
+    ],
+    "count": 966,
+    "docs": 22
+  },
+  {
+    "line": 533,
+    "name": "外观",
+    "has_meta": false,
+    "keywords": [
+      "外观"
+    ],
+    "count": 390,
+    "docs": 40
+  },
+  {
+    "line": 534,
+    "name": "享元",
+    "has_meta": false,
+    "keywords": [
+      "享元"
+    ],
+    "count": 18,
+    "docs": 13
+  },
+  {
+    "line": 535,
+    "name": "代理",
+    "has_meta": false,
+    "keywords": [
+      "代理"
+    ],
+    "count": 1662,
+    "docs": 48
+  },
+  {
+    "line": 538,
+    "name": "策略",
+    "has_meta": false,
+    "keywords": [
+      "策略"
+    ],
+    "count": 3482,
+    "docs": 114
+  },
+  {
+    "line": 539,
+    "name": "观察者",
+    "has_meta": false,
+    "keywords": [
+      "观察者"
+    ],
+    "count": 1474,
+    "docs": 43
+  },
+  {
+    "line": 540,
+    "name": "状态",
+    "has_meta": false,
+    "keywords": [
+      "状态"
+    ],
+    "count": 12065,
+    "docs": 188
+  },
+  {
+    "line": 541,
+    "name": "中介者",
+    "has_meta": false,
+    "keywords": [
+      "中介者"
+    ],
+    "count": 288,
+    "docs": 22
+  },
+  {
+    "line": 542,
+    "name": "责任链",
+    "has_meta": false,
+    "keywords": [
+      "责任链"
+    ],
+    "count": 104,
+    "docs": 20
+  },
+  {
+    "line": 543,
+    "name": "命令模式",
+    "has_meta": false,
+    "keywords": [
+      "命令模式"
+    ],
+    "count": 425,
+    "docs": 23
+  },
+  {
+    "line": 544,
+    "name": "迭代器",
+    "has_meta": false,
+    "keywords": [
+      "迭代器"
+    ],
+    "count": 354,
+    "docs": 21
+  },
+  {
+    "line": 545,
+    "name": "备忘录",
+    "has_meta": false,
+    "keywords": [
+      "备忘录"
+    ],
+    "count": 499,
+    "docs": 29
+  },
+  {
+    "line": 546,
+    "name": "模板方法",
+    "has_meta": false,
+    "keywords": [
+      "模板方法"
+    ],
+    "count": 204,
+    "docs": 19
+  },
+  {
+    "line": 547,
+    "name": "访问者",
+    "has_meta": false,
+    "keywords": [
+      "访问者"
+    ],
+    "count": 754,
+    "docs": 27
+  },
+  {
+    "line": 548,
+    "name": "解释器",
+    "has_meta": false,
+    "keywords": [
+      "解释器"
+    ],
+    "count": 431,
+    "docs": 31
+  },
+  {
+    "line": 562,
+    "name": "层级",
+    "has_meta": true,
+    "keywords": [
+      "层级"
+    ],
+    "count": 262,
+    "docs": 40
+  },
+  {
+    "line": 567,
+    "name": "著作权",
+    "has_meta": false,
+    "keywords": [
+      "著作权",
+      "版权"
+    ],
+    "count": 1108,
+    "docs": 29
+  },
+  {
+    "line": 568,
+    "name": "专利权",
+    "has_meta": false,
+    "keywords": [
+      "专利"
+    ],
+    "count": 743,
+    "docs": 35
+  },
+  {
+    "line": 569,
+    "name": "商标权",
+    "has_meta": true,
+    "keywords": [
+      "商标"
+    ],
+    "count": 566,
+    "docs": 27
+  },
+  {
+    "line": 574,
+    "name": "职务作品",
+    "has_meta": false,
+    "keywords": [
+      "职务作品"
+    ],
+    "count": 66,
+    "docs": 18
+  },
+  {
+    "line": 575,
+    "name": "合理使用",
+    "has_meta": true,
+    "keywords": [
+      "合理使用"
+    ],
+    "count": 27,
+    "docs": 11
+  },
+  {
+    "line": 582,
+    "name": "考法",
+    "has_meta": false,
+    "keywords": [
+      "考法"
+    ],
+    "count": 594,
+    "docs": 29
+  },
+  {
+    "line": 583,
+    "name": "策略",
+    "has_meta": true,
+    "keywords": [
+      "策略"
+    ],
+    "count": 3482,
+    "docs": 114
+  },
+  {
+    "line": 604,
+    "name": "父图子图平衡",
+    "has_meta": false,
+    "keywords": [
+      "父图子图平衡"
+    ],
+    "count": 4,
+    "docs": 4
+  }
+]

@@ -1,0 +1,25 @@
+﻿
+[CMMI] 5个结果
+  - <em class="keyword">CMMI</em>基础知识扫盲 | 彼时_流年若水
+  - <em class="keyword">CMMI</em>就是搞一套超复杂文档管 | 大火球老师
+  - 软件研发能力成熟度（<em class="keyword">CMMI</em>） | 大火球老师
+
+[Cache命中率] 5个结果
+  - 1个视频搞定所有<em class="keyword">cache</em>地址 | 木子老师408
+  - 15分钟搞定408真题系列 | 【<em class="keyword">Cac | 珞研银盐学长
+  - 【计组 | <em class="keyword">Cache</em>】30m | _不是小火龙
+
+[系统可靠性] 5个结果
+  - <em class="keyword">可靠性</em>工程基础【全40讲】【西 | 爱学习的小刚子
+  - 2.18  串联<em class="keyword">系统</em>与并联<e | 金小贱Z
+  - 电力<em class="keyword">系统可靠性</em>原理与应用 | 张沛的电力系统实验室
+
+[编译原理] 5个结果
+  - 【<em class="keyword">编译原理</em>】哈工大公开课（高清 | 荟呀荟学习
+  - 【零基础】<em class="keyword">编译原理</em>期末速成 | 猫百璃MAOgerX
+  - <em class="keyword">编译原理</em>实战：从词法分析到<e | 简单-编程
+
+[软件设计师冲刺] 5个结果
+  - <em class="keyword">冲刺</em>复习：26年10月软考中级 | 半岛阳光xy
+  - 【有套路地拿证】2026 年<em class="keyword">软件设计师< | 软件设计师_Mango教练
+  - 2026软考中级<em class="keyword">软件设计师</em>(一 | 晓宇老师的IT课堂
