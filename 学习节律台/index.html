@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>学习节律台</title>
+<style>
+:root{
+  --bg:#FBFAF7; --card:#FFFFFF; --line:rgba(0,0,0,.12); --line2:rgba(0,0,0,.06);
+  --ink:#2C2C2A; --ink2:#5F5E5A; --ink3:#888780;
+  --teal:#0F6E56; --teal-bg:#E1F5EE; --amber:#854F0B; --amber-bg:#FAEEDA;
+  --gray:#5F5E5A; --gray-bg:#F1EFE8; --blue:#185FA5; --blue-bg:#E6F1FB;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",sans-serif;font-size:13px;line-height:1.6}
+.wrap{max-width:880px;margin:0 auto;padding:24px 20px 40px}
+h1{font-size:15px;font-weight:500;margin:0}
+.top{display:flex;align-items:center;gap:10px;margin-bottom:20px}
+.pill{font-size:12px;padding:2px 10px;border-radius:999px;background:var(--gray-bg);color:var(--gray)}
+.pill.on{background:var(--teal-bg);color:var(--teal)}
+.pill.warn{background:var(--amber-bg);color:var(--amber)}
+.pill.off{background:var(--gray-bg);color:var(--ink3)}
+.hero{display:flex;align-items:center;gap:20px;background:var(--card);border:.5px solid var(--line);border-radius:12px;padding:20px 24px}
+.dot{width:18px;height:18px;border-radius:50%;background:var(--teal);flex:0 0 auto;opacity:.3}
+.bpm{font-size:44px;font-weight:500;line-height:1;letter-spacing:-1px}
+.bpm small{font-size:13px;font-weight:400;color:var(--ink2);margin-left:4px}
+.hero .meta{margin-left:auto;text-align:right;color:var(--ink2);font-size:12px}
+.hero .meta b{display:block;font-size:13px;font-weight:500;color:var(--ink)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-top:16px}
+.card{background:var(--gray-bg);border-radius:8px;padding:12px 14px}
+.card .k{font-size:12px;color:var(--ink2)}
+.card .v{font-size:22px;font-weight:500;line-height:1.3}
+.card .u{font-size:12px;color:var(--ink3);font-weight:400;margin-left:3px}
+.panel{background:var(--card);border:.5px solid var(--line);border-radius:12px;padding:16px 20px;margin-top:16px}
+.panel h2{font-size:13px;font-weight:500;margin:0 0 12px;color:var(--ink2)}
+canvas{width:100%;height:90px;display:block}
+.ctl{display:flex;flex-wrap:wrap;gap:16px;align-items:flex-end}
+.ctl label{font-size:12px;color:var(--ink2);display:block;margin-bottom:4px}
+button{border:.5px solid rgba(0,0,0,.25);background:transparent;color:var(--ink);border-radius:8px;padding:7px 14px;font-size:13px;cursor:pointer;font-family:inherit}
+button:hover{background:var(--gray-bg)}
+button.primary{border-color:var(--teal);color:var(--teal)}
+input[type=range]{width:150px}
+select{border:.5px solid rgba(0,0,0,.2);border-radius:8px;padding:6px 10px;font-size:13px;background:var(--card);color:var(--ink);font-family:inherit;max-width:200px}
+.foot{margin-top:20px;font-size:12px;color:var(--ink3)}
+.foot code{background:var(--gray-bg);padding:1px 5px;border-radius:4px}
+.scale{display:flex;justify-content:space-between;font-size:11px;color:var(--ink3);margin-top:4px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <h1>学习节律台</h1>
+    <span class="pill off" id="pill">连接中</span>
+    <span class="pill" id="srcpill" style="background:var(--blue-bg);color:var(--blue)">数据源 —</span>
+  </div>
+
+  <div class="hero">
+    <span class="dot" id="dot"></span>
+    <div>
+      <div class="bpm"><span id="bpm">--</span><small>BPM</small></div>
+    </div>
+    <div class="meta">
+      <b id="status">等待数据</b>
+      <span id="hint">—</span>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="card"><div class="k">当前连续活跃</div><div class="v"><span id="streak">0</span><span class="u">分钟</span></div></div>
+    <div class="card"><div class="k">距上次活动</div><div class="v"><span id="idle">—</span><span class="u">分钟</span></div></div>
+    <div class="card"><div class="k">今日对话</div><div class="v"><span id="msgs">0</span><span class="u">轮</span></div></div>
+    <div class="card"><div class="k">今日打卡</div><div class="v"><span id="pings">0</span><span class="u">次</span></div></div>
+    <div class="card"><div class="k">今日产出文件</div><div class="v"><span id="files">0</span><span class="u">个</span></div></div>
+  </div>
+
+  <div class="panel">
+    <h2>近 60 分钟活动节律</h2>
+    <canvas id="chart" width="1600" height="180"></canvas>
+    <div class="scale"><span>60 分钟前</span><span>30 分钟前</span><span>现在</span></div>
+  </div>
+
+  <div class="panel">
+    <h2>音乐引擎 · 合成节拍 + MP3 背景</h2>
+    <div class="ctl">
+      <button class="primary" id="play">播放</button>
+      <button id="ping" title="自习时按一下，算一次活动">打卡 +1</button>
+      <div>
+        <label>总音量 <span id="volv">70</span>%</label>
+        <input type="range" id="vol" min="0" max="100" value="70">
+      </div>
+      <div>
+        <label>背景 MP3（assets/ 目录）</label>
+        <select id="mp3"><option value="">— 无背景乐，仅节拍 —</option></select>
+      </div>
+      <div>
+        <label>或临时选本地文件</label>
+        <input type="file" id="file" accept="audio/*" style="font-size:12px;max-width:190px">
+      </div>
+    </div>
+    <div class="foot">节拍速度与音量由左侧活动状态实时驱动；空闲超过 3 分钟开始渐慢，20 分钟降到底。背景 MP3 不改变速率（避免变调），只随活动调整音量。</div>
+  </div>
+
+  <div class="foot">
+    数据源：<code>~/.workbuddy/projects/&lt;工作区&gt;/*.jsonl</code>（对话节律）+ 工作区文件修改时间（学习产出）。
+    全部本地读取，不上传任何内容。
+  </div>
+</div>
+
+<script>
+var S={bpm:60,volume:0,status:'',hint:'',timeline:[],today:{},sources:{},idle_min:null,streak_min:0,intensity:0};
+var playing=false,master=0.7,cur={bpm:60,vol:0};
+var ctx=null,nextBeat=0,beatIdx=0,loopTimer=null;
+var bg=document.getElementById('bg')||new Audio();
+bg.loop=true;
+
+var el=function(id){return document.getElementById(id)};
+function setPill(t,cls){var p=el('pill');p.textContent=t;p.className='pill '+(cls||'')}
+
+async function pull(){
+  try{
+    var r=await fetch('/api/state',{cache:'no-store'});
+    var j=await r.json();
+    Object.assign(S,j);
+    cur.bpm=j.bpm; cur.vol=j.volume*master;
+    render();
+  }catch(e){setPill('服务未连接','off');el('status').textContent='等待服务';}
+}
+
+function render(){
+  el('bpm').textContent=S.bpm;
+  el('status').textContent=S.status;
+  el('hint').textContent=S.hint;
+  el('streak').textContent=S.streak_min;
+  el('idle').textContent=(S.idle_min===null?'—':S.idle_min.toFixed(0));
+  el('msgs').textContent=S.today.user_msgs||0;
+  el('pings').textContent=S.today.pings||0;
+  el('files').textContent=S.today.files||0;
+  el('srcpill').textContent='数据源 '+S.sources.events+' 事件 / '+S.sources.workspace_files+' 文件';
+  var ramp=(typeof S.ramp==='number')?S.ramp:1;
+  if(ramp<=0.01)setPill('降至最缓','off');
+  else if(ramp<1)setPill('慢下来了','warn');
+  else setPill('监测中','on');
+  el('dot').style.background=ramp>0.5?'var(--teal)':'var(--gray)';
+  draw();
+}
+
+function draw(){
+  var c=el('chart'),g=c.getContext('2d'),W=c.width,H=c.height;
+  g.clearRect(0,0,W,H);
+  var d=S.timeline||[],n=d.length||1,bw=W/n;
+  g.fillStyle='rgba(0,0,0,.04)';
+  g.fillRect(0,H-2,W,2);
+  for(var i=0;i<n;i++){
+    var h=Math.max(4,d[i]*H*0.92),x=i*bw+bw*0.18,w=bw*0.64;
+    g.fillStyle=d[i]>0.66?'#0F6E56':(d[i]>0.25?'#5DCAA5':'#9FE1CB');
+    if(d[i]<=0)g.fillStyle='rgba(0,0,0,.06)';
+    g.fillRect(x,H-h,w,h);
+  }
+}
+
+function initAudio(){
+  if(!ctx)ctx=new (window.AudioContext||window.webkitAudioContext)();
+  if(ctx.state==='suspended')ctx.resume();
+}
+function kick(t,gg){
+  var o=ctx.createOscillator(),ga=ctx.createGain();
+  o.frequency.setValueAtTime(150,t);
+  o.frequency.exponentialRampToValueAtTime(45,t+0.11);
+  ga.gain.setValueAtTime(Math.max(gg,0.0001),t);
+  ga.gain.exponentialRampToValueAtTime(0.0001,t+0.22);
+  o.connect(ga);ga.connect(ctx.destination);o.start(t);o.stop(t+0.24);
+}
+function hat(t,gg){
+  var n=Math.floor(ctx.sampleRate*0.04),buf=ctx.createBuffer(1,n,ctx.sampleRate),ch=buf.getChannelData(0);
+  for(var i=0;i<n;i++)ch[i]=(Math.random()*2-1)*Math.pow(1-i/n,3);
+  var src=ctx.createBufferSource();src.buffer=buf;
+  var ga=ctx.createGain();ga.gain.value=Math.max(gg,0);
+  src.connect(ga);ga.connect(ctx.destination);src.start(t);
+}
+function pulse(){
+  var d=el('dot');
+  d.style.transition='transform .09s, opacity .09s';
+  d.style.transform='scale(1.75)';d.style.opacity='1';
+  setTimeout(function(){d.style.transform='scale(1)';d.style.opacity=((typeof S.ramp==='number'?S.ramp:1)>0.5)?'0.75':'0.25'},90);
+}
+function schedule(t,i){
+  var v=cur.vol,accent=(i%4===0);
+  if(v>0.01){
+    kick(t,accent?v*1.2:v*0.85);
+    if(v>0.06)hat(t+(60/cur.bpm)/2,accent?v*0.5:v*0.28);
+  }
+  var ms=Math.max(0,(t-ctx.currentTime)*1000);
+  if(ms<600)setTimeout(pulse,ms);
+}
+function loop(){
+  if(!playing)return;
+  var look=ctx.currentTime+0.25;
+  var guard=0;
+  while(nextBeat<look&&guard++<8){
+    schedule(nextBeat,beatIdx);
+    nextBeat+=60/Math.max(cur.bpm,20);
+    beatIdx++;
+  }
+  if(bg.src)bg.volume=Math.min(1,cur.vol*1.15);
+  loopTimer=setTimeout(loop,80);
+}
+el('play').addEventListener('click',function(){
+  if(!playing){
+    initAudio();
+    playing=true;nextBeat=ctx.currentTime+0.06;beatIdx=0;
+    this.textContent='停止';
+    if(bg.src)bg.play().catch(function(){});
+    loop();
+  }else{
+    playing=false;clearTimeout(loopTimer);
+    this.textContent='播放';
+    bg.pause();
+  }
+});
+el('vol').addEventListener('input',function(){
+  master=this.value/100;el('volv').textContent=this.value;
+  cur.vol=S.volume*master;
+});
+el('mp3').addEventListener('change',function(){
+  if(!this.value){bg.removeAttribute('src');bg.pause();return;}
+  bg.src='/assets/'+encodeURIComponent(this.value);
+  if(playing)bg.play().catch(function(){});
+});
+el('file').addEventListener('change',function(){
+  var f=this.files&&this.files[0];if(!f)return;
+  bg.src=URL.createObjectURL(f);
+  if(playing)bg.play().catch(function(){});
+});
+el('ping').addEventListener('click',async function(){
+  var b=this;b.textContent='已记录';
+  try{await fetch('/api/ping',{cache:'no-store'});await pull();}catch(e){}
+  setTimeout(function(){b.textContent='打卡 +1'},700);
+});
+async function loadAssets(){
+  try{
+    var r=await fetch('/api/assets',{cache:'no-store'});
+    var list=await r.json();
+    var sel=el('mp3');
+    list.forEach(function(n){
+      var o=document.createElement('option');o.value=n;o.textContent=n;sel.appendChild(o);
+    });
+    if(list.length){sel.value=list[0];bg.src='/assets/'+encodeURIComponent(list[0]);}
+  }catch(e){}
+}
+pull();loadAssets();
+setInterval(pull,4000);
+</script>
+</body>
+</html>

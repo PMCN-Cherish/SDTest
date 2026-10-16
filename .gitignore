@@ -5,3 +5,12 @@
 # 公开再分发视频转写内容有版权风险，暂不入库。
 # 若日后仓库转私有，删掉下面这行，再执行 git add -A && git commit 即可补传。
 软考特攻/字幕/
+
+# 学习节律台：本地音频（可能涉版权）与本机打卡记录，不入库
+学习节律台/assets/*.mp3
+学习节律台/assets/*.m4a
+学习节律台/assets/*.wav
+学习节律台/assets/*.flac
+学习节律台/assets/*.ogg
+学习节律台/assets/*.aac
+学习节律台/manual-pings.jsonl
